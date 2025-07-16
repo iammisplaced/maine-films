@@ -1,0 +1,1392 @@
+[
+  {
+    "title": "The Phoenician Scheme",
+    "showtimes": [
+      {
+        "date": "2025-07-17",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-19",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-20",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-20",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/316205-the-phoenician-scheme/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/jtEqpy0K1iVuCebRwWqT6BZ6jLN.jpg",
+    "description": "Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists, and determined assassins."
+  },
+  {
+    "title": "Materialists",
+    "showtimes": [
+      {
+        "date": "2025-07-17",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-18",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-24",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-21",
+        "time": "14:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "14:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "14:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/326585-materialists/",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/materialists/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+    "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex."
+  },
+  {
+    "title": "Familiar Touch",
+    "showtimes": [
+      {
+        "date": "2025-07-18",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-18",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-19",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-19",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-20",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-24",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/1000000249-familiar-touch/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/zUKpIGBCiUTyFTEPJxc7nJtLU3P.jpg",
+    "description": "Familiar Touch is a coming of (old) age film. It follows an octogenarian woman\u2019s transition to life in assisted living as she contends with her conflicting desires and self-narratives amidst her shifting age identity and memory."
+  },
+  {
+    "title": "The Grateful Dead Movie 2025 Meet-Up",
+    "showtimes": [
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-16",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-09-07",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-09-07",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-09-07",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-16",
+        "time": "12:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/1000006432-the-grateful-dead-movie-2025-meet-up/",
+      "strand": "https://strandfilms.eventive.org/films/684ab9e529f060d5b044af26",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-grateful-dead-movie-2025-meet-up/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/rpddAqHJXYGWfGWeYvi6EKIjLho.jpg",
+    "description": ""
+  },
+  {
+    "title": "Close Encounters of the Third Kind",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/881-close-encounters-of-the-third-kind/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+    "description": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen."
+  },
+  {
+    "title": "In the Bedroom",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/36756-in-the-bedroom/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+    "description": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy."
+  },
+  {
+    "title": "Eddington",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      },
+      {
+        "date": "2025-07-25",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/317620-eddington/",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/eddington/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+    "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
+  },
+  {
+    "title": "Woodstock (1970)",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/2634-woodstock-1970/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
+    "description": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000."
+  },
+  {
+    "title": "My Mother\u2019s Wedding",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/253816-my-mothers-wedding/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/mQqgnF7iYX7j5OB1i6XFHmn5iiw.jpg",
+    "description": "Three sisters return to their home for the third wedding of their twice-widowed mother. But the mother and daughters are forced to revisit the past and confront the future, with help from a colorful group of unexpected wedding guests."
+  },
+  {
+    "title": "Highest 2 Lowest",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/326625-highest-2-lowest/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/eMmZYH3i2mYElGmqa07mP6PTQvn.jpg",
+    "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma."
+  },
+  {
+    "title": "Hors du temps",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/325656-hors-du-temps/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/xln0VwS4h0uHl8XMW2fCmvv3YDG.jpg",
+    "description": "A film director returns to his childhood home in provincial France with his brother and his girlfriend and discovers isolation to be an artistic curative."
+  },
+  {
+    "title": "Everything's Going to Be Great",
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-17",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/68504b691dd140055f48113b"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/s8McJCLGntK15zFFUYBipjneXth.jpg",
+    "description": "When they are unexpectedly forced to move in with an estranged relative, the Smart Family must navigate oversized dreams, identity struggles and regional theater in this warmly observant family comedy."
+  },
+  {
+    "title": "Granite Rapids Moon",
+    "showtimes": [
+      {
+        "date": "2025-07-17",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/68345349e8250f29fd0241ec"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/yzoiOcoi34PGu0F9oRJUbxBiTvY.jpg",
+    "description": "A happily married father of two, shaken by a message written in a birthday card for his daughter, abruptly leaves his family for a week-long hike through the Grand Canyon. Following his solo trek, we see his memories of an earlier trip through the Grand Canyon with a different woman."
+  },
+  {
+    "title": "The Last Class",
+    "showtimes": [
+      {
+        "date": "2025-07-18",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-19",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-20",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-24",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/6859604fd45d7287dcdad316"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/xoX69VuEJ5H51dqC3nKQbiZNQd0.jpg",
+    "description": "American political economist, professor, author, and social media sensation Robert Reich teaches his final \"Wealth and Poverty\" class to 1,000 students at UC Berkeley, ending a 40-year career that reached 40,000 students. One thousand fill the biggest lecture hall on the UC Berkeley campus, the last class to receive Reich's wisdom and exhortations not to accept that the world has to stay the way it is. His belief in the next generation's ability to take on the fight is inspiring."
+  },
+  {
+    "title": "Bad Shabbos",
+    "showtimes": [
+      {
+        "date": "2025-07-19",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-20",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-20",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-22",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-23",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-24",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-21",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/6859430ce037ef20e5a28723",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/bad-shabbos/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/nty7gqq9Rd7ce0Uu8kSTavOmVcd.jpg",
+    "description": "An engaged interfaith couple are about to have their parents meet for the first time over a Shabbat dinner when an accidental manslaughter gets in the way."
+  },
+  {
+    "title": "Sorry, Baby",
+    "showtimes": [
+      {
+        "date": "2025-07-25",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-29",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-29",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-30",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-01",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-02",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-05",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-06",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-25",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/687513b00829fe6c2b6bb629",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/sorry-baby/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
+    "description": "Something bad happened to Agnes. But life goes on\u2026 for everyone around her, at least."
+  },
+  {
+    "title": "Rockland: A Maritime Heritage",
+    "showtimes": [
+      {
+        "date": "2025-07-31",
+        "time": "20:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-01",
+        "time": "20:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-02",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-03",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/68504bd1ac428c331090f41a"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/24oKyaoN7E1eC2TM9qChyTfmxmc.jpg",
+    "description": "The history of the city of Rockland from its settlement as part of Thomaston to the city it is today, tracing the ebbs and flows of its evolution through its ties to the sea."
+  },
+  {
+    "title": "The Ghost Trap",
+    "showtimes": [
+      {
+        "date": "2025-08-01",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-02",
+        "time": "20:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-03",
+        "time": "20:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/68504b75aafd3d07bdea9cc5"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/1FPUKh7NLfOttF1IfFgL8cvcEqe.jpg",
+    "description": "The story of Jamie Eugley, a young lobsterman struggling with the grinding responsibilities of a head-injured fianc\u00e9e and a mounting trap war with a rival lobstering family."
+  },
+  {
+    "title": "CatVideoFest 2025",
+    "showtimes": [
+      {
+        "date": "2025-08-10",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-14",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-14",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-15",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/6852a57cfb48455a7a6a649a",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/catvideofest-2025/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/adTpEaEreXipcAvJJH92v8JrHQM.jpg",
+    "description": "The world\u2019s #1 cat video festival, CatVideoFest is back!"
+  },
+  {
+    "title": "76 Days Adrift",
+    "showtimes": [
+      {
+        "date": "2025-08-24",
+        "time": "18:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/683dc3bbeb87a7c928af2d13"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/xh7ysljRvXVs74sSm3Rhmji0Fw6.jpg",
+    "description": "Steven Callahan gives a gripping first-hand account of his NYT bestselling novel \"Adrift: 76 Days Lost At Sea.\" On the eve of February 4, 1982, in the middle of the night there was a loud boom as a whale collided with Steven's boat. Within minutes, his small craft was flooded with a rush of water. He grabbed what he could, heaved his life raft into the ocean, and snatched his emergency kit. Without food or water, for an incredible 76 days the inflatable raft was his home as he drifted across the entire Atlantic Ocean. Forced to come to terms with his own shortcomings and limitations, Steven finds a strength he never knew he had. This official documentary, executive produced by Callahan, brings the story to life with found 8MM footage, original stills of the time of the voyage, and first-person recreation. Still possessing many of the original artifacts, he takes us step-by-step through his harrowing and life-altering adventure."
+  },
+  {
+    "title": "Meet Cute in Manhattan",
+    "showtimes": [
+      {
+        "date": "2025-09-06",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/68248abf13f423ba5a35de3c"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/buXUmVD2becJtXfdlPGqkAG9qM2.jpg",
+    "description": "When an actor finds love with his co-star in a dating app commercial that unexpectedly goes viral, he finds himself at the center of the rom-com story he's always dreamed of."
+  },
+  {
+    "title": "The Life of Chuck",
+    "showtimes": [
+      {
+        "date": "2025-07-21",
+        "time": "14:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "16:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "14:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "16:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "14:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "16:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-life-of-chuck/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "description": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us."
+  },
+  {
+    "title": "The Search for Signs of Intelligent Life in the Universe",
+    "showtimes": [
+      {
+        "date": "2025-07-24",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-search-for-signs-of-intelligent-life-in-the-universe/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/6ylOY1DD9b8qe9P7N7FVKv5HlSv.jpg",
+    "description": "The filmed version of the one-woman stage show written by Jane Wagner and starring Lily Tomlin, which won the Drama Desk Award for Unique Theatrical Experience. The film stays true to the original stage performance. For her efforts on film and stage, Tomlin received a Tony Award, and Funniest Actress in a Motion Picture in the American Comedy Awards."
+  },
+  {
+    "title": "National Theatre Live: Inter Alia",
+    "showtimes": [
+      {
+        "date": "2025-09-27",
+        "time": "12:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/national-theatre-live-inter-alia/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/no0EaB8SUBcQQMcB3sZ6HbUmykZ.jpg",
+    "description": "Jessica Parks is smart, compassionate, a true maverick at the top of her career as an eminent London Crown Court Judge. At work she\u2019s changing and challenging the system one case at a time. But behind the robe, Jessica is a karaoke fiend, a loving wife and a supportive parent. While managing the impossible juggling act faced by every working mother, an event threatens to throw her life completely off balance. Can she hold her family upright?"
+  },
+  {
+    "title": "28th Maine International Film Festival",
+    "showtimes": [],
+    "film_urls": {},
+    "poster": "",
+    "description": ""
+  },
+  {
+    "title": "Maine Student Film + Video Festival",
+    "showtimes": [],
+    "film_urls": {},
+    "poster": "",
+    "description": ""
+  },
+  {
+    "title": "We Are Guardians",
+    "showtimes": [
+      {
+        "date": "2025-08-15",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/we-are-guardians/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/ootRSA1GBKy8MVkUHQXYiLxfehc.jpg",
+    "description": ""
+  },
+  {
+    "title": "Downton Abbey: The Grand Finale",
+    "showtimes": [
+      {
+        "date": "2025-09-12",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/downton-abbey-the-grand-finale/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/bux6avxSvsO3IJuKag4gwdTQMG4.jpg",
+    "description": "When Mary finds herself at the center of a public scandal and the family faces financial trouble, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future."
+  },
+  {
+    "title": "BOYS DON\u2019T CRY",
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/boys-dont-cry"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+    "description": "A young transgender man explores his gender identity and searches for love in rural Nebraska."
+  },
+  {
+    "title": "Here Is Your Life",
+    "showtimes": [
+      {
+        "date": "2025-07-23",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/here-is-your-life"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/38avk1EQKfHkKkA0UVYjcFZ93ML.jpg",
+    "description": "A working class teenager comes of age in 1910s rural Sweden, moving through a series of jobs and romances that gradually shape his future."
+  },
+  {
+    "title": "rififi",
+    "showtimes": [
+      {
+        "date": "2025-07-30",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/rififi"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/heVdAFNZUxXVmO6jiJcEHCvI5lK.jpg",
+    "description": "Out of prison after a five-year stretch, jewel thief Tony turns down a quick job his friend Jo offers him, until he discovers that his old girlfriend Mado has become the lover of local gangster Pierre Grutter during Tony's absence. Expanding a minor smash-and-grab into a full-scale jewel heist, Tony and his crew appear to get away clean, but their actions after the job is completed threaten the lives of everyone involved."
+  },
+  {
+    "title": "ASHES AND DIAMONDS",
+    "showtimes": [
+      {
+        "date": "2025-08-06",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/ashes-and-diamonds"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/nE8aqRvVnRQEqskiarnFhdJdk8g.jpg",
+    "description": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales."
+  },
+  {
+    "title": "THE TRIAL",
+    "showtimes": [
+      {
+        "date": "2025-08-13",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/en-US/ticketing/the-trial"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/v5Kr4MvmqbBwS7a1CXFAsISmQCr.jpg",
+    "description": "England, 1890s. The brutal and embittered Marquis of Queensberry, who believes that his youngest son, Bosie, has an inappropriate relationship with the famous Irish writer Oscar Wilde, maintains an ongoing feud with the latter in order to ruin his reputation and cause his fall from grace."
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "showtimes": [
+      {
+        "date": "2025-08-20",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/treasure-of-the-sierra-madre"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+    "description": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey."
+  },
+  {
+    "title": "The Long Goodbye",
+    "showtimes": [
+      {
+        "date": "2025-08-27",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/the-long-goodbye"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg",
+    "description": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife."
+  },
+  {
+    "title": "Invasion of the Body Snatchers",
+    "showtimes": [
+      {
+        "date": "2025-09-03",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-09-06",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/invasion-of-the-body-snatchers"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+    "description": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates."
+  },
+  {
+    "title": "On the Beach",
+    "showtimes": [
+      {
+        "date": "2025-09-17",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-09-20",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/en-US/ticketing/on-the-beach "
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/ma1WFq0Uxor6BHWSpWcITDiRtqu.jpg",
+    "description": "In 1964, atomic war wipes out humanity in the northern hemisphere; one American submarine finds temporary safe haven in Australia, where life-as-usual covers growing despair. In denial about the loss of his wife and children in the holocaust, American Captain Towers meets careworn but gorgeous Moira Davidson, who begins to fall for him. The sub returns after reconnaissance a month (or less) before the end; will Towers and Moira find comfort with each other?"
+  },
+  {
+    "title": "Kiss Me Deadly",
+    "showtimes": [
+      {
+        "date": "2025-09-10",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-09-13",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/kiss-me-deadly"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/z7me91nrpWLHY1mZOB2v20cK0zY.jpg",
+    "description": "One evening, Hammer gives a ride to Christina, an attractive hitchhiker on a lonely country road, who has escaped from the nearby lunatic asylum. Thugs waylay them and force his car to crash. When Hammer returns to semi-consciousness, he hears Christina being tortured until she dies. Hammer, both for vengeance and in hopes that \"something big\" is behind it all, decides to pursue the case."
+  },
+  {
+    "title": "North by Northwest",
+    "showtimes": [
+      {
+        "date": "2025-09-24",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-09-27",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/en-US/ticketing/north-by-northwest"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+    "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase."
+  },
+  {
+    "title": "No Way Out",
+    "showtimes": [
+      {
+        "date": "2025-10-01",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-10-04",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/en-US/ticketing/no-way-out"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/plRDHhcTwS6Z7ohWP39zgPRm7oX.jpg",
+    "description": "Two hoodlum brothers are brought into a hospital for gunshot wounds, and when one of them dies the other accuses their black doctor of murder."
+  },
+  {
+    "title": "Cul de sac",
+    "showtimes": [
+      {
+        "date": "2025-10-08",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-10-11",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/ticketing/cul-de-sac"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/jxNATC8t1rmrVMCMVMEAp41bgVm.jpg",
+    "description": "On the run and in search of help, two wounded gangsters find refuge in the secluded castle of a feeble man and his wife; however, under the point of a gun, nothing is what it seems."
+  },
+  {
+    "title": "Withnail and I",
+    "showtimes": [
+      {
+        "date": "2025-10-15",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-10-18",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/en-US/ticketing/withnail-and-i"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/i18cIp8A10A2JgByrfA9oIC9299.jpg",
+    "description": "Two out-of-work actors -- the anxious, luckless Marwood and his acerbic, alcoholic friend, Withnail -- spend their days drifting between their squalid flat, the unemployment office and the pub. When they take a holiday \"by mistake\" at the country house of Withnail's flamboyantly gay uncle, Monty, they encounter the unpleasant side of the English countryside: tedium, terrifying locals and torrential rain."
+  },
+  {
+    "title": "Tax Driver",
+    "showtimes": [
+      {
+        "date": "2025-10-22",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-10-25",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/en-US/ticketing/taxi-driver"
+    },
+    "poster": "",
+    "description": ""
+  },
+  {
+    "title": "Creature from the Black Lagoon",
+    "showtimes": [
+      {
+        "date": "2025-10-29",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-11-01",
+        "time": "19:00",
+        "venue": "Kinonik",
+        "venue_id": "kinonik",
+        "city": "Portland",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "kinonik": "https://www.zeffy.com/en-US/ticketing/creature-from-the-black-lagoon"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/euCzA2Exc70MpTDCVYih8tdE7z1.jpg",
+    "description": "When scientists exploring the Amazon River stumble on a \u201cmissing link\u201d connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fianc\u00e9e, Kay."
+  }
+]

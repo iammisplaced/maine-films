@@ -1,0 +1,20 @@
+{
+  "On the Beach": {
+    "year": 1959,
+    "description": "On the Beach is a 1959 American apocalyptic science fiction drama film, starring Gregory Peck, Ava Gardner, Fred Astaire, and Anthony Perkins. Produced and directed by Stanley Kramer, it is based on Nevil Shute's 1957 novel of the same title depicting the aftermath of a nuclear war. Unlike the novel, no one is assigned blame for starting the war, which attributes global annihilation to fear, compounded by accident or misjudgment.",
+    "poster": "",
+    "venues": ["kinonik"]
+  },
+  "Childish Things": {
+    "year": 2025,
+    "description": "",
+    "poster": "",
+    "venues": []
+  },
+  "2025 Sundance Film Festival Short Film Tour": {
+    "year": 2025,
+    "description": "The 2025 Sundance Film Festival Short Film Tour is a 100-minute theatrical program of seven short films curated from the 2025 Sundance Film Festival, including two Festival Award–winning titles. The tour program is a sampling of Festival offerings and a testament to the unique storytelling potential that the format holds. Audiences can enjoy a mix of fiction, documentary, and animated shorts that are funny, sad, inspiring, and full of strong characters.",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/193/2025/05/07144031/sff25-short-film-tour-poster-2-690x1024.png",
+    "venues": []
+  }
+} 

@@ -69,7 +69,7 @@ function App() {
   const [cardTransforms, setCardTransforms] = useState({}); // { idx: transformString }
 
   useEffect(() => {
-    fetch('/maine_showtimes.json')
+    fetch('https://raw.githubusercontent.com/iammisplaced/maine-films/main/maine_showtimes.json')
       .then(res => res.json())
       .then(data => setFilms(data));
   }, []);

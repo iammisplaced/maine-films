@@ -42,13 +42,6 @@
     "showtimes": [
       {
         "date": "2025-07-16",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-16",
         "time": "18:20",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -288,13 +281,6 @@
   {
     "title": "Jurassic World Rebirth",
     "showtimes": [
-      {
-        "date": "2025-07-16",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
       {
         "date": "2025-07-16",
         "time": "18:30",

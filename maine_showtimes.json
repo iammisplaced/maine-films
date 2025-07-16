@@ -1030,6 +1030,177 @@
     "description": "When Mary finds herself at the center of a public scandal and the family faces financial trouble, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future."
   },
   {
+    "title": "Little, Big, and Far",
+    "showtimes": [
+      {
+        "date": "2025-07-21",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/little-big-and-far/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/ptXXCmUCwFdDWjFtZsa2eqxdOu4.jpg",
+    "description": "Karl, a 70-year-old Austrian astronomer, is at a crossroads in life and work. After a conference in Greece, he decides not to return home and heads for a small island in hopes of finding a sky dark enough to reconnect with the stars."
+  },
+  {
+    "title": "Realm of Satan",
+    "showtimes": [
+      {
+        "date": "2025-07-30",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/realm-of-satan/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/hjLXs30MMKh73XFpi8gkYOUFcik.jpg",
+    "description": "An experiential portrait depicting Satanists in both the everyday and in the extraordinary as they fight to preserve their lifestyle: magic, mystery, and misanthropy."
+  },
+  {
+    "title": "MOFF: Turtle Walker, Canoe Dig It?",
+    "showtimes": [
+      {
+        "date": "2025-07-24",
+        "time": "18:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-07-24",
+        "time": "20:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/moff-thurs-2025/"
+    },
+    "poster": "",
+    "description": ""
+  },
+  {
+    "title": "MOFF: Milkweed Program (Shorts), Snail Hunters, Kai Jones\u2019 Falling Into Place, Fairy Creek",
+    "showtimes": [
+      {
+        "date": "2025-07-27",
+        "time": "14:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "16:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "20:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/moff-sun-2025/"
+    },
+    "poster": "",
+    "description": ""
+  },
+  {
+    "title": "2025 Sundance Film Festival Short Film Tour",
+    "showtimes": [
+      {
+        "date": "2025-08-10",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "16:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/2025-sundance-film-festival-short-film-tour/"
+    },
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/193/2025/05/07144031/sff25-short-film-tour-poster-2-690x1024.png",
+    "description": "The 2025 Sundance Film Festival Short Film Tour is a 100-minute theatrical program of seven short films curated from the 2025 Sundance Film Festival, including two Festival Award\u2013winning titles. The tour program is a sampling of Festival offerings and a testament to the unique storytelling potential that the format holds. Audiences can enjoy a mix of fiction, documentary, and animated shorts that are funny, sad, inspiring, and full of strong characters."
+  },
+  {
+    "title": "Monk In Pieces",
+    "showtimes": [
+      {
+        "date": "2025-08-06",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/monk-in-pieces/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/tK3OYJLFUusWULAOlI8IEfuW8II.jpg",
+    "description": "Visionary composer and performer Meredith Monk overcame hostile critics to become one of the great artists of her time. In her seventh decade of creativity, she ponders how her unique work can continue without her."
+  },
+  {
+    "title": "Boys Go To Jupiter",
+    "showtimes": [
+      {
+        "date": "2025-08-29",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/boys-go-to-jupiter/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/3dTnNYq0TZYkTLqRXgHz3OBxcFA.jpg",
+    "description": "A teenager in suburban Florida desperately hustles to make $5,000 in this dreamy and surreal animated coming-of-age story."
+  },
+  {
+    "title": "It\u2019s Never Over, Jeff Buckley",
+    "showtimes": [
+      {
+        "date": "2025-08-08",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/its-never-over-jeff-buckley/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/9ijvplefhu6yx4wS0mOzDbbmbr3.jpg",
+    "description": "Rising musician Jeff Buckley had only released one album when he died suddenly in 1997. Now, never-before-seen footage, exclusive voice messages, and accounts from those closest to him offer a portrait of the captivating singer."
+  },
+  {
     "title": "BOYS DON\u2019T CRY",
     "showtimes": [
       {

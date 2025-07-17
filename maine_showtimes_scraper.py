@@ -10,7 +10,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from urllib.parse import urljoin
 import re
-from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from space_gallery_scraper import scrape_space_gallery
 from eveningstar_scraper import get_eveningstar_showtimes
 from strand_scraper import get_strand_showtimes

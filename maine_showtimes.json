@@ -2502,12 +2502,12 @@
     "title": "BOYS DON\u2019T CRY",
     "showtimes": [
       {
-        "date": "2025-07-16",
-        "time": "19:00",
+        "date": "",
+        "time": null,
         "venue": "Kinonik",
         "venue_id": "kinonik",
         "city": "Portland",
-        "coming_soon": false
+        "coming_soon": true
       }
     ],
     "film_urls": {

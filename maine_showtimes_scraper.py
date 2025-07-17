@@ -101,7 +101,22 @@ def get_tmdb_info(title, film=None):
             film_overrides = json.load(f)
     except Exception:
         pass
-    override = film_overrides.get(title)
+    # Normalize override keys for robust matching
+    normalized_overrides = {normalize_title(k): v for k, v in film_overrides.items()}
+    norm_title = normalize_title(title)
+    override = normalized_overrides.get(norm_title)
+    # Fuzzy match if no exact match
+    if not override and normalized_overrides:
+        min_dist = float('inf')
+        best_key = None
+        for k in normalized_overrides:
+            dist = levenshtein(norm_title, k)
+            if dist < min_dist:
+                min_dist = dist
+                best_key = k
+        # Use a threshold of 2 for fuzzy match
+        if best_key is not None and min_dist <= 2:
+            override = normalized_overrides[best_key]
     venue_id = None
     if film:
         # Try to get the first venue_id from showtimes or film_urls

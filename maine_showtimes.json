@@ -1,1007 +1,9 @@
 [
   {
-    "title": "Eddington",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      },
-      {
-        "date": "2025-07-25",
-        "time": null,
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/eddington",
-      "X020R": "https://www.eveningstarcinema.com/movies/317620-eddington/",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/eddington/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
-    "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
-  },
-  {
-    "title": "I Know What You Did Last Summer",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/i-know-what-you-did-last-summer"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg",
-    "description": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer\u2026and is hell-bent on revenge."
-  },
-  {
-    "title": "Mr. Blake At Your Service!",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/mr-blake-at-your-service"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
-    "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
-  },
-  {
-    "title": "Superman",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "14:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "19:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/superman"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
-    "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent."
-  },
-  {
-    "title": "Jurassic World Rebirth",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/jurassic-world-rebirth"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/q0fGCmjLu42MPlSO9OYWpI5w86I.jpg",
-    "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades."
-  },
-  {
-    "title": "F1",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "13:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/f1"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
-    "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team\u2014and mentor a young hotshot driver\u2014while chasing one more chance at glory."
-  },
-  {
-    "title": "28 Years Later",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/28-years-later"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/8UdOukfuqbsCgvQGB8L2TaXeLFW.jpg",
-    "description": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well."
-  },
-  {
-    "title": "Materialists",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "16:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-07-24",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "14:30",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-21",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-21",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-23",
-        "time": "14:30",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-23",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-23",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "14:30",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/materialists",
-      "X020R": "https://www.eveningstarcinema.com/movies/326585-materialists/",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/materialists/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
-    "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex."
-  },
-  {
     "title": "The Phoenician Scheme",
     "showtimes": [
       {
         "date": "2025-07-17",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "20:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "20:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "20:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "20:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "20:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-17",
         "time": "19:00",
         "venue": "Eveningstar Cinema",
         "venue_id": "X020R",
@@ -1030,566 +32,102 @@
       }
     ],
     "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/the-phoenician-scheme",
       "X020R": "https://www.eveningstarcinema.com/movies/316205-the-phoenician-scheme/"
     },
     "poster": "https://image.tmdb.org/t/p/w500/jtEqpy0K1iVuCebRwWqT6BZ6jLN.jpg",
     "description": "Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists, and determined assassins."
   },
   {
-    "title": "Bad Shabbos",
+    "title": "Materialists",
     "showtimes": [
       {
-        "date": "2025-07-18",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "15:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "17:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "19:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "15:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "17:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "19:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "15:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "17:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "19:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "15:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "17:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "19:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "15:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "17:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "19:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "15:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "17:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "19:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "00:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "00:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "21:30",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "23:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "23:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-24",
-        "time": "23:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "15:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-21",
-        "time": "17:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-21",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-23",
-        "time": "15:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-23",
-        "time": "17:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-23",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "15:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "17:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/bad-shabbos",
-      "strand": "https://strandfilms.eventive.org/films/6859430ce037ef20e5a28723",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/bad-shabbos/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/nty7gqq9Rd7ce0Uu8kSTavOmVcd.jpg",
-    "description": "An engaged interfaith couple are about to have their parents meet for the first time over a Shabbat dinner when an accidental manslaughter gets in the way."
-  },
-  {
-    "title": "Don't Let's Go to the Dogs Tonight",
-    "showtimes": [
-      {
-        "date": "2025-07-18",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "18:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "18:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-20",
-        "time": "18:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "18:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "18:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/dont-lets-go-to-the-dogs-tonight"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/5V59yYkVfqrhMIcKGdJZRxqWb3H.jpg",
-    "description": "Growing up in the midst of the Zimbabwean War for independence, 8-year-old Bobo internalizes both sides of the struggle. Conflicted by her love for people on opposing sides, she tries to make sense of her life in a magical way."
-  },
-  {
-    "title": "Roger Waters: This Is Not a Drill \u2014 Live from Prague - The Movie",
-    "showtimes": [
-      {
-        "date": "2025-07-23",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-27",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/roger-waters-this-is-not-a-drill-live-from-prague-the-movie"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/6nDfCHIKXHBp4gCwHngdiCcZSQq.jpg",
-    "description": "Roger Waters, the creative force behind the golden years of Pink Floyd, presents his first Farewell Tour, \u201cThis Is Not A Drill\u201d, Live from Prague, in cinemas around the world.  This cinematic extravaganza is a stunning indictment of the corporate dystopia in which we all struggle to survive and will include 20 Pink Floyd and Roger Waters classic songs, including: \u201cUs & Them\u201d, \u201cComfortably Numb\u201d, \u201cWish You Were Here\u201d, and \u201cIs This The Life We Really Want?\u201d. Waters also debuts his new song, \u201cThe Bar\u201d.  Waters is joined on stage by Jonathan Wilson, Dave Kilminster, Jon Carin, Gus Seyffert, Robert Walter, Joey Waronker, Shanay Johnson, Amanda Belair and Seamus Blake to deliver an unforgettable performance with a call to action to love, protect, and share our precious planet home."
-  },
-  {
-    "title": "Other Side",
-    "showtimes": [
-      {
-        "date": "2025-07-28",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/other-side"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/vCr6EjPAeuxKKY9qr7rREkOOizQ.jpg",
-    "description": "Activist Lynda Bluestein contemplates how to legally end her life - her landmark lawsuit made Medical Aid in Dying in Vermont accessible to anyone in the United States. This is an intimate portrait of finding a way to die peacefully in the U.S."
-  },
-  {
-    "title": "Monty Python and the Holy Grail",
-    "showtimes": [
-      {
-        "date": "2025-07-30",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/monty-python-and-the-holy-grail"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/hWx1ANiWEWWyzKPN0us35HCGnhQ.jpg",
-    "description": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\"."
-  },
-  {
-    "title": "Childish Things",
-    "showtimes": [
-      {
-        "date": "2025-08-11",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/childish-things"
-    },
-    "poster": "",
-    "description": "An alcoholic former serviceman goes to work collecting debts for gangsters and committing various other crimes, then has a religious conversion and helps other alcoholics."
-  },
-  {
-    "title": "The Grateful Dead Movie 2025 Meet-Up",
-    "showtimes": [
-      {
-        "date": "2025-08-14",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-14",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-08-16",
+        "date": "2025-07-17",
         "time": "16:15",
         "venue": "Eveningstar Cinema",
         "venue_id": "X020R",
         "city": "Brunswick"
       },
       {
-        "date": "2025-09-07",
-        "time": "00:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-09-07",
+        "date": "2025-07-18",
         "time": "19:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
       },
       {
-        "date": "2025-09-07",
-        "time": "23:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-08-14",
+        "date": "2025-07-24",
         "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-21",
+        "time": "14:30",
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
       },
       {
-        "date": "2025-08-16",
-        "time": "12:00",
+        "date": "2025-07-21",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "14:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "14:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "19:10",
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
@@ -1597,13 +135,11 @@
       }
     ],
     "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/the-grateful-dead-movie-2025-meet-up",
-      "X020R": "https://www.eveningstarcinema.com/movies/1000006432-the-grateful-dead-movie-2025-meet-up/",
-      "strand": "https://strandfilms.eventive.org/films/684ab9e529f060d5b044af26",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-grateful-dead-movie-2025-meet-up/"
+      "X020R": "https://www.eveningstarcinema.com/movies/326585-materialists/",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/materialists/"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/rpddAqHJXYGWfGWeYvi6EKIjLho.jpg",
-    "description": ""
+    "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+    "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex."
   },
   {
     "title": "Familiar Touch",
@@ -1658,6 +194,69 @@
     "description": "Familiar Touch is a coming of (old) age film. It follows an octogenarian woman\u2019s transition to life in assisted living as she contends with her conflicting desires and self-narratives amidst her shifting age identity and memory."
   },
   {
+    "title": "The Grateful Dead Movie 2025 Meet-Up",
+    "showtimes": [
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-16",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-09-07",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-09-07",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-09-07",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-16",
+        "time": "12:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/1000006432-the-grateful-dead-movie-2025-meet-up/",
+      "strand": "https://strandfilms.eventive.org/films/684ab9e529f060d5b044af26",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-grateful-dead-movie-2025-meet-up/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/rpddAqHJXYGWfGWeYvi6EKIjLho.jpg",
+    "description": ""
+  },
+  {
     "title": "Close Encounters of the Third Kind",
     "showtimes": [
       {
@@ -1692,6 +291,33 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/IQj11YbraLDyPYaz79jtDoAscc.jpg",
     "description": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy."
+  },
+  {
+    "title": "Eddington",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      },
+      {
+        "date": "2025-07-25",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/317620-eddington/",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/eddington/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
+    "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
   },
   {
     "title": "Woodstock (1970)",
@@ -1836,6 +462,131 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/xoX69VuEJ5H51dqC3nKQbiZNQd0.jpg",
     "description": "American political economist, professor, author, and social media sensation Robert Reich teaches his final \"Wealth and Poverty\" class to 1,000 students at UC Berkeley, ending a 40-year career that reached 40,000 students. One thousand fill the biggest lecture hall on the UC Berkeley campus, the last class to receive Reich's wisdom and exhortations not to accept that the world has to stay the way it is. His belief in the next generation's ability to take on the fight is inspiring."
+  },
+  {
+    "title": "Bad Shabbos",
+    "showtimes": [
+      {
+        "date": "2025-07-19",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-20",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-20",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-22",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-23",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-24",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-21",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-21",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/6859430ce037ef20e5a28723",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/bad-shabbos/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/nty7gqq9Rd7ce0Uu8kSTavOmVcd.jpg",
+    "description": "An engaged interfaith couple are about to have their parents meet for the first time over a Shabbat dinner when an accidental manslaughter gets in the way."
   },
   {
     "title": "Sorry, Baby",

@@ -178,7 +178,7 @@ function App() {
     <div className="app-container">
       <div className="now-showing-title">Now Showing</div>
       {/* Filter Controls */}
-      <div style={{ display: 'flex', gap: '1rem', marginBottom: '2rem', flexWrap: 'wrap', justifyContent: 'center' }}>
+      <div className="filter-controls">
         <input
           type="text"
           placeholder="Search by title..."
@@ -228,71 +228,84 @@ function App() {
                   onMouseMove={e => handleCardMouseMove(e, idx)}
                   onMouseLeave={() => handleCardMouseLeave(idx)}
                   onMouseEnter={() => handleCardMouseEnter(idx)}
-                  style={hoveredCard === idx ? { transform: cardTransforms[idx], zIndex: 2 } : {}}
+                  style={
+                    hoveredCard === idx
+                      ? {
+                          transform: cardTransforms[idx],
+                          zIndex: 2,
+                          boxShadow:
+                            '0 2px 12px 0 rgba(106,130,251,0.18), 0 4px 24px 0 rgba(252,92,125,0.12)',
+                        }
+                      : {}
+                  }
                 >
                   <div className="film-card-content">
-                    <img
-                      src={film.poster || '/no-poster.png'}
-                      alt={film.title + ' poster'}
-                      className="film-poster"
-                      onError={e => { e.target.src = '/no-poster.png'; }}
-                    />
-                    <div className="film-card-title">{widowFix(film.title)}</div>
-                    <div className="film-card-venues">
-                      {(() => {
-                        const now = new Date();
-                        const venuesMap = {};
-                        film.showtimes.forEach(st => {
-                          if (!st.venue) return;
-                          if (!venuesMap[st.venue]) venuesMap[st.venue] = [];
-                          venuesMap[st.venue].push(st);
-                        });
-                        const venuesNow = [];
-                        const venuesSoon = [];
-                        Object.entries(venuesMap).forEach(([venue, sts]) => {
-                          // Is there any showtime today or earlier?
-                          const anyNow = sts.some(st => {
-                            if (!st.date) return false;
-                            const showDate = new Date(st.date + 'T' + (st.time || '00:00'));
-                            // Compare only the date part
-                            const today = new Date();
-                            today.setHours(0,0,0,0);
-                            showDate.setHours(0,0,0,0);
-                            return showDate <= today;
+                    <div className="film-poster-container">
+                      <img
+                        src={film.poster || '/no-poster.png'}
+                        alt={film.title + ' poster'}
+                        className="film-poster"
+                        onError={e => { e.target.src = '/no-poster.png'; }}
+                      />
+                    </div>
+                    <div className="film-card-info">
+                      <div className="film-card-title">{widowFix(film.title)}</div>
+                      <div className="film-card-venues">
+                        {(() => {
+                          const now = new Date();
+                          const venuesMap = {};
+                          film.showtimes.forEach(st => {
+                            if (!st.venue) return;
+                            if (!venuesMap[st.venue]) venuesMap[st.venue] = [];
+                            venuesMap[st.venue].push(st);
                           });
-                          if (anyNow) {
-                            venuesNow.push(venue);
-                          } else if (sts.some(st => st.coming_soon || (st.date && new Date(st.date) > new Date()))) {
-                            venuesSoon.push(venue);
+                          const venuesNow = [];
+                          const venuesSoon = [];
+                          Object.entries(venuesMap).forEach(([venue, sts]) => {
+                            // Is there any showtime today or earlier?
+                            const anyNow = sts.some(st => {
+                              if (!st.date) return false;
+                              const showDate = new Date(st.date + 'T' + (st.time || '00:00'));
+                              // Compare only the date part
+                              const today = new Date();
+                              today.setHours(0,0,0,0);
+                              showDate.setHours(0,0,0,0);
+                              return showDate <= today;
+                            });
+                            if (anyNow) {
+                              venuesNow.push(venue);
+                            } else if (sts.some(st => st.coming_soon || (st.date && new Date(st.date) > new Date()))) {
+                              venuesSoon.push(venue);
+                            }
+                          });
+                          const blocks = [];
+                          if (venuesNow.length > 0) {
+                            blocks.push(
+                              <div className="now-showing-block" key="now">
+                                <span style={{ color: '#2ecc40', fontWeight: 600, fontSize: '1.05em' }}>Now Showing</span>
+                                <ul className="venue-list">
+                                  {venuesNow.map(venue => (
+                                    <li key={venue}>{venue}</li>
+                                  ))}
+                                </ul>
+                              </div>
+                            );
                           }
-                        });
-                        const blocks = [];
-                        if (venuesNow.length > 0) {
-                          blocks.push(
-                            <div className="now-showing-block" key="now">
-                              <span className="film-tag now-showing-tag">Now Showing</span>
-                              <ul className="venue-list">
-                                {venuesNow.map(venue => (
-                                  <li key={venue}>{venue}</li>
-                                ))}
-                              </ul>
-                            </div>
-                          );
-                        }
-                        if (venuesSoon.length > 0) {
-                          blocks.push(
-                            <div className="coming-soon-block" key="soon">
-                              <span className="film-tag coming-soon-tag">Coming Soon</span>
-                              <ul className="venue-list">
-                                {venuesSoon.map(venue => (
-                                  <li key={venue}>{venue}</li>
-                                ))}
-                              </ul>
-                            </div>
-                          );
-                        }
-                        return blocks;
-                      })()}
+                          if (venuesSoon.length > 0) {
+                            blocks.push(
+                              <div className="coming-soon-block" key="soon">
+                                <span style={{ color: '#ff9800', fontWeight: 600, fontSize: '1.05em' }}>Coming Soon</span>
+                                <ul className="venue-list">
+                                  {venuesSoon.map(venue => (
+                                    <li key={venue}>{venue}</li>
+                                  ))}
+                                </ul>
+                              </div>
+                            );
+                          }
+                          return blocks;
+                        })()}
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -318,12 +331,14 @@ function App() {
                   onMouseEnter={() => handleCardMouseEnter(idx)}
                 >
                   <div className="film-card-content">
-                    <img
-                      src={film.poster || '/no-poster.png'}
-                      alt={film.title + ' poster'}
-                      className="film-poster"
-                      onError={e => { e.target.src = '/no-poster.png'; }}
-                    />
+                    <div className="film-poster-container">
+                      <img
+                        src={film.poster || '/no-poster.png'}
+                        alt={film.title + ' poster'}
+                        className="film-poster"
+                        onError={e => { e.target.src = '/no-poster.png'; }}
+                      />
+                    </div>
                     <div className="film-card-title">{widowFix(film.title)}</div>
                     <div className="film-card-venues">
                       {(() => {
@@ -357,7 +372,7 @@ function App() {
                         if (venuesNow.length > 0) {
                           blocks.push(
                             <div className="now-showing-block" key="now">
-                              <span className="film-tag now-showing-tag">Now Showing</span>
+                              <span style={{ color: '#2ecc40', fontWeight: 600, fontSize: '1.05em' }}>Now Showing</span>
                               <ul className="venue-list">
                                 {venuesNow.map(venue => (
                                   <li key={venue}>{venue}</li>
@@ -369,7 +384,7 @@ function App() {
                         if (venuesSoon.length > 0) {
                           blocks.push(
                             <div className="coming-soon-block" key="soon">
-                              <span className="film-tag coming-soon-tag">Coming Soon</span>
+                              <span style={{ color: '#ff9800', fontWeight: 600, fontSize: '1.05em' }}>Coming Soon</span>
                               <ul className="venue-list">
                                 {venuesSoon.map(venue => (
                                   <li key={venue}>{venue}</li>

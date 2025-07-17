@@ -2,6 +2,12 @@ import { useState, useEffect, useRef, createRef } from 'react';
 import './App.css';
 import { Flipper, Flipped } from 'react-flip-toolkit';
 
+// Utility to prevent single-word line breaks (widows)
+function widowFix(text) {
+  if (!text) return '';
+  return text.replace(/\s+([^\s]+)\s*$/, '\u00A0$1');
+}
+
 function getDaySuffix(day) {
   if (day >= 11 && day <= 13) return 'th';
   switch (day % 10) {
@@ -231,7 +237,7 @@ function App() {
                       className="film-poster"
                       onError={e => { e.target.src = '/no-poster.png'; }}
                     />
-                    <div className="film-card-title">{film.title}</div>
+                    <div className="film-card-title">{widowFix(film.title)}</div>
                     <div className="film-card-venues">
                       {(() => {
                         const now = new Date();
@@ -318,7 +324,7 @@ function App() {
                       className="film-poster"
                       onError={e => { e.target.src = '/no-poster.png'; }}
                     />
-                    <div className="film-card-title">{film.title}</div>
+                    <div className="film-card-title">{widowFix(film.title)}</div>
                     <div className="film-card-venues">
                       {(() => {
                         const now = new Date();
@@ -397,8 +403,8 @@ function App() {
               className="modal-poster"
               onError={e => { e.target.src = '/no-poster.png'; }}
             />
-            <h2>{selectedFilm.title}</h2>
-            <div className="modal-description">{selectedFilm.description}</div>
+            <h2>{widowFix(selectedFilm.title)}</h2>
+            <div className="modal-description">{widowFix(selectedFilm.description)}</div>
             <h3>Showtimes</h3>
             {groupShowtimesByVenueAndDate(selectedFilm.showtimes).map((venue, idx) => (
               <div key={venue.name + venue.city} className="modal-showtime-block">

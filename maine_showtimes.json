@@ -304,34 +304,6 @@
         "city": "Portland"
       },
       {
-        "date": "2025-07-22",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-23",
         "time": "13:30",
         "venue": "Nickelodeon Cinemas",
@@ -535,34 +507,6 @@
       },
       {
         "date": "2025-07-21",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-22",
         "time": "21:00",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1587,8 +1531,8 @@
     "film_urls": {
       "nickelodeon": "https://patriotcinemas.com/movie/childish-things"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/oGaEyB1O9kmAFM2sVMteepGeThD.jpg",
-    "description": "A 30-year-old musician questions his resolve to marry his longtime girlfriend when he meets a free-spirited woman on his cross-country roadtrip."
+    "poster": "",
+    "description": "An alcoholic former serviceman goes to work collecting debts for gangsters and committing various other crimes, then has a religious conversion and helps other alcoholics."
   },
   {
     "title": "The Grateful Dead Movie 2025 Meet-Up",
@@ -2306,8 +2250,8 @@
     "film_urls": {
       "mainefilmcenter": "https://www.watervillecreates.org/shows/we-are-guardians/"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/ootRSA1GBKy8MVkUHQXYiLxfehc.jpg",
-    "description": ""
+    "poster": "https://image.tmdb.org/t/p/w500/onJwNkFurxZ0sC9pNqUkFB8nF7G.jpg",
+    "description": "In this expansive character-driven expos\u00e9, Indigenous guardians of the Amazon rainforest in Brazil fight to protect their territories from the ravages of extractive industries, confronting deforestation by illegal loggers, corrupt politicians and profit hungry global corporations."
   },
   {
     "title": "Downton Abbey: The Grand Finale",
@@ -2382,8 +2326,8 @@
     "film_urls": {
       "space": "https://space538.org/event/moff-thurs-2025/"
     },
-    "poster": "",
-    "description": ""
+    "poster": "https://eventive.imgix.net/1749660835755bb1ce6f6ebbe48208e30.jpg",
+    "description": "A comical look into the world of \"Freestyle Canoeing\" as a group of canoeists compete for the title of \"Top Paddler\" on a lake in Maine."
   },
   {
     "title": "MOFF: Milkweed Program (Shorts), Snail Hunters, Kai Jones\u2019 Falling Into Place, Fairy Creek",
@@ -2420,8 +2364,8 @@
     "film_urls": {
       "space": "https://space538.org/event/moff-sun-2025/"
     },
-    "poster": "",
-    "description": ""
+    "poster": "https://maineoutdoorfilmfestival.com/wp-content/uploads/2022/01/Maine-Outdoor-FIlm-Fest_logo_black_for_web.png",
+    "description": "A collection of short films from the Maine Outdoor Film Festival."
   },
   {
     "title": "2025 Sundance Film Festival Short Film Tour",
@@ -2829,8 +2773,8 @@
     "film_urls": {
       "kinonik": "https://www.zeffy.com/en-US/ticketing/taxi-driver"
     },
-    "poster": "",
-    "description": ""
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMzIyMjE2M15BMl5BanBnXkFtZTgwMzIyMjIyMDE@._V1_FMjpg_UX1000_.jpg",
+    "description": "A taxicab driver in New York City is forced to confront his own moral and ethical values when he is forced to drive a passenger who is a fugitive from the law."
   },
   {
     "title": "Creature from the Black Lagoon",

@@ -9,12 +9,36 @@
     "year": 2025,
     "description": "",
     "poster": "",
-    "venues": []
+    "venues": ["mainefilmcenter"]
   },
   "2025 Sundance Film Festival Short Film Tour": {
     "year": 2025,
     "description": "The 2025 Sundance Film Festival Short Film Tour is a 100-minute theatrical program of seven short films curated from the 2025 Sundance Film Festival, including two Festival Award–winning titles. The tour program is a sampling of Festival offerings and a testament to the unique storytelling potential that the format holds. Audiences can enjoy a mix of fiction, documentary, and animated shorts that are funny, sad, inspiring, and full of strong characters.",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/193/2025/05/07144031/sff25-short-film-tour-poster-2-690x1024.png",
-    "venues": []
+    "venues": ["space"]
+  },
+  "We Are Guardians": {
+    "year": 2025,
+    "description": "In this expansive character-driven exposé, Indigenous guardians of the Amazon rainforest in Brazil fight to protect their territories from the ravages of extractive industries, confronting deforestation by illegal loggers, corrupt politicians and profit hungry global corporations.",
+    "poster": "https://image.tmdb.org/t/p/w500/hjLXs30MMKh73XFpi8gkYOUFcik.jpg",
+    "venues": ["mainefilmcenter"]
+  },
+  "MOFF: Turtle Walker, Canoe Dig It?": {
+    "year": 2025,
+    "description": "A comical look into the world of \"Freestyle Canoeing\" as a group of canoeists compete for the title of \"Top Paddler\" on a lake in Maine.",
+    "poster": "https://eventive.imgix.net/1749660835755bb1ce6f6ebbe48208e30.jpg",
+    "venues": ["space"]
+  },
+  "MOFF: Milkweed Program (Shorts), Snail Hunters, Kai Jones\u2019 Falling Into Place, Fairy Creek": {
+    "year": 2025,
+    "description": "A collection of short films from the Maine Outdoor Film Festival.",
+    "poster": "https://maineoutdoorfilmfestival.com/wp-content/uploads/2022/01/Maine-Outdoor-FIlm-Fest_logo_black_for_web.png",
+    "venues": ["space"]
+  },
+  "Tax Driver": {
+    "year": 1976,
+    "description": "A taxicab driver in New York City is forced to confront his own moral and ethical values when he is forced to drive a passenger who is a fugitive from the law.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMzIyMjE2M15BMl5BanBnXkFtZTgwMzIyMjIyMDE@._V1_FMjpg_UX1000_.jpg",
+    "venues": ["kinonik"]
   }
 } 

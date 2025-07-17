@@ -89,7 +89,14 @@ def get_kinonik_showtimes():
         # Extract title and date(s) robustly
         title, dates = extract_title_and_dates(text)
         showtimes = []
+        today = datetime.now().date()
         for date in dates:
+            try:
+                show_date = datetime.strptime(date, '%Y-%m-%d').date()
+                if show_date < today:
+                    continue  # Skip past dates
+            except Exception:
+                continue  # Skip invalid dates
             showtimes.append({
                 'date': date,
                 'time': '19:00',  # Assume 7:00pm for all showtimes

@@ -31,6 +31,9 @@ now = datetime.now().date()
 
 # Step 1: Get all available future dates from the main page
 resp = requests.get(MAIN_URL, headers=headers, cookies=cookies)
+# Log the raw HTML from the main page for debugging
+with open("nickelodeon_raw_main.html", "w", encoding="utf-8") as f:
+    f.write(resp.text)
 soup = BeautifulSoup(resp.text, "html.parser")
 date_divs = soup.find_all("div", class_="calNew")
 dates = []
@@ -59,11 +62,17 @@ per_date_movies = {}
 for date in dates:
     ajax_url = AJAX_URL.format(date=date)
     r = requests.get(ajax_url, headers=headers, cookies=cookies)
+    # Log the raw JSON response from the AJAX endpoint for debugging
+    with open(f"nickelodeon_raw_{date}.json", "w", encoding="utf-8") as f:
+        f.write(r.text)
     data = r.json()
     html = data.get('html') or data.get('content') or next((v for v in data.values() if isinstance(v, str) and '<div' in v), "")
     if not html:
         print(f"No HTML for date {date}")
         continue
+    # Optionally, log the HTML for each date
+    with open(f"nickelodeon_html_{date}.html", "w", encoding="utf-8") as f:
+        f.write(html)
     soup = BeautifulSoup(html, "html.parser")
     rows = soup.find_all("div", class_="row")
     date_str = date_display_map.get(date, date)

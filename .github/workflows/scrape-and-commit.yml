@@ -28,12 +28,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt || true
 
-      - name: Check Firefox version
-        run: firefox --version
-
-      - name: Check GeckoDriver version
-        run: geckodriver --version
-
       - name: Run scraper
         run: python maine_showtimes_scraper.py
 

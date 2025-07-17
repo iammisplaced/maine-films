@@ -1,356 +1,16 @@
 [
   {
-    "title": "Mr. Blake At Your Service!",
-    "movie_url": "movie/mr-blake-at-your-service",
-    "poster": "https://image.tmdb.org/t/p/w300/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg?width=350",
-    "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned.  Presented in French with English SubtitlesSee it at Nickelodeon Cinemas 6 in Portland, ME",
-    "showtimes": [
-      {
-        "date": "TODAY 15",
-        "time": "4:15p"
-      },
-      {
-        "date": "TODAY 15",
-        "time": "6:40p"
-      },
-      {
-        "date": "TODAY 15",
-        "time": "9:00p"
-      },
-      {
-        "date": "WED 16",
-        "time": "1:30p"
-      },
-      {
-        "date": "WED 16",
-        "time": "4:15p"
-      },
-      {
-        "date": "WED 16",
-        "time": "6:40p"
-      },
-      {
-        "date": "WED 16",
-        "time": "9:00p"
-      },
-      {
-        "date": "THU 17",
-        "time": "1:30p"
-      }
-    ],
-    "venue": "Nickelodeon Cinemas",
-    "venue_id": "nickelodeon",
-    "city": "Portland"
-  },
-  {
-    "title": "Superman",
-    "movie_url": "movie/superman",
-    "poster": "https://image.tmdb.org/t/p/w300/wPLysNDLffQLOVebZQCbXJEv6E6.jpg?width=350",
-    "description": "Superman, a cub reporter in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.See it at Nickelodeon Cinemas 6 in Portland, ME",
-    "showtimes": [
-      {
-        "date": "TODAY 15",
-        "time": "6:20p"
-      },
-      {
-        "date": "TODAY 15",
-        "time": "7:30p"
-      },
-      {
-        "date": "TODAY 15",
-        "time": "9:00p"
-      },
-      {
-        "date": "WED 16",
-        "time": "1:00p"
-      },
-      {
-        "date": "WED 16",
-        "time": "2:00p"
-      },
-      {
-        "date": "WED 16",
-        "time": "3:40p"
-      },
-      {
-        "date": "WED 16",
-        "time": "6:20p"
-      },
-      {
-        "date": "WED 16",
-        "time": "7:30p"
-      },
-      {
-        "date": "WED 16",
-        "time": "9:00p"
-      },
-      {
-        "date": "THU 17",
-        "time": "1:00p"
-      },
-      {
-        "date": "THU 17",
-        "time": "2:00p"
-      },
-      {
-        "date": "THU 17",
-        "time": "3:40p"
-      },
-      {
-        "date": "THU 17",
-        "time": "6:20p"
-      },
-      {
-        "date": "THU 17",
-        "time": "7:30p"
-      },
-      {
-        "date": "THU 17",
-        "time": "9:00p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "1:00p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "3:40p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "6:20p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "9:00p"
-      }
-    ],
-    "venue": "Nickelodeon Cinemas",
-    "venue_id": "nickelodeon",
-    "city": "Portland"
-  },
-  {
-    "title": "Jurassic World Rebirth",
-    "movie_url": "movie/jurassic-world-rebirth",
-    "poster": "https://image.tmdb.org/t/p/w300/3wCFTfLYxYtq5QIbQolkq7GJGxZ.jpg?width=350",
-    "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.See it at Nickelodeon Cinemas 6 in Portland, ME",
-    "showtimes": [
-      {
-        "date": "TODAY 15",
-        "time": "6:30p"
-      },
-      {
-        "date": "TODAY 15",
-        "time": "9:10p"
-      },
-      {
-        "date": "WED 16",
-        "time": "1:00p"
-      },
-      {
-        "date": "WED 16",
-        "time": "3:45p"
-      },
-      {
-        "date": "WED 16",
-        "time": "6:30p"
-      },
-      {
-        "date": "WED 16",
-        "time": "9:10p"
-      },
-      {
-        "date": "THU 17",
-        "time": "1:00p"
-      },
-      {
-        "date": "THU 17",
-        "time": "3:45p"
-      },
-      {
-        "date": "THU 17",
-        "time": "6:30p"
-      },
-      {
-        "date": "THU 17",
-        "time": "9:10p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "1:00p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "3:45p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "6:30p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "9:10p"
-      }
-    ],
-    "venue": "Nickelodeon Cinemas",
-    "venue_id": "nickelodeon",
-    "city": "Portland"
-  },
-  {
-    "title": "F1",
-    "movie_url": "movie/f1",
-    "poster": "https://image.tmdb.org/t/p/w300/6H6p82aWQFEKEuVUiZll6JxV8Ft.jpg?width=350",
-    "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team\u2014and mentor a young hotshot driver\u2014while chasing one more chance at glory.See it at Nickelodeon Cinemas 6 in Portland, ME",
-    "showtimes": [
-      {
-        "date": "TODAY 15",
-        "time": "4:30p"
-      },
-      {
-        "date": "TODAY 15",
-        "time": "7:45p"
-      },
-      {
-        "date": "WED 16",
-        "time": "1:15p"
-      },
-      {
-        "date": "WED 16",
-        "time": "4:30p"
-      },
-      {
-        "date": "WED 16",
-        "time": "7:45p"
-      },
-      {
-        "date": "THU 17",
-        "time": "1:15p"
-      }
-    ],
-    "venue": "Nickelodeon Cinemas",
-    "venue_id": "nickelodeon",
-    "city": "Portland"
-  },
-  {
-    "title": "28 Years Later",
-    "movie_url": "movie/28-years-later",
-    "poster": "https://image.tmdb.org/t/p/w300/hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg?width=350",
-    "description": "It's been almost three decades since the rage virus escaped a biological weapons laboratory, and now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group of survivors lives on a small island connected to the mainland by a single, heavily-defended causeway. When one of the group leaves the island on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.See it at Nickelodeon Cinemas 6 in Portland, ME",
-    "showtimes": [
-      {
-        "date": "TODAY 15",
-        "time": "4:00p"
-      },
-      {
-        "date": "TODAY 15",
-        "time": "9:10p"
-      },
-      {
-        "date": "WED 16",
-        "time": "4:00p"
-      },
-      {
-        "date": "WED 16",
-        "time": "9:10p"
-      },
-      {
-        "date": "THU 17",
-        "time": "4:00p"
-      },
-      {
-        "date": "THU 17",
-        "time": "9:10p"
-      }
-    ],
-    "venue": "Nickelodeon Cinemas",
-    "venue_id": "nickelodeon",
-    "city": "Portland"
-  },
-  {
-    "title": "Materialists",
-    "movie_url": "movie/materialists",
-    "poster": "https://image.tmdb.org/t/p/w300/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg?width=350",
-    "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.See it at Nickelodeon Cinemas 6 in Portland, ME",
-    "showtimes": [
-      {
-        "date": "TODAY 15",
-        "time": "4:45p"
-      },
-      {
-        "date": "WED 16",
-        "time": "4:45p"
-      },
-      {
-        "date": "THU 17",
-        "time": "4:45p"
-      }
-    ],
-    "venue": "Nickelodeon Cinemas",
-    "venue_id": "nickelodeon",
-    "city": "Portland"
-  },
-  {
-    "title": "The Phoenician Scheme",
-    "movie_url": "movie/the-phoenician-scheme",
-    "poster": "https://image.tmdb.org/t/p/w300/oLp3gU168ebzbAjKb3G2fLeFQbU.jpg?width=350",
-    "description": "The story of a family and a family business.See it at Nickelodeon Cinemas 6 in Portland, ME",
-    "showtimes": [
-      {
-        "date": "TODAY 15",
-        "time": "6:50p"
-      },
-      {
-        "date": "WED 16",
-        "time": "1:40p"
-      },
-      {
-        "date": "THU 17",
-        "time": "1:40p"
-      },
-      {
-        "date": "THU 17",
-        "time": "6:50p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "4:00p"
-      },
-      {
-        "date": "FRI 18",
-        "time": "8:20p"
-      }
-    ],
-    "venue": "Nickelodeon Cinemas",
-    "venue_id": "nickelodeon",
-    "city": "Portland"
-  },
-  {
-    "title": "The Birds",
-    "movie_url": "movie/the-birds",
-    "poster": "https://image.tmdb.org/t/p/w300/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg?width=350",
-    "description": "OUR NEXT WAYBACK WEDNESDAY FEATURE...Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.See it at Nickelodeon Cinemas 6 in Portland, ME",
-    "showtimes": [
-      {
-        "date": "WED 16",
-        "time": "6:30p"
-      }
-    ],
-    "venue": "Nickelodeon Cinemas",
-    "venue_id": "nickelodeon",
-    "city": "Portland"
-  },
-  {
     "title": "Eddington",
     "movie_url": "movie/eddington",
     "poster": "https://image.tmdb.org/t/p/w300/q6vqnOSWpTBHecFT2IuqdFDKvds.jpg?width=350",
     "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.See it at Nickelodeon Cinemas 6 in Portland, ME",
     "showtimes": [
       {
-        "date": "THU 17",
+        "date": "TODAY 17",
         "time": "4:30p"
       },
       {
-        "date": "THU 17",
+        "date": "TODAY 17",
         "time": "7:45p"
       },
       {
@@ -363,6 +23,30 @@
       },
       {
         "date": "FRI 18",
+        "time": "7:45p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "1:20p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "4:30p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "7:45p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "1:20p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "4:30p"
+      },
+      {
+        "date": "SUN 20",
         "time": "7:45p"
       }
     ],
@@ -377,15 +61,15 @@
     "description": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer\u2026and is hell-bent on revenge.See it at Nickelodeon Cinemas 6 in Portland, ME",
     "showtimes": [
       {
-        "date": "THU 17",
+        "date": "TODAY 17",
         "time": "4:15p"
       },
       {
-        "date": "THU 17",
+        "date": "TODAY 17",
         "time": "6:40p"
       },
       {
-        "date": "THU 17",
+        "date": "TODAY 17",
         "time": "9:10p"
       },
       {
@@ -403,6 +87,303 @@
       {
         "date": "FRI 18",
         "time": "9:10p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "1:40p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "4:15p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "6:40p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "9:10p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "1:40p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "4:15p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "6:40p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "9:10p"
+      }
+    ],
+    "venue": "Nickelodeon Cinemas",
+    "venue_id": "nickelodeon",
+    "city": "Portland"
+  },
+  {
+    "title": "Mr. Blake At Your Service!",
+    "movie_url": "movie/mr-blake-at-your-service",
+    "poster": "https://image.tmdb.org/t/p/w300/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg?width=350",
+    "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned.  Presented in French with English SubtitlesSee it at Nickelodeon Cinemas 6 in Portland, ME",
+    "showtimes": [
+      {
+        "date": "TODAY 17",
+        "time": "1:30p"
+      }
+    ],
+    "venue": "Nickelodeon Cinemas",
+    "venue_id": "nickelodeon",
+    "city": "Portland"
+  },
+  {
+    "title": "Superman",
+    "movie_url": "movie/superman",
+    "poster": "https://image.tmdb.org/t/p/w300/wPLysNDLffQLOVebZQCbXJEv6E6.jpg?width=350",
+    "description": "Superman, a cub reporter in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.See it at Nickelodeon Cinemas 6 in Portland, ME",
+    "showtimes": [
+      {
+        "date": "TODAY 17",
+        "time": "1:00p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "2:00p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "3:40p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "6:20p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "7:30p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "9:00p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "1:00p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "3:40p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "6:20p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "9:00p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "1:00p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "3:40p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "6:20p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "9:00p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "1:00p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "3:40p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "6:20p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "9:00p"
+      }
+    ],
+    "venue": "Nickelodeon Cinemas",
+    "venue_id": "nickelodeon",
+    "city": "Portland"
+  },
+  {
+    "title": "Jurassic World Rebirth",
+    "movie_url": "movie/jurassic-world-rebirth",
+    "poster": "https://image.tmdb.org/t/p/w300/3wCFTfLYxYtq5QIbQolkq7GJGxZ.jpg?width=350",
+    "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.See it at Nickelodeon Cinemas 6 in Portland, ME",
+    "showtimes": [
+      {
+        "date": "TODAY 17",
+        "time": "1:00p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "3:45p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "6:30p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "9:10p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "1:00p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "3:45p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "6:30p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "9:10p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "1:00p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "3:45p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "6:30p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "9:10p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "1:00p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "3:45p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "6:30p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "9:10p"
+      }
+    ],
+    "venue": "Nickelodeon Cinemas",
+    "venue_id": "nickelodeon",
+    "city": "Portland"
+  },
+  {
+    "title": "F1",
+    "movie_url": "movie/f1",
+    "poster": "https://image.tmdb.org/t/p/w300/6H6p82aWQFEKEuVUiZll6JxV8Ft.jpg?width=350",
+    "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team\u2014and mentor a young hotshot driver\u2014while chasing one more chance at glory.See it at Nickelodeon Cinemas 6 in Portland, ME",
+    "showtimes": [
+      {
+        "date": "TODAY 17",
+        "time": "1:15p"
+      }
+    ],
+    "venue": "Nickelodeon Cinemas",
+    "venue_id": "nickelodeon",
+    "city": "Portland"
+  },
+  {
+    "title": "28 Years Later",
+    "movie_url": "movie/28-years-later",
+    "poster": "https://image.tmdb.org/t/p/w300/hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg?width=350",
+    "description": "It's been almost three decades since the rage virus escaped a biological weapons laboratory, and now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group of survivors lives on a small island connected to the mainland by a single, heavily-defended causeway. When one of the group leaves the island on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.See it at Nickelodeon Cinemas 6 in Portland, ME",
+    "showtimes": [
+      {
+        "date": "TODAY 17",
+        "time": "4:00p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "9:10p"
+      }
+    ],
+    "venue": "Nickelodeon Cinemas",
+    "venue_id": "nickelodeon",
+    "city": "Portland"
+  },
+  {
+    "title": "Materialists",
+    "movie_url": "movie/materialists",
+    "poster": "https://image.tmdb.org/t/p/w300/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg?width=350",
+    "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.See it at Nickelodeon Cinemas 6 in Portland, ME",
+    "showtimes": [
+      {
+        "date": "TODAY 17",
+        "time": "4:45p"
+      }
+    ],
+    "venue": "Nickelodeon Cinemas",
+    "venue_id": "nickelodeon",
+    "city": "Portland"
+  },
+  {
+    "title": "The Phoenician Scheme",
+    "movie_url": "movie/the-phoenician-scheme",
+    "poster": "https://image.tmdb.org/t/p/w300/oLp3gU168ebzbAjKb3G2fLeFQbU.jpg?width=350",
+    "description": "The story of a family and a family business.See it at Nickelodeon Cinemas 6 in Portland, ME",
+    "showtimes": [
+      {
+        "date": "TODAY 17",
+        "time": "1:40p"
+      },
+      {
+        "date": "TODAY 17",
+        "time": "6:50p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "4:00p"
+      },
+      {
+        "date": "FRI 18",
+        "time": "8:20p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "4:00p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "8:20p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "4:00p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "8:20p"
       }
     ],
     "venue": "Nickelodeon Cinemas",
@@ -434,6 +415,46 @@
       {
         "date": "FRI 18",
         "time": "9:10p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "1:10p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "3:10p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "5:10p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "7:10p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "9:10p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "1:10p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "3:10p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "5:10p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "7:10p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "9:10p"
       }
     ],
     "venue": "Nickelodeon Cinemas",
@@ -452,6 +473,22 @@
       },
       {
         "date": "FRI 18",
+        "time": "6:10p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "1:40p"
+      },
+      {
+        "date": "SAT 19",
+        "time": "6:10p"
+      },
+      {
+        "date": "SUN 20",
+        "time": "1:40p"
+      },
+      {
+        "date": "SUN 20",
         "time": "6:10p"
       }
     ],

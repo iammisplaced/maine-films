@@ -1,5 +1,56 @@
 [
   {
+    "title": "Other Side",
+    "showtimes": [
+      {
+        "date": "2025-07-28",
+        "time": "19:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/other-side"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/vCr6EjPAeuxKKY9qr7rREkOOizQ.jpg",
+    "description": "Activist Lynda Bluestein contemplates how to legally end her life - her landmark lawsuit made Medical Aid in Dying in Vermont accessible to anyone in the United States. This is an intimate portrait of finding a way to die peacefully in the U.S."
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "showtimes": [
+      {
+        "date": "2025-07-30",
+        "time": "19:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/monty-python-and-the-holy-grail"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/hWx1ANiWEWWyzKPN0us35HCGnhQ.jpg",
+    "description": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\"."
+  },
+  {
+    "title": "Childish Things",
+    "showtimes": [
+      {
+        "date": "2025-08-11",
+        "time": "19:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/childish-things"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/oGaEyB1O9kmAFM2sVMteepGeThD.jpg",
+    "description": "A 30-year-old musician questions his resolve to marry his longtime girlfriend when he meets a free-spirited woman on his cross-country roadtrip."
+  },
+  {
     "title": "The Phoenician Scheme",
     "showtimes": [
       {
@@ -176,59 +227,8 @@
     "film_urls": {
       "X020R": "https://www.eveningstarcinema.com/movies/1000000249-familiar-touch/"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/6nDfCHIKXHBp4gCwHngdiCcZSQq.jpg",
-    "description": "Roger Waters, the creative force behind the golden years of Pink Floyd, presents his first Farewell Tour, \u201cThis Is Not A Drill\u201d, Live from Prague, in cinemas around the world.  This cinematic extravaganza is a stunning indictment of the corporate dystopia in which we all struggle to survive and will include 20 Pink Floyd and Roger Waters classic songs, including: \u201cUs & Them\u201d, \u201cComfortably Numb\u201d, \u201cWish You Were Here\u201d, and \u201cIs This The Life We Really Want?\u201d. Waters also debuts his new song, \u201cThe Bar\u201d.  Waters is joined on stage by Jonathan Wilson, Dave Kilminster, Jon Carin, Gus Seyffert, Robert Walter, Joey Waronker, Shanay Johnson, Amanda Belair and Seamus Blake to deliver an unforgettable performance with a call to action to love, protect, and share our precious planet home."
-  },
-  {
-    "title": "Other Side",
-    "showtimes": [
-      {
-        "date": "2025-07-28",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/other-side"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/vCr6EjPAeuxKKY9qr7rREkOOizQ.jpg",
-    "description": "Activist Lynda Bluestein contemplates how to legally end her life - her landmark lawsuit made Medical Aid in Dying in Vermont accessible to anyone in the United States. This is an intimate portrait of finding a way to die peacefully in the U.S."
-  },
-  {
-    "title": "Monty Python and the Holy Grail",
-    "showtimes": [
-      {
-        "date": "2025-07-30",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/monty-python-and-the-holy-grail"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/hWx1ANiWEWWyzKPN0us35HCGnhQ.jpg",
-    "description": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\"."
-  },
-  {
-    "title": "Childish Things",
-    "showtimes": [
-      {
-        "date": "2025-08-11",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/childish-things"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/oGaEyB1O9kmAFM2sVMteepGeThD.jpg",
-    "description": "A 30-year-old musician questions his resolve to marry his longtime girlfriend when he meets a free-spirited woman on his cross-country roadtrip."
+    "poster": "https://image.tmdb.org/t/p/w500/zUKpIGBCiUTyFTEPJxc7nJtLU3P.jpg",
+    "description": "Familiar Touch is a coming of (old) age film. It follows an octogenarian woman\u2019s transition to life in assisted living as she contends with her conflicting desires and self-narratives amidst her shifting age identity and memory."
   },
   {
     "title": "The Grateful Dead Movie 2025 Meet-Up",
@@ -357,24 +357,6 @@
     "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
   },
   {
-    "title": "Woodstock (1970)",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/2634-woodstock-1970/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
-    "description": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000."
-  },
-  {
     "title": "My Mother\u2019s Wedding",
     "showtimes": [
       {
@@ -391,6 +373,24 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/mQqgnF7iYX7j5OB1i6XFHmn5iiw.jpg",
     "description": "Three sisters return to their home for the third wedding of their twice-widowed mother. But the mother and daughters are forced to revisit the past and confront the future, with help from a colorful group of unexpected wedding guests."
+  },
+  {
+    "title": "Woodstock (1970)",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/2634-woodstock-1970/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
+    "description": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000."
   },
   {
     "title": "Highest 2 Lowest",

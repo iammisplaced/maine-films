@@ -85,7 +85,10 @@ function App() {
   const [removedCards, setRemovedCards] = useState([]); // [{film, idx}]
 
   useEffect(() => {
-    fetch('https://raw.githubusercontent.com/iammisplaced/maine-films/main/maine_showtimes.json')
+    // Cache-bust every 10 minutes
+    const cacheInterval = 10 * 60 * 1000; // 10 minutes in ms
+    const cacheBustValue = Math.floor(Date.now() / cacheInterval);
+    fetch(`https://raw.githubusercontent.com/iammisplaced/maine-films/main/maine_showtimes.json?cb=${cacheBustValue}`)
       .then(res => res.json())
       .then(data => setFilms(data));
   }, []);

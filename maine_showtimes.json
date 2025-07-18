@@ -3,13 +3,6 @@
     "title": "The Phoenician Scheme",
     "showtimes": [
       {
-        "date": "2025-07-17",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
         "date": "2025-07-19",
         "time": "19:00",
         "venue": "Eveningstar Cinema",
@@ -40,13 +33,6 @@
   {
     "title": "Materialists",
     "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
       {
         "date": "2025-07-18",
         "time": "19:00",
@@ -390,40 +376,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/xln0VwS4h0uHl8XMW2fCmvv3YDG.jpg",
     "description": "A film director returns to his childhood home in provincial France with his brother and his girlfriend and discovers isolation to be an artistic curative."
-  },
-  {
-    "title": "Everything's Going to Be Great",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "17:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      }
-    ],
-    "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/68504b691dd140055f48113b"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/s8McJCLGntK15zFFUYBipjneXth.jpg",
-    "description": "When they are unexpectedly forced to move in with an estranged relative, the Smart Family must navigate oversized dreams, identity struggles and regional theater in this warmly observant family comedy."
-  },
-  {
-    "title": "Granite Rapids Moon",
-    "showtimes": [
-      {
-        "date": "2025-07-17",
-        "time": "21:30",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      }
-    ],
-    "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/68345349e8250f29fd0241ec"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/yzoiOcoi34PGu0F9oRJUbxBiTvY.jpg",
-    "description": "A happily married father of two, shaken by a message written in a birthday card for his daughter, abruptly leaves his family for a week-long hike through the Grand Canyon. Following his solo trek, we see his memories of an earlier trip through the Grand Canyon with a different woman."
   },
   {
     "title": "The Last Class",

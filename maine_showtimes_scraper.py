@@ -19,6 +19,8 @@ from concurrent.futures import ThreadPoolExecutor
 from kinonik_scraper import get_kinonik_showtimes
 from bs4.element import Tag
 from collections import defaultdict
+from blackbear_scraper import scrape_blackbear
+from colonial_scraper import scrape_colonial
 
 TMDB_API_KEY = "2da147e5e6f08b12f071c89946f17de2"
 
@@ -238,6 +240,8 @@ def main():
         future_mainefilmcenter = executor.submit(get_mainefilmcenter_showtimes)
         future_space = executor.submit(scrape_space_gallery)
         future_kinonik = executor.submit(get_kinonik_showtimes)
+        future_blackbear = executor.submit(scrape_blackbear)
+        future_colonial = executor.submit(scrape_colonial)
 
         print("Scraping Nickelodeon...")
         nickelodeon_results = future_nick.result()
@@ -269,10 +273,20 @@ def main():
         if not kinonik_results:
             kinonik_results = prev_films_by_venue.get("kinonik", [])
         print(f"Kinonik: {len(kinonik_results)} movies scraped.")
+        print("Scraping Black Bear Cinemas...")
+        blackbear_results = future_blackbear.result()
+        if not blackbear_results:
+            blackbear_results = prev_films_by_venue.get("blackbear", [])
+        print(f"Black Bear Cinemas: {len(blackbear_results)} movies scraped.")
+        print("Scraping Colonial Theatre...")
+        colonial_results = future_colonial.result()
+        if not colonial_results:
+            colonial_results = prev_films_by_venue.get("colonial", [])
+        print(f"Colonial Theatre: {len(colonial_results)} movies scraped.")
 
     all_showtimes = merge_films_by_title(
         nickelodeon_results,
-        eveningstar_results + strand_results + mainefilmcenter_results + space_results + kinonik_results
+        eveningstar_results + strand_results + mainefilmcenter_results + space_results + kinonik_results + blackbear_results + colonial_results
     )
 
     # Normalize all showtime times to 24-hour format

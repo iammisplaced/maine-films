@@ -18,6 +18,7 @@ from nickelodeon_scraper import scrape_nickelodeon
 from concurrent.futures import ThreadPoolExecutor
 from kinonik_scraper import get_kinonik_showtimes
 from bs4.element import Tag
+from collections import defaultdict
 
 TMDB_API_KEY = "2da147e5e6f08b12f071c89946f17de2"
 
@@ -50,15 +51,6 @@ def extract_year_and_description_from_zeffy(url):
         # Now, visit the Zeffy event page
         resp = session.get(url, headers=headers, timeout=8)
         soup = BeautifulSoup(resp.text, 'html.parser')
-        # Debug: log all <meta> tags with a property attribute
-        meta_debug = []
-        for meta in soup.find_all('meta'):
-            if not isinstance(meta, Tag):
-                continue
-            prop = meta.get('property')
-            content = meta.get('content')
-            if prop:
-                meta_debug.append(f"property={prop}, content={content}")
         # Only use the <meta property="og:description"> tag
         og_desc = ''
         meta = soup.find('meta', attrs={'property': 'og:description'})
@@ -76,21 +68,8 @@ def extract_year_and_description_from_zeffy(url):
                 if 1900 <= y_int <= datetime.now().year:
                     year = y_int
                     break
-        # Debug logging for every Kinonik film
-        with open('kinonik_zeffy_debug.txt', 'a', encoding='utf-8') as dbg:
-            dbg.write(f'URL: {url}\n')
-            dbg.write('All meta tags with property attribute:\n')
-            for line in meta_debug:
-                dbg.write(line + '\n')
-            dbg.write(f'og:description: {og_desc}\n')
-            dbg.write(f'Extracted year: {year}\n')
-            dbg.write('-'*60 + '\n')
         return year, og_desc
     except Exception as e:
-        with open('kinonik_zeffy_debug.txt', 'a', encoding='utf-8') as dbg:
-            dbg.write(f'URL: {url}\n')
-            dbg.write(f'Exception: {e}\n')
-            dbg.write('-'*60 + '\n')
         return None, ''
 
 def get_tmdb_info(title, film=None):
@@ -237,6 +216,21 @@ def merge_films_by_title(films1, films2):
     return list(merged.values())
 
 def main():
+    # Load previous data for fallback
+    try:
+        with open("maine_showtimes.json", "r") as f:
+            previous_data = json.load(f)
+    except Exception:
+        previous_data = []
+    # Build mapping: venue_id -> list of films from previous data
+    prev_films_by_venue = defaultdict(list)
+    for film in previous_data:
+        for st in film.get("showtimes", []):
+            venue_id = st.get("venue_id")
+            if venue_id:
+                prev_films_by_venue[venue_id].append(film)
+                break  # Only need to map each film once
+
     with ThreadPoolExecutor() as executor:
         future_nick = executor.submit(scrape_nickelodeon)
         future_eveningstar = executor.submit(get_eveningstar_showtimes)
@@ -247,21 +241,33 @@ def main():
 
         print("Scraping Nickelodeon...")
         nickelodeon_results = future_nick.result()
+        if not nickelodeon_results:
+            nickelodeon_results = prev_films_by_venue.get("nickelodeon", [])
         print(f"Nickelodeon: {len(nickelodeon_results)} movies scraped.")
         print("Scraping Eveningstar...")
         eveningstar_results = future_eveningstar.result()
+        if not eveningstar_results:
+            eveningstar_results = prev_films_by_venue.get("eveningstar", [])
         print(f"Eveningstar: {len(eveningstar_results)} movies scraped.")
         print("Scraping Strand...")
         strand_results = future_strand.result()
+        if not strand_results:
+            strand_results = prev_films_by_venue.get("strand", [])
         print(f"Strand: {len(strand_results)} movies scraped.")
         print("Scraping Maine Film Center...")
         mainefilmcenter_results = future_mainefilmcenter.result()
+        if not mainefilmcenter_results:
+            mainefilmcenter_results = prev_films_by_venue.get("mainefilmcenter", [])
         print(f"Maine Film Center: {len(mainefilmcenter_results)} movies scraped.")
         print("Scraping SPACE Gallery...")
         space_results = future_space.result()
+        if not space_results:
+            space_results = prev_films_by_venue.get("space", [])
         print(f"SPACE Gallery: {len(space_results)} movies scraped.")
         print("Scraping Kinonik...")
         kinonik_results = future_kinonik.result()
+        if not kinonik_results:
+            kinonik_results = prev_films_by_venue.get("kinonik", [])
         print(f"Kinonik: {len(kinonik_results)} movies scraped.")
 
     all_showtimes = merge_films_by_title(

@@ -3,27 +3,6 @@
     "title": "Bad Shabbos",
     "showtimes": [
       {
-        "date": "2025-07-18",
-        "time": "17:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "19:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-19",
         "time": "13:10",
         "venue": "Nickelodeon Cinemas",
@@ -325,13 +304,6 @@
     "title": "Don't Let's Go to the Dogs Tonight",
     "showtimes": [
       {
-        "date": "2025-07-18",
-        "time": "18:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-19",
         "time": "13:40",
         "venue": "Nickelodeon Cinemas",
@@ -404,20 +376,6 @@
   {
     "title": "Eddington",
     "showtimes": [
-      {
-        "date": "2025-07-18",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
       {
         "date": "2025-07-19",
         "time": "13:20",
@@ -538,13 +496,6 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": true
-      },
-      {
-        "date": "2025-07-18",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-18",
@@ -693,27 +644,6 @@
     "title": "I Know What You Did Last Summer",
     "showtimes": [
       {
-        "date": "2025-07-18",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-19",
         "time": "13:40",
         "venue": "Nickelodeon Cinemas",
@@ -852,20 +782,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-18",
@@ -1040,20 +956,6 @@
     "title": "Superman",
     "showtimes": [
       {
-        "date": "2025-07-18",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-19",
         "time": "13:00",
         "venue": "Nickelodeon Cinemas",
@@ -1192,20 +1094,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "4:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-18",
@@ -1479,20 +1367,6 @@
     "title": "Jurassic World Rebirth",
     "showtimes": [
       {
-        "date": "2025-07-18",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-19",
         "time": "13:00",
         "venue": "Nickelodeon Cinemas",
@@ -1631,20 +1505,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "4:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "7:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-18",
@@ -1911,20 +1771,6 @@
     "title": "The Phoenician Scheme",
     "showtimes": [
       {
-        "date": "2025-07-18",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "20:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-19",
         "time": "16:00",
         "venue": "Nickelodeon Cinemas",
@@ -2181,13 +2027,6 @@
     "title": "Materialists",
     "showtimes": [
       {
-        "date": "2025-07-18",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
         "date": "2025-07-24",
         "time": "19:00",
         "venue": "Eveningstar Cinema",
@@ -2327,20 +2166,6 @@
   {
     "title": "Familiar Touch",
     "showtimes": [
-      {
-        "date": "2025-07-18",
-        "time": "13:30",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
       {
         "date": "2025-07-19",
         "time": "13:30",
@@ -2487,13 +2312,6 @@
   {
     "title": "The Last Class",
     "showtimes": [
-      {
-        "date": "2025-07-18",
-        "time": "21:30",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
       {
         "date": "2025-07-19",
         "time": "21:30",
@@ -3481,13 +3299,6 @@
     "showtimes": [
       {
         "date": "2025-07-18",
-        "time": "6:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-18",
         "time": "9:00p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -3659,20 +3470,6 @@
     "showtimes": [
       {
         "date": "2025-07-18",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-18",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-18",
         "time": "9:50p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -3807,13 +3604,6 @@
   {
     "title": "How to Train Your Dragon",
     "showtimes": [
-      {
-        "date": "2025-07-18",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-18",
         "time": "9:10p",

@@ -144,13 +144,6 @@
       },
       {
         "date": "2025-07-20",
-        "time": "00:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-20",
         "time": "21:30",
         "venue": "Strand Theatre",
         "venue_id": "strand",
@@ -421,13 +414,6 @@
         "coming_soon": true
       },
       {
-        "date": "2025-07-19",
-        "time": "9:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
         "date": "2025-07-20",
         "time": "1:10p",
         "venue": "Black Bear Cinemas",
@@ -649,13 +635,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "10:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-20",
@@ -898,13 +877,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "9:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-20",
@@ -1225,13 +1197,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "9:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-20",
@@ -2903,15 +2868,56 @@
     "description": "When scientists exploring the Amazon River stumble on a \u201cmissing link\u201d connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fianc\u00e9e, Kay."
   },
   {
-    "title": "Smurfs",
+    "title": "Titanic",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "9:00p",
+        "date": "2025-07-20",
+        "time": "3:30p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
+      {
+        "date": "2025-07-22",
+        "time": "6:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/titanic"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912."
+  },
+  {
+    "title": "My Neighbor Totoro - Studio Ghibli Fest 2025",
+    "showtimes": [
+      {
+        "date": "2025-07-20",
+        "time": "7:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-07-21",
+        "time": "7:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/my-neighbor-totoro-studio-ghibli-fest-2025"
+    },
+    "poster": "",
+    "description": ""
+  },
+  {
+    "title": "Smurfs",
+    "showtimes": [
       {
         "date": "2025-07-20",
         "time": "11:00a",
@@ -3042,13 +3048,6 @@
     "title": "Elio",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "9:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
         "date": "2025-07-20",
         "time": "11:05a",
         "venue": "Black Bear Cinemas",
@@ -3142,13 +3141,6 @@
   {
     "title": "How to Train Your Dragon",
     "showtimes": [
-      {
-        "date": "2025-07-19",
-        "time": "9:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-20",
         "time": "10:45a",
@@ -3253,54 +3245,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
     "description": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society."
-  },
-  {
-    "title": "Titanic",
-    "showtimes": [
-      {
-        "date": "2025-07-20",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-22",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "blackbear": "https://www.blackbearcinemas.com/movie/titanic"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-    "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912."
-  },
-  {
-    "title": "My Neighbor Totoro - Studio Ghibli Fest 2025",
-    "showtimes": [
-      {
-        "date": "2025-07-20",
-        "time": "7:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-21",
-        "time": "7:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "blackbear": "https://www.blackbearcinemas.com/movie/my-neighbor-totoro-studio-ghibli-fest-2025"
-    },
-    "poster": "",
-    "description": ""
   },
   {
     "title": "The Fantastic Four: First Steps",
@@ -3408,6 +3352,30 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/gpG2cnmBijlDYlWHVu7SZxsR9Bu.jpg",
     "description": "Don Pablo Salazar steals a fortune in jewels from an Indian tribe and an Aztec medicine man puts a curse on the jewels until they are returned. Years later, an American insurance man promises to deliver the Salazar fortune to the rightful heir..."
+  },
+  {
+    "title": "Sunset Boulevard 75th Anniversary",
+    "showtimes": [
+      {
+        "date": "2025-08-03",
+        "time": "4:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-03",
+        "time": "7:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/sunset-boulevard-75th-anniversary"
+    },
+    "poster": "",
+    "description": ""
   },
   {
     "title": "BIG LEBOWSKI",

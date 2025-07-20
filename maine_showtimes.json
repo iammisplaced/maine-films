@@ -3,34 +3,6 @@
     "title": "Bad Shabbos",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "15:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "17:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "19:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-20",
         "time": "13:10",
         "venue": "Nickelodeon Cinemas",
@@ -290,13 +262,6 @@
     "title": "Don't Let's Go to the Dogs Tonight",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "18:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-20",
         "time": "13:40",
         "venue": "Nickelodeon Cinemas",
@@ -355,20 +320,6 @@
   {
     "title": "Eddington",
     "showtimes": [
-      {
-        "date": "2025-07-19",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "19:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
       {
         "date": "2025-07-20",
         "time": "13:20",
@@ -468,20 +419,6 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": true
-      },
-      {
-        "date": "2025-07-19",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-19",
@@ -602,27 +539,6 @@
     "title": "I Know What You Did Last Summer",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "16:15",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-20",
         "time": "13:40",
         "venue": "Nickelodeon Cinemas",
@@ -733,20 +649,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-19",
@@ -886,27 +788,6 @@
     "title": "Superman",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-20",
         "time": "13:00",
         "venue": "Nickelodeon Cinemas",
@@ -1017,20 +898,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "4:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-19",
@@ -1248,27 +1115,6 @@
     "title": "Jurassic World Rebirth",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "15:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-20",
         "time": "13:00",
         "venue": "Nickelodeon Cinemas",
@@ -1379,20 +1225,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "4:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "7:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-19",
@@ -1603,20 +1435,6 @@
     "title": "The Phoenician Scheme",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "16:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "20:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-07-20",
         "time": "16:00",
         "venue": "Nickelodeon Cinemas",
@@ -1664,13 +1482,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
       },
       {
         "date": "2025-07-20",
@@ -1985,20 +1796,6 @@
     "title": "Familiar Touch",
     "showtimes": [
       {
-        "date": "2025-07-19",
-        "time": "13:30",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
         "date": "2025-07-20",
         "time": "13:30",
         "venue": "Eveningstar Cinema",
@@ -2036,6 +1833,24 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
     "description": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen."
+  },
+  {
+    "title": "Mr. Blake, At Your Service!",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/298735-mr-blake-at-your-service/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
+    "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
   },
   {
     "title": "In the Bedroom",
@@ -2110,33 +1925,8 @@
     "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma."
   },
   {
-    "title": "Hors du temps",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/325656-hors-du-temps/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/xln0VwS4h0uHl8XMW2fCmvv3YDG.jpg",
-    "description": "A film director returns to his childhood home in provincial France with his brother and his girlfriend and discovers isolation to be an artistic curative."
-  },
-  {
     "title": "The Last Class",
     "showtimes": [
-      {
-        "date": "2025-07-19",
-        "time": "21:30",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
       {
         "date": "2025-07-20",
         "time": "19:00",
@@ -3117,20 +2907,6 @@
     "showtimes": [
       {
         "date": "2025-07-19",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "6:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
         "time": "9:00p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -3267,20 +3043,6 @@
     "showtimes": [
       {
         "date": "2025-07-19",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
         "time": "9:50p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -3380,20 +3142,6 @@
   {
     "title": "How to Train Your Dragon",
     "showtimes": [
-      {
-        "date": "2025-07-19",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-19",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-19",
         "time": "9:10p",

@@ -40,6 +40,15 @@ def levenshtein(s1, s2):
         previous_row = current_row
     return previous_row[-1]
 
+def token_jaccard_similarity(title1, title2):
+    tokens1 = set(normalize_title(title1).split())
+    tokens2 = set(normalize_title(title2).split())
+    if not tokens1 or not tokens2:
+        return 0.0
+    intersection = tokens1 & tokens2
+    union = tokens1 | tokens2
+    return len(intersection) / len(union)
+
 def extract_year_and_description_from_zeffy(url):
     try:
         session = requests.Session()
@@ -217,6 +226,51 @@ def merge_films_by_title(films1, films2):
                     merged[key]["film_urls"][vid] = url
     return list(merged.values())
 
+def all_words_in(short, long):
+    # Returns True if all words in short are in long (after normalization)
+    short_words = set(normalize_title(short).split())
+    long_words = set(normalize_title(long).split())
+    return short_words.issubset(long_words) and len(short_words) > 0
+
+
+def standardize_colonial_films(colonial_films, other_films):
+    """
+    For each Colonial film, aggressively match to another venue's film if:
+    - Jaccard similarity > 0.5 (50% word overlap), or
+    - all Colonial words are in the other title, or
+    - normalized title is a prefix of the other (or vice versa)
+    Copy over missing poster/description and merge film_urls so Colonial's URL is always included.
+    """
+    for col_film in colonial_films:
+        col_title_norm = normalize_title(col_film['title'])
+        candidates = []
+        for other_film in other_films:
+            other_title_norm = normalize_title(other_film['title'])
+            jaccard = token_jaccard_similarity(col_film['title'], other_film['title'])
+            is_prefix = other_title_norm.startswith(col_title_norm) or col_title_norm.startswith(other_title_norm)
+            all_words = all_words_in(col_film['title'], other_film['title'])
+            match = jaccard > 0.5 or is_prefix or all_words
+            score = jaccard + (0.5 if is_prefix else 0) + (0.5 if all_words else 0)
+            candidates.append((other_film, match, score, jaccard, is_prefix, all_words))
+        # Pick the best match among those that qualify
+        best_match = None
+        best_score = float('-inf')
+        for other_film, match, score, jaccard, is_prefix, all_words in candidates:
+            if match and score > best_score:
+                best_score = score
+                best_match = other_film
+        if best_match:
+            if not col_film.get('poster') and best_match.get('poster'):
+                col_film['poster'] = best_match['poster']
+            if not col_film.get('description') and best_match.get('description'):
+                col_film['description'] = best_match['description']
+            col_urls = col_film.get('film_urls', {})
+            match_urls = best_match.get('film_urls', {})
+            merged_urls = dict(match_urls)
+            merged_urls.update(col_urls)
+            col_film['film_urls'] = merged_urls
+    return colonial_films
+
 def main():
     # Load previous data for fallback
     try:
@@ -283,6 +337,10 @@ def main():
         if not colonial_results:
             colonial_results = prev_films_by_venue.get("colonial", [])
         print(f"Colonial Theatre: {len(colonial_results)} movies scraped.")
+
+    # Standardize Colonial films before merging
+    other_films = nickelodeon_results + eveningstar_results + strand_results + mainefilmcenter_results + space_results + kinonik_results + blackbear_results
+    colonial_results = standardize_colonial_films(colonial_results, other_films)
 
     all_showtimes = merge_films_by_title(
         nickelodeon_results,

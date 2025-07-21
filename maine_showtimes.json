@@ -329,14 +329,6 @@
         "coming_soon": true
       },
       {
-        "date": "2025-07-25",
-        "time": null,
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": true
-      },
-      {
         "date": "2025-07-21",
         "time": "1:10p",
         "venue": "Black Bear Cinemas",
@@ -424,9 +416,9 @@
     "film_urls": {
       "nickelodeon": "https://patriotcinemas.com/movie/eddington",
       "X020R": "https://www.eveningstarcinema.com/movies/317620-eddington/",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/eddington/",
       "blackbear": "https://www.blackbearcinemas.com/movie/eddington"
     },
+    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
     "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
     "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
   },
@@ -1101,8 +1093,12 @@
       {
         "date": null,
         "time": null,
+        "date": null,
+        "time": null,
         "venue": "Eveningstar Cinema",
         "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
         "city": "Brunswick",
         "coming_soon": true
       }
@@ -1434,6 +1430,24 @@
     "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
   },
   {
+    "title": "Mr. Blake, At Your Service!",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/298735-mr-blake-at-your-service/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
+    "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
+  },
+  {
     "title": "In the Bedroom",
     "showtimes": [
       {
@@ -1615,19 +1629,10 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
-      },
-      {
-        "date": "2025-07-25",
-        "time": null,
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": true
       }
     ],
     "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/687513b00829fe6c2b6bb629",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/sorry-baby/"
+      "strand": "https://strandfilms.eventive.org/films/687513b00829fe6c2b6bb629"
     },
     "poster": "https://image.tmdb.org/t/p/w500/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
     "description": "Something bad happened to Agnes. But life goes on\u2026 for everyone around her, at least."
@@ -1890,8 +1895,19 @@
   },
   {
     "title": "Labyrinth",
+    "title": "Labyrinth",
     "showtimes": [
       {
+        "date": "2025-07-26",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "19:00",
         "date": "2025-07-26",
         "time": "19:00",
         "venue": "Maine Film Center",
@@ -1910,39 +1926,17 @@
     ],
     "film_urls": {
       "mainefilmcenter": "https://www.watervillecreates.org/shows/labyrinth/"
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/labyrinth/"
     },
+    "poster": "https://image.tmdb.org/t/p/w500/bAMEKYoKIgvGlmHb0Luqux6Nn6s.jpg",
+    "description": "Sofia a 18 year-old girl finds herself in a situation that leaves her dazed and  confused. She has taken something, and ended up in what seems like planet Earth,  but apparently is not. On her journey she is met with a majestical being, an angel  that is set to help them through the memories of her past. Although, she soon finds  out the truth of this world, and where she is heading to. Sofia is on her own to find  her way out, and remember the painful memories of her impulsive choices."
     "poster": "https://image.tmdb.org/t/p/w500/bAMEKYoKIgvGlmHb0Luqux6Nn6s.jpg",
     "description": "Sofia a 18 year-old girl finds herself in a situation that leaves her dazed and  confused. She has taken something, and ended up in what seems like planet Earth,  but apparently is not. On her journey she is met with a majestical being, an angel  that is set to help them through the memories of her past. Although, she soon finds  out the truth of this world, and where she is heading to. Sofia is on her own to find  her way out, and remember the painful memories of her impulsive choices."
   },
   {
-    "title": "28th Maine International Film Festival",
-    "showtimes": [],
-    "film_urls": {},
-    "poster": "",
-    "description": ""
-  },
-  {
-    "title": "Maine Student Film + Video Festival",
-    "showtimes": [],
-    "film_urls": {},
-    "poster": "",
-    "description": ""
-  },
-  {
     "title": "Oh, Hi!",
-    "showtimes": [
-      {
-        "date": "2025-07-25",
-        "time": null,
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/oh-hi/"
-    },
+    "showtimes": [],
+    "film_urls": {},
     "poster": "https://image.tmdb.org/t/p/w500/XBC1Oi5pXmlmvE1n2KqaS1qm7B.jpg",
     "description": "Iris has met her perfect guy, Isaac, and is enjoying their first romantic getaway together \u2014 what could go wrong?"
   },
@@ -1981,6 +1975,13 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/bux6avxSvsO3IJuKag4gwdTQMG4.jpg",
     "description": "When Mary finds herself at the center of a public scandal and the family faces financial trouble, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future."
+  },
+  {
+    "title": "National Theatre Live: Inter Alia",
+    "showtimes": [],
+    "film_urls": {},
+    "poster": "https://image.tmdb.org/t/p/w500/no0EaB8SUBcQQMcB3sZ6HbUmykZ.jpg",
+    "description": "Jessica Parks is smart, compassionate, a true maverick at the top of her career as an eminent London Crown Court Judge. At work she\u2019s changing and challenging the system one case at a time. But behind the robe, Jessica is a karaoke fiend, a loving wife and a supportive parent. While managing the impossible juggling act faced by every working mother, an event threatens to throw her life completely off balance. Can she hold her family upright?"
   },
   {
     "title": "National Theatre Live: Inter Alia",
@@ -2511,8 +2512,11 @@
   },
   {
     "title": "My Neighbor Totoro - Studio Ghibli Fest 2025",
+    "title": "My Neighbor Totoro - Studio Ghibli Fest 2025",
     "showtimes": [
       {
+        "date": "2025-07-21",
+        "time": "7:00p",
         "date": "2025-07-21",
         "time": "7:00p",
         "venue": "Black Bear Cinemas",
@@ -2523,8 +2527,8 @@
     "film_urls": {
       "blackbear": "https://www.blackbearcinemas.com/movie/my-neighbor-totoro-studio-ghibli-fest-2025"
     },
-    "poster": "",
-    "description": ""
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+    "description": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
   },
   {
     "title": "Smurfs",
@@ -2705,12 +2709,14 @@
     "showtimes": [
       {
         "date": "2025-07-21",
+        "date": "2025-07-21",
         "time": "1:15p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
       {
+        "date": "2025-07-21",
         "date": "2025-07-21",
         "time": "3:50p",
         "venue": "Black Bear Cinemas",
@@ -2720,11 +2726,14 @@
       {
         "date": "2025-07-21",
         "time": "6:40p",
+        "date": "2025-07-21",
+        "time": "6:40p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
       {
+        "date": "2025-07-22",
         "date": "2025-07-22",
         "time": "10:45a",
         "venue": "Black Bear Cinemas",
@@ -2733,12 +2742,14 @@
       },
       {
         "date": "2025-07-22",
+        "date": "2025-07-22",
         "time": "1:15p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
       {
+        "date": "2025-07-22",
         "date": "2025-07-22",
         "time": "3:50p",
         "venue": "Black Bear Cinemas",
@@ -2748,11 +2759,14 @@
       {
         "date": "2025-07-22",
         "time": "6:30p",
+        "date": "2025-07-22",
+        "time": "6:30p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
       {
+        "date": "2025-07-23",
         "date": "2025-07-23",
         "time": "1:15p",
         "venue": "Black Bear Cinemas",
@@ -2761,12 +2775,15 @@
       },
       {
         "date": "2025-07-23",
+        "date": "2025-07-23",
         "time": "3:50p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
       {
+        "date": "2025-07-23",
+        "time": "6:30p",
         "date": "2025-07-23",
         "time": "6:30p",
         "venue": "Black Bear Cinemas",
@@ -2783,12 +2800,38 @@
   {
     "title": "Titanic",
     "showtimes": [
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/how-to-train-your-dragon"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+    "description": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society."
+  },
+  {
+    "title": "Titanic",
+    "showtimes": [
       {
         "date": "2025-07-22",
+        "time": "6:30p",
         "time": "6:30p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/titanic"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912."
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "showtimes": [
+      {
+        "date": "2025-07-24",
+        "time": "3:30p",
       }
     ],
     "film_urls": {
@@ -2810,11 +2853,15 @@
       {
         "date": "2025-07-24",
         "time": "6:20p",
+        "date": "2025-07-24",
+        "time": "6:20p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
       {
+        "date": "2025-07-24",
+        "time": "2:00p",
         "date": "2025-07-24",
         "time": "2:00p",
         "venue": "Black Bear Cinemas",
@@ -2824,11 +2871,15 @@
       {
         "date": "2025-07-24",
         "time": "4:30p",
+        "date": "2025-07-24",
+        "time": "4:30p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
       {
+        "date": "2025-07-24",
+        "time": "7:00p",
         "date": "2025-07-24",
         "time": "7:00p",
         "venue": "Black Bear Cinemas",
@@ -2838,14 +2889,20 @@
     ],
     "film_urls": {
       "blackbear": "https://www.blackbearcinemas.com/movie/the-fantastic-four-first-steps"
+      "blackbear": "https://www.blackbearcinemas.com/movie/the-fantastic-four-first-steps"
     },
+    "poster": "https://image.tmdb.org/t/p/w500/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+    "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     "poster": "https://image.tmdb.org/t/p/w500/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
     "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
   },
   {
     "title": "The Bad Guys 2",
+    "title": "The Bad Guys 2",
     "showtimes": [
       {
+        "date": "2025-07-31",
+        "time": "2:00p",
         "date": "2025-07-31",
         "time": "2:00p",
         "venue": "Black Bear Cinemas",
@@ -2853,6 +2910,8 @@
         "city": "Orono"
       },
       {
+        "date": "2025-07-31",
+        "time": "4:20p",
         "date": "2025-07-31",
         "time": "4:20p",
         "venue": "Black Bear Cinemas",
@@ -2866,7 +2925,17 @@
         "venue_id": "blackbear",
         "city": "Orono"
       },
+      },
       {
+        "date": "2025-07-31",
+        "time": "6:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "3:30p",
         "date": "2025-07-31",
         "time": "3:30p",
         "venue": "Black Bear Cinemas",
@@ -2876,6 +2945,8 @@
       {
         "date": "2025-07-31",
         "time": "6:20p",
+        "date": "2025-07-31",
+        "time": "6:20p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
@@ -2883,14 +2954,20 @@
     ],
     "film_urls": {
       "blackbear": "https://www.blackbearcinemas.com/movie/the-bad-guys-2"
+      "blackbear": "https://www.blackbearcinemas.com/movie/the-bad-guys-2"
     },
+    "poster": "https://image.tmdb.org/t/p/w500/iPYgLLhQ69vIvgDtGFtAln4TYtM.jpg",
+    "description": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls."
     "poster": "https://image.tmdb.org/t/p/w500/iPYgLLhQ69vIvgDtGFtAln4TYtM.jpg",
     "description": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls."
   },
   {
     "title": "The Naked Gun",
+    "title": "The Naked Gun",
     "showtimes": [
       {
+        "date": "2025-07-31",
+        "time": "7:00p",
         "date": "2025-07-31",
         "time": "7:00p",
         "venue": "Black Bear Cinemas",
@@ -2907,7 +2984,20 @@
   {
     "title": "Sunset Boulevard 75th Anniversary",
     "showtimes": [
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/the-naked-gun"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/5Z9tkiIDZ6u49VUeY9Fm3PuSxKT.jpg",
+    "description": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr."
+  },
+  {
+    "title": "Sunset Boulevard 75th Anniversary",
+    "showtimes": [
       {
+        "date": "2025-08-03",
+        "time": "4:00p",
         "date": "2025-08-03",
         "time": "4:00p",
         "venue": "Black Bear Cinemas",
@@ -2917,11 +3007,14 @@
       {
         "date": "2025-08-03",
         "time": "7:00p",
+        "date": "2025-08-03",
+        "time": "7:00p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
       },
       {
+        "date": "2025-08-04",
         "date": "2025-08-04",
         "time": "7:00p",
         "venue": "Black Bear Cinemas",
@@ -2931,7 +3024,10 @@
     ],
     "film_urls": {
       "blackbear": "https://www.blackbearcinemas.com/movie/sunset-boulevard-75th-anniversary"
+      "blackbear": "https://www.blackbearcinemas.com/movie/sunset-boulevard-75th-anniversary"
     },
+    "poster": "",
+    "description": ""
     "poster": "",
     "description": ""
   },
@@ -3001,9 +3097,11 @@
     "description": "When a solitary writer adopts and bonds with a Great Dane that belonged to a late friend, she begins to come to terms with her past and her own creative inner life."
   },
   {
-    "title": "INAUGURAL: NARROWS FILM FEST",
+    "title": "NARROWS FILM FEST",
     "showtimes": [
       {
+        "date": "2025-08-12",
+        "time": "18:00",
         "date": "2025-08-12",
         "time": "18:00",
         "venue": "Colonial Theatre",
@@ -3016,11 +3114,15 @@
     },
     "poster": "",
     "description": ""
+    "poster": "",
+    "description": ""
   },
   {
-    "title": "INDIE FILM: BURT",
+    "title": "BURT",
     "showtimes": [
       {
+        "date": "2025-08-19",
+        "time": "19:00",
         "date": "2025-08-19",
         "time": "19:00",
         "venue": "Colonial Theatre",
@@ -3031,8 +3133,8 @@
     "film_urls": {
       "colonial": "https://colonialtheatre.com"
     },
-    "poster": "",
-    "description": ""
+    "poster": "https://image.tmdb.org/t/p/w500/kNG3Ajv6ITj8ukchAy8jhYHDsaq.jpg",
+    "description": "Burt, a 69-year-old musician with Parkinson\u2019s, has his life turned upside down when a man from New York shows up claiming to be his son. Having always dreamed of being a father, Burt embraces Sammy and invites him to stay for the weekend, where he lives with his grumpy landlord."
   },
   {
     "title": "DOWNTON ABBEY GRAND FINAL",

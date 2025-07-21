@@ -22,7 +22,17 @@ def get_mainefilmcenter_showtimes():
     soup = BeautifulSoup(resp.text, "html.parser")
     films_by_title = {}
     # --- Now Showing Section ---
-    for tab in soup.find_all('div', class_='tab-pane'):
+    # Find the section to ignore
+    section1 = soup.find('section', id='section-1')
+    # Gather all tab-pane divs that are NOT inside section-1
+    all_tab_panes = soup.find_all('div', class_='tab-pane')
+    if section1 and isinstance(section1, Tag):
+        # Get all descendants of section1 as a set for fast lookup
+        section1_descendants = set(section1.descendants)
+        tab_panes_to_use = [tab for tab in all_tab_panes if tab not in section1_descendants]
+    else:
+        tab_panes_to_use = all_tab_panes
+    for tab in tab_panes_to_use:
         if not isinstance(tab, Tag):
             continue
         date_header = tab.find(name=re.compile(r'^h[2-4]$'))

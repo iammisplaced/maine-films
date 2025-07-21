@@ -19,8 +19,11 @@ def scrape_colonial():
         title = film.get("title", "").strip()
         if title.startswith("LIVE SHOW:"):
             continue  # Omit live shows
-        if title.startswith("NEW: "):
-            title = title[len("NEW: "):].strip()
+        # Remove prefix before colon only for specific cases
+        for prefix in ["NEW:", "INDIE FILM:", "INAUGURAL:"]:
+            if title.startswith(prefix):
+                title = title.split(":", 1)[1].strip()
+                break
         description = film.get("synopsis", "") or ""
         poster = ""  # No poster in JSON; can be filled by aggregator
         film_urls = {VENUE_ID: COLONIAL_URL}

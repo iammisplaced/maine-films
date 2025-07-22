@@ -192,6 +192,54 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -463,6 +511,102 @@
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-25",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -471,7 +615,7 @@
       "mainefilmcenter": "https://www.watervillecreates.org/shows/eddington/",
       "blackbear": "https://www.blackbearcinemas.com/movie/eddington"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
     "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
   },
   {
@@ -841,6 +985,62 @@
       {
         "date": "2025-07-24",
         "time": "15:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "12:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "15:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "18:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "15:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "12:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:30",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -1271,30 +1471,6 @@
         "city": "Brunswick"
       },
       {
-        "date": "2025-07-21",
-        "time": "14:30",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-21",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-21",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
         "date": "2025-07-23",
         "time": "14:30",
         "venue": "Maine Film Center",
@@ -1343,15 +1519,15 @@
         "coming_soon": false
       },
       {
-        "date": "2025-07-23",
-        "time": "16:00",
+        "date": "2025-07-24",
+        "time": "18:45",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
       },
       {
-        "date": "2025-07-24",
-        "time": "18:45",
+        "date": "2025-07-23",
+        "time": "16:00",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -1712,6 +1888,30 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -1889,30 +2089,6 @@
     "title": "The Life of Chuck",
     "showtimes": [
       {
-        "date": "2025-07-21",
-        "time": "14:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-21",
-        "time": "16:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-21",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
         "date": "2025-07-23",
         "time": "14:20",
         "venue": "Maine Film Center",
@@ -2067,6 +2243,30 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -2100,6 +2300,24 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/bAMEKYoKIgvGlmHb0Luqux6Nn6s.jpg",
     "description": "Sofia a 18 year-old girl finds herself in a situation that leaves her dazed and  confused. She has taken something, and ended up in what seems like planet Earth,  but apparently is not. On her journey she is met with a majestical being, an angel  that is set to help them through the memories of her past. Although, she soon finds  out the truth of this world, and where she is heading to. Sofia is on her own to find  her way out, and remember the painful memories of her impulsive choices."
+  },
+  {
+    "title": "Dark the Night and Bright the Stars",
+    "showtimes": [
+      {
+        "date": "2025-07-28",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/dark-the-night-and-bright-the-stars/"
+    },
+    "poster": "",
+    "description": ""
   },
   {
     "title": "We Are Guardians",
@@ -2143,23 +2361,6 @@
     "film_urls": {},
     "poster": "https://image.tmdb.org/t/p/w500/no0EaB8SUBcQQMcB3sZ6HbUmykZ.jpg",
     "description": "Jessica Parks is smart, compassionate, a true maverick at the top of her career as an eminent London Crown Court Judge. At work she\u2019s changing and challenging the system one case at a time. But behind the robe, Jessica is a karaoke fiend, a loving wife and a supportive parent. While managing the impossible juggling act faced by every working mother, an event threatens to throw her life completely off balance. Can she hold her family upright?"
-  },
-  {
-    "title": "Little, Big, and Far",
-    "showtimes": [
-      {
-        "date": "2025-07-21",
-        "time": "19:00",
-        "venue": "SPACE Gallery",
-        "venue_id": "space",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "space": "https://space538.org/event/little-big-and-far/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/ptXXCmUCwFdDWjFtZsa2eqxdOu4.jpg",
-    "description": "Karl, a 70-year-old Austrian astronomer, is at a crossroads in life and work. After a conference in Greece, he decides not to return home and heads for a small island in hopes of finding a sky dark enough to reconnect with the stars."
   },
   {
     "title": "Realm of Satan",
@@ -2321,6 +2522,40 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/9ijvplefhu6yx4wS0mOzDbbmbr3.jpg",
     "description": "Rising musician Jeff Buckley had only released one album when he died suddenly in 1997. Now, never-before-seen footage, exclusive voice messages, and accounts from those closest to him offer a portrait of the captivating singer."
+  },
+  {
+    "title": "Dune (1984) @ The Desert of Maine",
+    "showtimes": [
+      {
+        "date": "2025-09-02",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/david-lynch-dune-2025/"
+    },
+    "poster": "",
+    "description": ""
+  },
+  {
+    "title": "Record of a Tenement Gentleman",
+    "showtimes": [
+      {
+        "date": "2025-08-25",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/record-of-a-tenement-gentleman/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/fmlYp4hlIu59QCnBZ3A1tQ7UCVD.jpg",
+    "description": "An errant salaryman's son gets lost until a man from the Tokyo tenements brings him to vendor Tane, who's reluctant to let the kid board."
   },
   {
     "title": "Here Is Your Life",
@@ -3104,37 +3339,6 @@
     "description": "CatVideoFest is a compilation reel of the latest and best cat videos culled from countless hours of unique submissions and sourced animations, music videos, and classic internet powerhouses. CatVideoFest is a joyous communal experience, only available in theaters, and raises money for cats in need through partnerships with local cat charities, animal welfare organizations, and shelters to best serve cats in the area."
   },
   {
-    "title": "THE FRIEND",
-    "showtimes": [
-      {
-        "date": "2025-07-23",
-        "time": "13:15",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-23",
-        "time": "18:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-24",
-        "time": "16:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      }
-    ],
-    "film_urls": {
-      "colonial": "https://colonialtheatre.com"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/xPAcaKFWvbB9fXAmhIr3leBCRVJ.jpg",
-    "description": "When a solitary writer adopts and bonds with a Great Dane that belonged to a late friend, she begins to come to terms with her past and her own creative inner life."
-  },
-  {
     "title": "NARROWS FILM FEST",
     "showtimes": [
       {
@@ -3167,6 +3371,176 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/kNG3Ajv6ITj8ukchAy8jhYHDsaq.jpg",
     "description": "Burt, a 69-year-old musician with Parkinson\u2019s, has his life turned upside down when a man from New York shows up claiming to be his son. Having always dreamed of being a father, Burt embraces Sammy and invites him to stay for the weekend, where he lives with his grumpy landlord."
+  },
+  {
+    "title": "FANTASTIC FOUR FIRST STEP",
+    "showtimes": [
+      {
+        "date": "2025-07-26",
+        "time": "13:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-24",
+        "time": "18:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "15:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "18:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "15:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      }
+    ],
+    "film_urls": {
+      "colonial": "https://colonialtheatre.com"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+    "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
+  },
+  {
+    "title": "THE FRIEND",
+    "showtimes": [
+      {
+        "date": "2025-07-26",
+        "time": "16:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "18:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-24",
+        "time": "16:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-23",
+        "time": "13:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-23",
+        "time": "18:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      }
+    ],
+    "film_urls": {
+      "colonial": "https://colonialtheatre.com"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/xPAcaKFWvbB9fXAmhIr3leBCRVJ.jpg",
+    "description": "When a solitary writer adopts and bonds with a Great Dane that belonged to a late friend, she begins to come to terms with her past and her own creative inner life."
+  },
+  {
+    "title": "SHOSHANA",
+    "showtimes": [
+      {
+        "date": "2025-07-26",
+        "time": "13:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "16:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "16:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      }
+    ],
+    "film_urls": {
+      "colonial": "https://colonialtheatre.com"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/o5fnmUDQ4lgpJynXQxJI8mWLsqw.jpg",
+    "description": "In this edge-of-your-seat thriller inspired by real events, a British police officer and a Jewish woman fall in love amidst the political turmoil of 1930s Tel Aviv. With British control over Palestine precarious and conflict inevitable, everyone is forced to choose a side. From acclaimed director Michael Winterbottom (The Trip, A Mighty Heart)."
   },
   {
     "title": "DOWNTON ABBEY GRAND FINAL",

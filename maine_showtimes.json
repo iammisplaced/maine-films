@@ -384,6 +384,54 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-23",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -655,6 +703,102 @@
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-25",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       },
       {
         "date": "2025-07-25",
@@ -1739,6 +1883,20 @@
         "venue_id": "X020R",
         "city": "Brunswick",
         "coming_soon": true
+      },
+      {
+        "date": "2025-07-25",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
       }
     ],
     "film_urls": {
@@ -1893,6 +2051,89 @@
     "description": ""
   },
   {
+    "title": "Close Encounters of the Third Kind",
+    "showtimes": [
+      {
+        "date": "2025-07-26",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/881-close-encounters-of-the-third-kind/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+    "description": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen."
+  },
+  {
+    "title": "Mr. Blake, At Your Service!",
+    "showtimes": [
+      {
+        "date": "2025-07-25",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/298735-mr-blake-at-your-service/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
+    "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
+  },
+  {
     "title": "Materialists",
     "showtimes": [
       {
@@ -1991,60 +2232,6 @@
     "description": "Familiar Touch is a coming of (old) age film. It follows an octogenarian woman\u2019s transition to life in assisted living as she contends with her conflicting desires and self-narratives amidst her shifting age identity and memory."
   },
   {
-    "title": "Close Encounters of the Third Kind",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/881-close-encounters-of-the-third-kind/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
-    "description": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen."
-  },
-  {
-    "title": "Mr. Blake, At Your Service!",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/298735-mr-blake-at-your-service/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
-    "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
-  },
-  {
-    "title": "In the Bedroom",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/36756-in-the-bedroom/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/IQj11YbraLDyPYaz79jtDoAscc.jpg",
-    "description": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy."
-  },
-  {
     "title": "My Mother\u2019s Wedding",
     "showtimes": [
       {
@@ -2079,6 +2266,24 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
     "description": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000."
+  },
+  {
+    "title": "In the Bedroom",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/36756-in-the-bedroom/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+    "description": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy."
   },
   {
     "title": "Highest 2 Lowest",
@@ -3578,7 +3783,7 @@
     "film_urls": {
       "blackbear": "https://www.blackbearcinemas.com/movie/how-to-train-your-dragon"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/tc8bk3gzK3lGVMxK5vzJkBKwPd7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg",
     "description": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society."
   },
   {

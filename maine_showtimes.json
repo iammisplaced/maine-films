@@ -600,6 +600,30 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-24",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -1751,6 +1775,118 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-25",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-25",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -2637,7 +2773,7 @@
       "strand": "https://strandfilms.eventive.org/films/684ab9e529f060d5b044af26"
     },
     "poster": "https://image.tmdb.org/t/p/w500/rpddAqHJXYGWfGWeYvi6EKIjLho.jpg",
-    "description": ""
+    "description": "Grateful Dead celebrate their 60th Anniversary with a highly anticipated return to big screens for the annual theatrical event \u201cMeet-Up At The Movies\u201d in select territories worldwide on August 14. For a limited time only, this special cinematic event allows fans to come together and celebrate the enduring legacy of the Grateful Dead. THE GRATEFUL DEAD MOVIE follows the legendary band on what at the time was believed to be their final performances, a five-night run at San Francisco's Winterland Ballroom in October 1974, the final night billed as \u201cThe Last One.\u201d Featuring stellar live performances, mind-bending animation, interviews with band members and crew, the film has a rare focus on the band\u2019s fans and their deep commitment to the Dead Head lifestyle. Be sure to stay till the end for the exclusive theatrical premier of \u201cChina Cat Sunflower > I Know You Rider\u201d, a bonus live performance not included in the official release."
   },
   {
     "title": "Close Encounters of the Third Kind",
@@ -2867,6 +3003,27 @@
       {
         "date": "2025-07-24",
         "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-25",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-26",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-30",
+        "time": "19:00",
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
@@ -3777,24 +3934,6 @@
     "description": "An errant salaryman's son gets lost until a man from the Tokyo tenements brings him to vendor Tane, who's reluctant to let the kid board."
   },
   {
-    "title": "Here Is Your Life",
-    "showtimes": [
-      {
-        "date": "",
-        "time": null,
-        "venue": "Kinonik",
-        "venue_id": "kinonik",
-        "city": "Portland",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "kinonik": "https://www.zeffy.com/ticketing/here-is-your-life"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/38avk1EQKfHkKkA0UVYjcFZ93ML.jpg",
-    "description": "A working class teenager comes of age in 1910s rural Sweden, moving through a series of jobs and romances that gradually shape his future."
-  },
-  {
     "title": "rififi",
     "showtimes": [
       {
@@ -4631,7 +4770,7 @@
       "colonial": "https://colonialtheatre.com"
     },
     "poster": "https://image.tmdb.org/t/p/w500/o5fnmUDQ4lgpJynXQxJI8mWLsqw.jpg",
-    "description": "In this edge-of-your-seat thriller inspired by real events, a British police officer and a Jewish woman fall in love amidst the political turmoil of 1930s Tel Aviv. With British control over Palestine precarious and conflict inevitable, everyone is forced to choose a side. From acclaimed director Michael Winterbottom (The Trip, A Mighty Heart)."
+    "description": "In this edge-of-your-seat thriller inspired by real events, a British police officer and a Jewish woman fall in love amidst the political turmoil of 1930s Tel Aviv. With British control over Palestine precarious and conflict inevitable, everyone is forced to choose a side."
   },
   {
     "title": "DOWNTON ABBEY GRAND FINAL",
@@ -4682,6 +4821,13 @@
         "city": "Belfast"
       },
       {
+        "date": "2025-07-25",
+        "time": "18:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
         "date": "2025-07-30",
         "time": "13:15",
         "venue": "Colonial Theatre",
@@ -4698,13 +4844,6 @@
       {
         "date": "2025-07-30",
         "time": "15:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-25",
-        "time": "18:15",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"

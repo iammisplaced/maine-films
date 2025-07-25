@@ -2407,6 +2407,134 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-25",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-25",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -3080,7 +3208,7 @@
       "blackbear": "https://www.blackbearcinemas.com/movie/jurassic-world-rebirth",
       "colonial": "https://colonialtheatre.com"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/q0fGCmjLu42MPlSO9OYWpI5w86I.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
     "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades."
   },
   {
@@ -3379,42 +3507,6 @@
     "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
   },
   {
-    "title": "Familiar Touch",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/1000000249-familiar-touch/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/zUKpIGBCiUTyFTEPJxc7nJtLU3P.jpg",
-    "description": "Familiar Touch is a coming of (old) age film. It follows an octogenarian woman\u2019s transition to life in assisted living as she contends with her conflicting desires and self-narratives amidst her shifting age identity and memory."
-  },
-  {
-    "title": "Materialists",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/326585-materialists/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
-    "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex."
-  },
-  {
     "title": "My Mother\u2019s Wedding",
     "showtimes": [
       {
@@ -3433,24 +3525,6 @@
     "description": "Three sisters return to their home for the third wedding of their twice-widowed mother. But the mother and daughters are forced to revisit the past and confront the future, with help from a colorful group of unexpected wedding guests."
   },
   {
-    "title": "Woodstock (1970)",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/2634-woodstock-1970/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
-    "description": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000."
-  },
-  {
     "title": "In the Bedroom",
     "showtimes": [
       {
@@ -3467,6 +3541,24 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/IQj11YbraLDyPYaz79jtDoAscc.jpg",
     "description": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy."
+  },
+  {
+    "title": "Woodstock (1970)",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/2634-woodstock-1970/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
+    "description": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000."
   },
   {
     "title": "Highest 2 Lowest",
@@ -3804,6 +3896,44 @@
     "description": "Something bad happened to Agnes. But life goes on\u2026 for everyone around her, at least."
   },
   {
+    "title": "The Ghost Trap",
+    "showtimes": [
+      {
+        "date": "2025-07-31",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-01",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-02",
+        "time": "20:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-03",
+        "time": "20:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/68504b75aafd3d07bdea9cc5"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/1FPUKh7NLfOttF1IfFgL8cvcEqe.jpg",
+    "description": "The story of Jamie Eugley, a young lobsterman struggling with the grinding responsibilities of a head-injured fianc\u00e9e and a mounting trap war with a rival lobstering family."
+  },
+  {
     "title": "Rockland: A Maritime Heritage",
     "showtimes": [
       {
@@ -3840,37 +3970,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/24oKyaoN7E1eC2TM9qChyTfmxmc.jpg",
     "description": "The history of the city of Rockland from its settlement as part of Thomaston to the city it is today, tracing the ebbs and flows of its evolution through its ties to the sea."
-  },
-  {
-    "title": "The Ghost Trap",
-    "showtimes": [
-      {
-        "date": "2025-08-01",
-        "time": "17:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-08-02",
-        "time": "20:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "20:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      }
-    ],
-    "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/68504b75aafd3d07bdea9cc5"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/1FPUKh7NLfOttF1IfFgL8cvcEqe.jpg",
-    "description": "The story of Jamie Eugley, a young lobsterman struggling with the grinding responsibilities of a head-injured fianc\u00e9e and a mounting trap war with a rival lobstering family."
   },
   {
     "title": "CatVideoFest 2025",
@@ -4180,20 +4279,6 @@
     },
     "poster": "",
     "description": ""
-  },
-  {
-    "title": "The Life of Chuck",
-    "showtimes": [],
-    "film_urls": {},
-    "poster": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
-    "description": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us."
-  },
-  {
-    "title": "The Search for Signs of Intelligent Life in the Universe",
-    "showtimes": [],
-    "film_urls": {},
-    "poster": "https://image.tmdb.org/t/p/w500/6ylOY1DD9b8qe9P7N7FVKv5HlSv.jpg",
-    "description": "The filmed version of the one-woman stage show written by Jane Wagner and starring Lily Tomlin, which won the Drama Desk Award for Unique Theatrical Experience. The film stays true to the original stage performance. For her efforts on film and stage, Tomlin received a Tony Award, and Funniest Actress in a Motion Picture in the American Comedy Awards."
   },
   {
     "title": "We Are Guardians",

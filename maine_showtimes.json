@@ -2023,6 +2023,134 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-25",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-25",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -2995,38 +3123,33 @@
     "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
   },
   {
+    "title": "Familiar Touch",
+    "showtimes": [
+      {
+        "date": null,
+        "time": null,
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/1000000249-familiar-touch/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/zUKpIGBCiUTyFTEPJxc7nJtLU3P.jpg",
+    "description": "Familiar Touch is a coming of (old) age film. It follows an octogenarian woman\u2019s transition to life in assisted living as she contends with her conflicting desires and self-narratives amidst her shifting age identity and memory."
+  },
+  {
     "title": "Materialists",
     "showtimes": [
       {
-        "date": "2025-07-24",
-        "time": "19:00",
+        "date": null,
+        "time": null,
         "venue": "Eveningstar Cinema",
         "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-07-24",
-        "time": "14:30",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
+        "city": "Brunswick",
+        "coming_soon": true
       },
       {
         "date": "2025-07-24",
@@ -3038,28 +3161,10 @@
     ],
     "film_urls": {
       "X020R": "https://www.eveningstarcinema.com/movies/326585-materialists/",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/materialists/",
       "colonial": "https://colonialtheatre.com"
     },
     "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
     "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex."
-  },
-  {
-    "title": "Familiar Touch",
-    "showtimes": [
-      {
-        "date": "2025-07-24",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/1000000249-familiar-touch/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/zUKpIGBCiUTyFTEPJxc7nJtLU3P.jpg",
-    "description": "Familiar Touch is a coming of (old) age film. It follows an octogenarian woman\u2019s transition to life in assisted living as she contends with her conflicting desires and self-narratives amidst her shifting age identity and memory."
   },
   {
     "title": "My Mother\u2019s Wedding",
@@ -3136,13 +3241,6 @@
   {
     "title": "The Last Class",
     "showtimes": [
-      {
-        "date": "2025-07-24",
-        "time": "17:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
       {
         "date": "2025-07-25",
         "time": "19:00",
@@ -3424,6 +3522,30 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -3598,50 +3720,6 @@
     "description": "When an actor finds love with his co-star in a dating app commercial that unexpectedly goes viral, he finds himself at the center of the rom-com story he's always dreamed of."
   },
   {
-    "title": "The Life of Chuck",
-    "showtimes": [
-      {
-        "date": "2025-07-24",
-        "time": "14:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-24",
-        "time": "16:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      }
-    ],
-    "film_urls": {
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-life-of-chuck/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
-    "description": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us."
-  },
-  {
-    "title": "The Search for Signs of Intelligent Life in the Universe",
-    "showtimes": [
-      {
-        "date": "2025-07-24",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      }
-    ],
-    "film_urls": {
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-search-for-signs-of-intelligent-life-in-the-universe/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/6ylOY1DD9b8qe9P7N7FVKv5HlSv.jpg",
-    "description": "The filmed version of the one-woman stage show written by Jane Wagner and starring Lily Tomlin, which won the Drama Desk Award for Unique Theatrical Experience. The film stays true to the original stage performance. For her efforts on film and stage, Tomlin received a Tony Award, and Funniest Actress in a Motion Picture in the American Comedy Awards."
-  },
-  {
     "title": "Oh, Hi!",
     "showtimes": [
       {
@@ -3779,6 +3857,30 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -3830,6 +3932,20 @@
     },
     "poster": "",
     "description": ""
+  },
+  {
+    "title": "The Life of Chuck",
+    "showtimes": [],
+    "film_urls": {},
+    "poster": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "description": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us."
+  },
+  {
+    "title": "The Search for Signs of Intelligent Life in the Universe",
+    "showtimes": [],
+    "film_urls": {},
+    "poster": "https://image.tmdb.org/t/p/w500/6ylOY1DD9b8qe9P7N7FVKv5HlSv.jpg",
+    "description": "The filmed version of the one-woman stage show written by Jane Wagner and starring Lily Tomlin, which won the Drama Desk Award for Unique Theatrical Experience. The film stays true to the original stage performance. For her efforts on film and stage, Tomlin received a Tony Award, and Funniest Actress in a Motion Picture in the American Comedy Awards."
   },
   {
     "title": "We Are Guardians",
@@ -3890,30 +4006,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/hjLXs30MMKh73XFpi8gkYOUFcik.jpg",
     "description": "An experiential portrait depicting Satanists in both the everyday and in the extraordinary as they fight to preserve their lifestyle: magic, mystery, and misanthropy."
-  },
-  {
-    "title": "MOFF: Turtle Walker, Canoe Dig It?",
-    "showtimes": [
-      {
-        "date": "2025-07-24",
-        "time": "18:00",
-        "venue": "SPACE Gallery",
-        "venue_id": "space",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-24",
-        "time": "20:00",
-        "venue": "SPACE Gallery",
-        "venue_id": "space",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "space": "https://space538.org/event/moff-thurs-2025/"
-    },
-    "poster": "https://eventive.imgix.net/1749660835755bb1ce6f6ebbe48208e30.jpg",
-    "description": "A comical look into the world of \"Freestyle Canoeing\" as a group of canoeists compete for the title of \"Top Paddler\" on a lake in Maine."
   },
   {
     "title": "MOFF: Milkweed Program (Shorts), Snail Hunters, Kai Jones\u2019 Falling Into Place, Fairy Creek",

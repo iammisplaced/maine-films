@@ -2535,6 +2535,118 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-26",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -2543,7 +2655,7 @@
       "mainefilmcenter": "https://www.watervillecreates.org/shows/eddington/",
       "blackbear": "https://www.blackbearcinemas.com/movie/eddington"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
     "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
   },
   {
@@ -2993,6 +3105,27 @@
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "12:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
       }
     ],
     "film_urls": {
@@ -3413,12 +3546,21 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
+      },
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
       "nickelodeon": "https://patriotcinemas.com/movie/the-grateful-dead-movie-2025-meet-up",
       "X020R": "https://www.eveningstarcinema.com/movies/1000006432-the-grateful-dead-movie-2025-meet-up/",
-      "strand": "https://strandfilms.eventive.org/films/684ab9e529f060d5b044af26"
+      "strand": "https://strandfilms.eventive.org/films/684ab9e529f060d5b044af26",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-grateful-dead-movie-2025-meet-up/"
     },
     "poster": "https://image.tmdb.org/t/p/w500/rpddAqHJXYGWfGWeYvi6EKIjLho.jpg",
     "description": "Grateful Dead celebrate their 60th Anniversary with a highly anticipated return to big screens for the annual theatrical event \u201cMeet-Up At The Movies\u201d in select territories worldwide on August 14. For a limited time only, this special cinematic event allows fans to come together and celebrate the enduring legacy of the Grateful Dead. THE GRATEFUL DEAD MOVIE follows the legendary band on what at the time was believed to be their final performances, a five-night run at San Francisco's Winterland Ballroom in October 1974, the final night billed as \u201cThe Last One.\u201d Featuring stellar live performances, mind-bending animation, interviews with band members and crew, the film has a rare focus on the band\u2019s fans and their deep commitment to the Dead Head lifestyle. Be sure to stay till the end for the exclusive theatrical premier of \u201cChina Cat Sunflower > I Know You Rider\u201d, a bonus live performance not included in the official release."
@@ -3457,20 +3599,6 @@
   {
     "title": "Mr. Blake, At Your Service!",
     "showtimes": [
-      {
-        "date": "2025-07-25",
-        "time": "13:30",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-07-25",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
       {
         "date": "2025-07-26",
         "time": "13:30",
@@ -3579,46 +3707,8 @@
     "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma."
   },
   {
-    "title": "The Last Class",
-    "showtimes": [
-      {
-        "date": "2025-07-25",
-        "time": "19:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-26",
-        "time": "19:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-30",
-        "time": "19:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      }
-    ],
-    "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/6859604fd45d7287dcdad316"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/xoX69VuEJ5H51dqC3nKQbiZNQd0.jpg",
-    "description": "American political economist, professor, author, and social media sensation Robert Reich teaches his final \"Wealth and Poverty\" class to 1,000 students at UC Berkeley, ending a 40-year career that reached 40,000 students. One thousand fill the biggest lecture hall on the UC Berkeley campus, the last class to receive Reich's wisdom and exhortations not to accept that the world has to stay the way it is. His belief in the next generation's ability to take on the fight is inspiring."
-  },
-  {
     "title": "Sorry, Baby",
     "showtimes": [
-      {
-        "date": "2025-07-25",
-        "time": "21:30",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
       {
         "date": "2025-07-26",
         "time": "00:00",
@@ -3702,30 +3792,6 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
-      },
-      {
-        "date": "2025-07-25",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-25",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-25",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-07-26",
@@ -3894,6 +3960,30 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
     "description": "Something bad happened to Agnes. But life goes on\u2026 for everyone around her, at least."
+  },
+  {
+    "title": "The Last Class",
+    "showtimes": [
+      {
+        "date": "2025-07-26",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-07-30",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/6859604fd45d7287dcdad316"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/xoX69VuEJ5H51dqC3nKQbiZNQd0.jpg",
+    "description": "American political economist, professor, author, and social media sensation Robert Reich teaches his final \"Wealth and Poverty\" class to 1,000 students at UC Berkeley, ending a 40-year career that reached 40,000 students. One thousand fill the biggest lecture hall on the UC Berkeley campus, the last class to receive Reich's wisdom and exhortations not to accept that the world has to stay the way it is. His belief in the next generation's ability to take on the fight is inspiring."
   },
   {
     "title": "The Ghost Trap",
@@ -4069,30 +4159,6 @@
   {
     "title": "Oh, Hi!",
     "showtimes": [
-      {
-        "date": "2025-07-25",
-        "time": "15:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-25",
-        "time": "17:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-25",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
       {
         "date": "2025-07-26",
         "time": "12:50",
@@ -5224,23 +5290,6 @@
     "description": ""
   },
   {
-    "title": "CAT VIDEO FEST",
-    "showtimes": [
-      {
-        "date": "2025-08-01",
-        "time": "16:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      }
-    ],
-    "film_urls": {
-      "colonial": "https://colonialtheatre.com"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/qqKUCjSH1tdIrxWwMJ8PxA7og4o.jpg",
-    "description": "CatVideoFest is a compilation reel of the latest and best cat videos culled from countless hours of unique submissions and sourced animations, music videos, and classic internet powerhouses. CatVideoFest is a joyous communal experience, only available in theaters, and raises money for cats in need through partnerships with local cat charities, animal welfare organizations, and shelters to best serve cats in the area."
-  },
-  {
     "title": "NARROWS FILM FEST",
     "showtimes": [
       {
@@ -5299,6 +5348,13 @@
         "city": "Belfast"
       },
       {
+        "date": "2025-07-31",
+        "time": "13:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
         "date": "2025-07-25",
         "time": "18:45",
         "venue": "Colonial Theatre",
@@ -5315,6 +5371,13 @@
       {
         "date": "2025-07-30",
         "time": "13:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:45",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -5361,6 +5424,27 @@
         "city": "Belfast"
       },
       {
+        "date": "2025-07-31",
+        "time": "13:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
         "date": "2025-07-26",
         "time": "13:15",
         "venue": "Colonial Theatre",
@@ -5375,7 +5459,14 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-07-25",
+        "date": "2025-07-30",
+        "time": "13:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-07-30",
         "time": "18:15",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
@@ -5389,14 +5480,7 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-07-30",
-        "time": "13:15",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-30",
+        "date": "2025-07-25",
         "time": "18:15",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
@@ -5438,7 +5522,7 @@
     "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
   },
   {
-    "title": "OLDER: FRIEND",
+    "title": "THE FRIEND",
     "showtimes": [
       {
         "date": "2025-07-26",
@@ -5467,12 +5551,36 @@
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "16:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
       }
     ],
     "film_urls": {
       "colonial": "https://colonialtheatre.com"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/yJ8iVpaGofCNYbbv9NjFBCBMBG9.jpg",
-    "description": "Joon-soo learns that his friend Hee-gyu's sister Hee-jin has no where to go after being scammed, so he suggests living with him. The two start living together. They are close like brother and sister but they can never be that. The two start getting funny and Joon-soo can't go to sleep at the thought of Hee-jin sleeping just a wall away from him. Mi-na, Joon-soo's girlfriend notices Joon-soo changing and seduces Joon-soo at his house where Hee-jin is. Is it the girlfriend or the sister?"
+    "poster": "https://image.tmdb.org/t/p/w500/xPAcaKFWvbB9fXAmhIr3leBCRVJ.jpg",
+    "description": "Starring Oscar nominees Naomi Watts and Bill Murray, alongside Bing the Great Dane, THE FRIEND is an unexpected and heartwarming journey through love, friendship, grief, and healing."
+  },
+  {
+    "title": "CAT VIDEO FEST",
+    "showtimes": [
+      {
+        "date": "2025-08-01",
+        "time": "16:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      }
+    ],
+    "film_urls": {
+      "colonial": "https://colonialtheatre.com"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/qqKUCjSH1tdIrxWwMJ8PxA7og4o.jpg",
+    "description": "CatVideoFest is a compilation reel of the latest and best cat videos culled from countless hours of unique submissions and sourced animations, music videos, and classic internet powerhouses. CatVideoFest is a joyous communal experience, only available in theaters, and raises money for cats in need through partnerships with local cat charities, animal welfare organizations, and shelters to best serve cats in the area."
   }
 ]

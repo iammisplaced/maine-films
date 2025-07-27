@@ -2975,6 +2975,94 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -3906,6 +3994,22 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-16",
+        "time": "12:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -3920,13 +4024,6 @@
   {
     "title": "Close Encounters of the Third Kind",
     "showtimes": [
-      {
-        "date": "2025-07-26",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
       {
         "date": "2025-07-27",
         "time": "16:15",
@@ -3951,20 +4048,6 @@
   {
     "title": "Mr. Blake, At Your Service!",
     "showtimes": [
-      {
-        "date": "2025-07-26",
-        "time": "13:30",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-07-26",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
       {
         "date": "2025-07-27",
         "time": "13:30",
@@ -4059,39 +4142,8 @@
     "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma."
   },
   {
-    "title": "The Last Class",
-    "showtimes": [
-      {
-        "date": "2025-07-26",
-        "time": "19:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-07-30",
-        "time": "19:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      }
-    ],
-    "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/6859604fd45d7287dcdad316"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/xoX69VuEJ5H51dqC3nKQbiZNQd0.jpg",
-    "description": "American political economist, professor, author, and social media sensation Robert Reich teaches his final \"Wealth and Poverty\" class to 1,000 students at UC Berkeley, ending a 40-year career that reached 40,000 students. One thousand fill the biggest lecture hall on the UC Berkeley campus, the last class to receive Reich's wisdom and exhortations not to accept that the world has to stay the way it is. His belief in the next generation's ability to take on the fight is inspiring."
-  },
-  {
     "title": "Sorry, Baby",
     "showtimes": [
-      {
-        "date": "2025-07-26",
-        "time": "21:30",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
       {
         "date": "2025-07-27",
         "time": "00:00",
@@ -4161,30 +4213,6 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
-      },
-      {
-        "date": "2025-07-26",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-26",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-26",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-07-27",
@@ -4321,6 +4349,23 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
     "description": "Something bad happened to Agnes. But life goes on\u2026 for everyone around her, at least."
+  },
+  {
+    "title": "The Last Class",
+    "showtimes": [
+      {
+        "date": "2025-07-30",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/6859604fd45d7287dcdad316"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/xoX69VuEJ5H51dqC3nKQbiZNQd0.jpg",
+    "description": "American political economist, professor, author, and social media sensation Robert Reich teaches his final \"Wealth and Poverty\" class to 1,000 students at UC Berkeley, ending a 40-year career that reached 40,000 students. One thousand fill the biggest lecture hall on the UC Berkeley campus, the last class to receive Reich's wisdom and exhortations not to accept that the world has to stay the way it is. His belief in the next generation's ability to take on the fight is inspiring."
   },
   {
     "title": "The Ghost Trap",
@@ -4497,22 +4542,6 @@
     "title": "Oh, Hi!",
     "showtimes": [
       {
-        "date": "2025-07-26",
-        "time": "15:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-26",
-        "time": "17:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
         "date": "2025-07-27",
         "time": "12:50",
         "venue": "Maine Film Center",
@@ -4634,14 +4663,6 @@
   {
     "title": "Labyrinth",
     "showtimes": [
-      {
-        "date": "2025-07-26",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
       {
         "date": "2025-07-27",
         "time": "19:00",

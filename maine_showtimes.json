@@ -3151,6 +3151,94 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-27",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -4114,6 +4202,22 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-16",
+        "time": "12:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -5040,8 +5144,8 @@
     "film_urls": {
       "kinonik": "https://www.zeffy.com/ticketing/ashes-and-diamonds"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/nE8aqRvVnRQEqskiarnFhdJdk8g.jpg",
-    "description": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales."
+    "poster": "",
+    "description": ""
   },
   {
     "title": "THE TRIAL",
@@ -5076,8 +5180,8 @@
     "film_urls": {
       "kinonik": "https://www.zeffy.com/ticketing/treasure-of-the-sierra-madre"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
-    "description": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey."
+    "poster": "",
+    "description": ""
   },
   {
     "title": "The Long Goodbye",
@@ -5120,8 +5224,8 @@
     "film_urls": {
       "kinonik": "https://www.zeffy.com/ticketing/invasion-of-the-body-snatchers"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
-    "description": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates."
+    "poster": "",
+    "description": ""
   },
   {
     "title": "On the Beach",
@@ -5198,8 +5302,8 @@
     "film_urls": {
       "kinonik": "https://www.zeffy.com/en-US/ticketing/north-by-northwest"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
-    "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase."
+    "poster": "",
+    "description": ""
   },
   {
     "title": "No Way Out",
@@ -5250,8 +5354,8 @@
     "film_urls": {
       "kinonik": "https://www.zeffy.com/ticketing/cul-de-sac"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/jxNATC8t1rmrVMCMVMEAp41bgVm.jpg",
-    "description": "On the run and in search of help, two wounded gangsters find refuge in the secluded castle of a feeble man and his wife; however, under the point of a gun, nothing is what it seems."
+    "poster": "",
+    "description": ""
   },
   {
     "title": "Withnail and I",
@@ -5328,8 +5432,8 @@
     "film_urls": {
       "kinonik": "https://www.zeffy.com/en-US/ticketing/creature-from-the-black-lagoon"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/euCzA2Exc70MpTDCVYih8tdE7z1.jpg",
-    "description": "When scientists exploring the Amazon River stumble on a \u201cmissing link\u201d connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fianc\u00e9e, Kay."
+    "poster": "",
+    "description": ""
   },
   {
     "title": "My Neighbor Totoro - Studio Ghibli Fest 2025",

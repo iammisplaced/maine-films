@@ -141,6 +141,94 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "15:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -521,6 +609,70 @@
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
+      },
+      {
+        "date": "2025-07-28",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-28",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-29",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-30",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-07-31",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -971,6 +1123,22 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-16",
+        "time": "12:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -1000,6 +1168,30 @@
     "description": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen."
   },
   {
+    "title": "My Other Side",
+    "showtimes": [
+      {
+        "date": "2025-08-02",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-03",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/239214-my-other-side/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/jz0Ya6VR5aznjxuQbNmvUxRt2g9.jpg",
+    "description": "Legendary warrior Zakro must fight his evil side which has taken on a life of his own."
+  },
+  {
     "title": "Mr. Blake, At Your Service!",
     "showtimes": [
       {
@@ -1015,24 +1207,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
     "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
-  },
-  {
-    "title": "The Phoenician Scheme",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/316205-the-phoenician-scheme/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/jtEqpy0K1iVuCebRwWqT6BZ6jLN.jpg",
-    "description": "Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists, and determined assassins."
   },
   {
     "title": "My Mother\u2019s Wedding",
@@ -2385,7 +2559,7 @@
     "film_urls": {
       "blackbear": "https://www.blackbearcinemas.com/movie/weapons"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/yrNqjlabBhEpB5tFCysWtnMx5C5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
     "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance."
   },
   {

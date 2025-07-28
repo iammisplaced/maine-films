@@ -28,13 +28,6 @@
     "showtimes": [
       {
         "date": "2025-07-28",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-28",
         "time": "15:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -155,13 +148,6 @@
     "showtimes": [
       {
         "date": "2025-07-28",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-28",
         "time": "16:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -184,20 +170,6 @@
       {
         "date": "2025-07-28",
         "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-28",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-28",
-        "time": "2:00p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
@@ -400,13 +372,6 @@
     "showtimes": [
       {
         "date": "2025-07-28",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-28",
         "time": "17:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -422,13 +387,6 @@
   {
     "title": "Eddington",
     "showtimes": [
-      {
-        "date": "2025-07-28",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
       {
         "date": "2025-07-28",
         "time": "16:30",
@@ -537,13 +495,6 @@
     "showtimes": [
       {
         "date": "2025-07-28",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-28",
         "time": "16:20",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -555,13 +506,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-28",
-        "time": "1:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-28",
@@ -639,13 +583,6 @@
     "showtimes": [
       {
         "date": "2025-07-28",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-28",
         "time": "15:40",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -664,13 +601,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-28",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-28",
@@ -778,8 +708,8 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-07-27",
-        "time": "12:45",
+        "date": "2025-07-30",
+        "time": "18:30",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -794,27 +724,6 @@
       {
         "date": "2025-07-30",
         "time": "15:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-30",
-        "time": "18:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-27",
-        "time": "15:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-27",
-        "time": "18:30",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -839,6 +748,20 @@
         "city": "Portland"
       },
       {
+        "date": "2025-08-02",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-03",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
         "date": "2025-07-29",
         "time": "19:00",
         "venue": "Colonial Theatre",
@@ -848,6 +771,7 @@
     ],
     "film_urls": {
       "nickelodeon": "https://patriotcinemas.com/movie/other-side",
+      "X020R": "https://www.eveningstarcinema.com/movies/1000028259-other-side/",
       "colonial": "https://colonialtheatre.com"
     },
     "poster": "https://image.tmdb.org/t/p/w500/vCr6EjPAeuxKKY9qr7rREkOOizQ.jpg",
@@ -998,30 +922,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
     "description": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen."
-  },
-  {
-    "title": "My Other Side",
-    "showtimes": [
-      {
-        "date": "2025-08-02",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "13:30",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/239214-my-other-side/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/jz0Ya6VR5aznjxuQbNmvUxRt2g9.jpg",
-    "description": "Legendary warrior Zakro must fight his evil side which has taken on a life of his own."
   },
   {
     "title": "Mr. Blake, At Your Service!",
@@ -1500,17 +1400,43 @@
     "description": "Jessica Parks is smart, compassionate, a true maverick at the top of her career as an eminent London Crown Court Judge. At work she\u2019s changing and challenging the system one case at a time. But behind the robe, Jessica is a karaoke fiend, a loving wife and a supportive parent. While managing the impossible juggling act faced by every working mother, an event threatens to throw her life completely off balance. Can she hold her family upright?"
   },
   {
-    "title": "Labyrinth",
-    "showtimes": [],
-    "film_urls": {},
-    "poster": "https://image.tmdb.org/t/p/w500/bAMEKYoKIgvGlmHb0Luqux6Nn6s.jpg",
-    "description": "Sofia a 18 year-old girl finds herself in a situation that leaves her dazed and  confused. She has taken something, and ended up in what seems like planet Earth,  but apparently is not. On her journey she is met with a majestical being, an angel  that is set to help them through the memories of her past. Although, she soon finds  out the truth of this world, and where she is heading to. Sofia is on her own to find  her way out, and remember the painful memories of her impulsive choices."
+    "title": "It\u2019s Never Over, Jeff Buckley",
+    "showtimes": [
+      {
+        "date": "2025-08-08",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      },
+      {
+        "date": "2025-08-08",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "16:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/its-never-over-jeff-buckley/",
+      "space": "https://space538.org/event/its-never-over-jeff-buckley/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/9ijvplefhu6yx4wS0mOzDbbmbr3.jpg",
+    "description": "Rising musician Jeff Buckley had only released one album when he died suddenly in 1997. Now, never-before-seen footage, exclusive voice messages, and accounts from those closest to him offer a portrait of the captivating singer."
   },
   {
     "title": "We Are Guardians",
     "showtimes": [
       {
-        "date": "2025-08-15",
+        "date": "2025-08-08",
         "time": null,
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
@@ -1523,6 +1449,24 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/onJwNkFurxZ0sC9pNqUkFB8nF7G.jpg",
     "description": "In this expansive character-driven expos\u00e9, Indigenous guardians of the Amazon rainforest in Brazil fight to protect their territories from the ravages of extractive industries, confronting deforestation by illegal loggers, corrupt politicians and profit hungry global corporations."
+  },
+  {
+    "title": "O Brother, Where Art Thou?",
+    "showtimes": [
+      {
+        "date": "2025-08-08",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/o-brother-where-art-thou/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+    "description": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them."
   },
   {
     "title": "Downton Abbey: The Grand Finale",
@@ -1616,30 +1560,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/3dTnNYq0TZYkTLqRXgHz3OBxcFA.jpg",
     "description": "A teenager in suburban Florida desperately hustles to make $5,000 in this dreamy and surreal animated coming-of-age story."
-  },
-  {
-    "title": "It\u2019s Never Over, Jeff Buckley",
-    "showtimes": [
-      {
-        "date": "2025-08-08",
-        "time": "19:00",
-        "venue": "SPACE Gallery",
-        "venue_id": "space",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "16:00",
-        "venue": "SPACE Gallery",
-        "venue_id": "space",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "space": "https://space538.org/event/its-never-over-jeff-buckley/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/9ijvplefhu6yx4wS0mOzDbbmbr3.jpg",
-    "description": "Rising musician Jeff Buckley had only released one album when he died suddenly in 1997. Now, never-before-seen footage, exclusive voice messages, and accounts from those closest to him offer a portrait of the captivating singer."
   },
   {
     "title": "Dune (1984) @ The Desert of Maine",
@@ -2004,13 +1924,6 @@
     "showtimes": [
       {
         "date": "2025-07-28",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-28",
         "time": "4:00p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -2078,6 +1991,20 @@
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "4:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-07-31",
+        "time": "6:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
       }
     ],
     "film_urls": {
@@ -2089,13 +2016,6 @@
   {
     "title": "Jurassic World Rebirth",
     "showtimes": [
-      {
-        "date": "2025-07-28",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-28",
         "time": "3:40p",
@@ -2176,13 +2096,6 @@
   {
     "title": "Elio",
     "showtimes": [
-      {
-        "date": "2025-07-28",
-        "time": "1:25p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-28",
         "time": "3:30p",
@@ -2290,20 +2203,6 @@
       {
         "date": "2025-07-31",
         "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-31",
-        "time": "4:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-31",
-        "time": "6:20p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
@@ -2463,13 +2362,6 @@
     "title": "SHOSHANA",
     "showtimes": [
       {
-        "date": "2025-07-27",
-        "time": "13:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-07-30",
         "time": "18:45",
         "venue": "Colonial Theatre",
@@ -2486,13 +2378,6 @@
       {
         "date": "2025-07-30",
         "time": "13:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-27",
-        "time": "18:45",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -2572,27 +2457,6 @@
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
-      },
-      {
-        "date": "2025-07-27",
-        "time": "13:15",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-27",
-        "time": "15:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-07-27",
-        "time": "18:15",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
       }
     ],
     "film_urls": {
@@ -2604,13 +2468,6 @@
   {
     "title": "THE FRIEND",
     "showtimes": [
-      {
-        "date": "2025-07-27",
-        "time": "16:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
       {
         "date": "2025-07-30",
         "time": "16:00",

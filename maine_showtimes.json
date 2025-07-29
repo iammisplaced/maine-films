@@ -42,13 +42,6 @@
     "showtimes": [
       {
         "date": "2025-07-29",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
         "time": "15:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -269,110 +262,6 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
-      },
-      {
-        "date": "2025-07-29",
-        "time": "15:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-29",
-        "time": "17:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-29",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-30",
-        "time": "15:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-30",
-        "time": "17:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-30",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-31",
-        "time": "15:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-31",
-        "time": "17:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-31",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-01",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-02",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-04",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -387,13 +276,6 @@
     "showtimes": [
       {
         "date": "2025-07-29",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
         "time": "16:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -636,38 +518,10 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "11:15a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-29",
         "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "10:45a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "2:00p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
@@ -940,13 +794,6 @@
     "showtimes": [
       {
         "date": "2025-07-29",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
         "time": "17:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1076,13 +923,6 @@
     "showtimes": [
       {
         "date": "2025-07-29",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
         "time": "16:30",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1180,140 +1020,32 @@
         "city": "Portland"
       },
       {
-        "date": null,
-        "time": null,
+        "date": "2025-08-01",
+        "time": "19:00",
         "venue": "Eveningstar Cinema",
         "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      },
-      {
-        "date": "2025-07-29",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-29",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-30",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-30",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-31",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-31",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-01",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-01",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
+        "city": "Brunswick"
       },
       {
         "date": "2025-08-02",
-        "time": "13:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-02",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-02",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
       },
       {
         "date": "2025-08-03",
-        "time": "13:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
       },
       {
-        "date": "2025-08-03",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-04",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-04",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
+        "date": "2025-08-07",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
       },
       {
         "date": "2025-07-29",
@@ -1457,13 +1189,6 @@
     "showtimes": [
       {
         "date": "2025-07-29",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
         "time": "16:20",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1510,20 +1235,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "11:10a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "1:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-29",
@@ -1615,13 +1326,6 @@
     "showtimes": [
       {
         "date": "2025-07-29",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
         "time": "15:40",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1864,20 +1568,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "10:50a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-29",
@@ -2942,190 +2632,6 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
-      },
-      {
-        "date": "2025-07-29",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-29",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-29",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-30",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-30",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-30",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-31",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-31",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-07-31",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-01",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-01",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-01",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-02",
-        "time": "12:30",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-02",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-02",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-02",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "12:30",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-04",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-04",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-04",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -3453,6 +2959,41 @@
     "showtimes": [
       {
         "date": "2025-07-31",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-01",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-01",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-02",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-03",
+        "time": "16:15",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-07",
         "time": "16:15",
         "venue": "Eveningstar Cinema",
         "venue_id": "X020R",
@@ -3848,6 +3389,23 @@
     "description": "When an actor finds love with his co-star in a dating app commercial that unexpectedly goes viral, he finds himself at the center of the rom-com story he's always dreamed of."
   },
   {
+    "title": "Tending the Tides",
+    "showtimes": [
+      {
+        "date": "2025-09-18",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/688396134d1a0650bf923be6"
+    },
+    "poster": "",
+    "description": ""
+  },
+  {
     "title": "Dark the Night and Bright the Stars",
     "showtimes": [],
     "film_urls": {},
@@ -3924,6 +3482,49 @@
     "description": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them."
   },
   {
+    "title": "Fireflies: Wolfwalkers",
+    "showtimes": [],
+    "film_urls": {},
+    "poster": "",
+    "description": ""
+  },
+  {
+    "title": "Honey Don\u2019t!",
+    "showtimes": [
+      {
+        "date": "2025-08-22",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/honey-dont/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/sYdIRJZ41BE2XRdoD5SmutbcEeW.jpg",
+    "description": "Honey O'Donahue, a small-town private investigator, delves into a series of strange deaths tied to a mysterious church."
+  },
+  {
+    "title": "Relay",
+    "showtimes": [
+      {
+        "date": "2025-08-22",
+        "time": null,
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": true
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/relay/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+    "description": "Tom, a world class \"fixer\", specializes in brokering lucrative payoffs between corrupt corporations and the individuals who threaten their ruin. He keeps his identity a secret through meticulous planning and always follows an exacting set of rules. But when a message arrives one day from potential client Sarah, needing Tom's protection just to stay alive, the rules quickly start to change."
+  },
+  {
     "title": "Downton Abbey: The Grand Finale",
     "showtimes": [
       {
@@ -3940,6 +3541,13 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/bux6avxSvsO3IJuKag4gwdTQMG4.jpg",
     "description": "When Mary finds herself at the center of a public scandal and the family faces financial trouble, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future."
+  },
+  {
+    "title": "Fireflies: Babe",
+    "showtimes": [],
+    "film_urls": {},
+    "poster": "",
+    "description": ""
   },
   {
     "title": "National Theatre Live: Inter Alia",
@@ -4386,20 +3994,6 @@
     "showtimes": [
       {
         "date": "2025-07-29",
-        "time": "11:00a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-29",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-29",
         "time": "4:20p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -4534,13 +4128,6 @@
   {
     "title": "Jurassic World Rebirth",
     "showtimes": [
-      {
-        "date": "2025-07-29",
-        "time": "10:55a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-29",
         "time": "3:40p",
@@ -4691,13 +4278,6 @@
   {
     "title": "Elio",
     "showtimes": [
-      {
-        "date": "2025-07-29",
-        "time": "11:05a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-29",
         "time": "4:00p",

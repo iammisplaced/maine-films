@@ -424,13 +424,6 @@
     "showtimes": [
       {
         "date": "2025-07-31",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-31",
         "time": "16:30",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -617,13 +610,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-31",
-        "time": "1:25p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-31",
@@ -1004,13 +990,6 @@
     "showtimes": [
       {
         "date": "2025-07-31",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-31",
         "time": "16:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1201,20 +1180,6 @@
       {
         "date": "2025-07-31",
         "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-31",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-31",
-        "time": "2:00p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
@@ -1431,13 +1396,6 @@
     "showtimes": [
       {
         "date": "2025-07-31",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-31",
         "time": "17:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1537,13 +1495,6 @@
   {
     "title": "Eddington",
     "showtimes": [
-      {
-        "date": "2025-07-31",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
       {
         "date": "2025-07-31",
         "time": "16:30",
@@ -1769,13 +1720,6 @@
     "title": "I Know What You Did Last Summer",
     "showtimes": [
       {
-        "date": "2025-07-31",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-08-01",
         "time": "7:20p",
         "venue": "Black Bear Cinemas",
@@ -1833,7 +1777,6 @@
       }
     ],
     "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/i-know-what-you-did-last-summer",
       "blackbear": "https://www.blackbearcinemas.com/movie/i-know-what-you-did-last-summer"
     },
     "poster": "https://image.tmdb.org/t/p/w500/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg",
@@ -1844,13 +1787,6 @@
     "showtimes": [
       {
         "date": "2025-07-31",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-07-31",
         "time": "15:40",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -2037,13 +1973,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-07-31",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-07-31",
@@ -2871,6 +2800,186 @@
     "description": "The world\u2019s #1 cat video festival, CatVideoFest is back!"
   },
   {
+    "title": "Don't Let's Go to the Dogs Tonight",
+    "showtimes": [
+      {
+        "date": "2025-08-15",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-17",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-17",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-19",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-20",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-21",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/688b70a0e4de35158288f704"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/5V59yYkVfqrhMIcKGdJZRxqWb3H.jpg",
+    "description": "Growing up in the midst of the Zimbabwean War for independence, 8-year-old Bobo internalizes both sides of the struggle. Conflicted by her love for people on opposing sides, she tries to make sense of her life in a magical way."
+  },
+  {
+    "title": "In the Mood for Love",
+    "showtimes": [
+      {
+        "date": "2025-08-16",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-17",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-19",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-21",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/688b715a5ff0bd4a01d68b47"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
+    "description": "In 1962 Hong Kong, neighbors Su Li-zhen (Mrs. Chan) and Chow Mo-wan (Mr. Chow) discover their spouses are having an affair. As they spend time together, they develop feelings for each other, but their relationship remains chaste and unspoken, reflecting societal constraints and their own moral compass."
+  },
+  {
+    "title": "Folktales",
+    "showtimes": [
+      {
+        "date": "2025-08-22",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-23",
+        "time": "18:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-24",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-28",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/688b728ceb47c5e8e15b230e"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/n5iRDpkSf5rnP25GoAEdZOLPnyk.jpg",
+    "description": "On the precipice of adulthood, teenagers converge at a traditional folk high school in Arctic Norway. Dropped at the edge of the world, they must rely on only themselves, one another, and a loyal pack of sled dogs as they all grow in unexpected directions."
+  },
+  {
+    "title": "East of Wall",
+    "showtimes": [
+      {
+        "date": "2025-08-23",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-23",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-24",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-26",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-27",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-28",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/688b71fd6af1a51635ce1fe7"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/zYqA9LNn5WO3kxHZQGtyhlU9UVE.jpg",
+    "description": "After the death of her husband, Tabatha\u2014a young, tattooed, rebellious horse trainer\u2014wrestles with financial insecurity and unresolved grief while providing refuge for a group of wayward teenagers on her broken-down ranch in the Badlands."
+  },
+  {
     "title": "76 Days Adrift",
     "showtimes": [
       {
@@ -2999,6 +3108,86 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/xh7ysljRvXVs74sSm3Rhmji0Fw6.jpg",
     "description": "Steven Callahan gives a gripping first-hand account of his NYT bestselling novel \"Adrift: 76 Days Lost At Sea.\" On the eve of February 4, 1982, in the middle of the night there was a loud boom as a whale collided with Steven's boat. Within minutes, his small craft was flooded with a rush of water. He grabbed what he could, heaved his life raft into the ocean, and snatched his emergency kit. Without food or water, for an incredible 76 days the inflatable raft was his home as he drifted across the entire Atlantic Ocean. Forced to come to terms with his own shortcomings and limitations, Steven finds a strength he never knew he had. This official documentary, executive produced by Callahan, brings the story to life with found 8MM footage, original stills of the time of the voyage, and first-person recreation. Still possessing many of the original artifacts, he takes us step-by-step through his harrowing and life-altering adventure."
+  },
+  {
+    "title": "Jaws: 50th Anniversary",
+    "showtimes": [
+      {
+        "date": "2025-08-29",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-30",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-30",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-31",
+        "time": "00:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-31",
+        "time": "19:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-31",
+        "time": "21:30",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-09-02",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-09-02",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-09-03",
+        "time": "23:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-09-04",
+        "time": "17:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/688b6f0deb47c5e8e15a62ce"
+    },
+    "poster": "",
+    "description": ""
   },
   {
     "title": "Meet Cute in Manhattan",
@@ -3314,24 +3503,6 @@
     "description": "An errant salaryman's son gets lost until a man from the Tokyo tenements brings him to vendor Tane, who's reluctant to let the kid board."
   },
   {
-    "title": "rififi",
-    "showtimes": [
-      {
-        "date": "",
-        "time": null,
-        "venue": "Kinonik",
-        "venue_id": "kinonik",
-        "city": "Portland",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "kinonik": "https://www.zeffy.com/ticketing/rififi"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/heVdAFNZUxXVmO6jiJcEHCvI5lK.jpg",
-    "description": "Out of prison after a five-year stretch, jewel thief Tony turns down a quick job his friend Jo offers him, until he discovers that his old girlfriend Mado has become the lover of local gangster Pierre Grutter during Tony's absence. Expanding a minor smash-and-grab into a full-scale jewel heist, Tony and his crew appear to get away clean, but their actions after the job is completed threaten the lives of everyone involved."
-  },
-  {
     "title": "ASHES AND DIAMONDS",
     "showtimes": [
       {
@@ -3640,13 +3811,6 @@
   {
     "title": "The Bad Guys 2",
     "showtimes": [
-      {
-        "date": "2025-07-31",
-        "time": "2:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-31",
         "time": "4:20p",
@@ -4012,13 +4176,6 @@
     "showtimes": [
       {
         "date": "2025-07-31",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-07-31",
         "time": "4:00p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -4146,13 +4303,6 @@
   {
     "title": "Jurassic World Rebirth",
     "showtimes": [
-      {
-        "date": "2025-07-31",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-07-31",
         "time": "3:40p",

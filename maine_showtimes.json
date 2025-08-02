@@ -494,6 +494,158 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "12:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -881,6 +1033,54 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
+      },
+      {
+        "date": "2025-08-02",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       },
       {
         "date": "2025-08-02",
@@ -1385,6 +1585,110 @@
       {
         "date": "2025-08-02",
         "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "18:50",
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
@@ -2337,14 +2641,6 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
-      },
-      {
-        "date": "2025-08-02",
-        "time": "12:45",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-08-02",

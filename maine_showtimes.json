@@ -772,6 +772,166 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "12:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "12:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -1288,6 +1448,54 @@
       },
       {
         "date": "2025-08-01",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
         "time": "17:05",
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
@@ -2133,6 +2341,118 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-02",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-03",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-04",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-05",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -2603,20 +2923,6 @@
     "title": "Mr. Blake, At Your Service!",
     "showtimes": [
       {
-        "date": "2025-08-01",
-        "time": "13:30",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-08-01",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
         "date": "2025-08-02",
         "time": "13:30",
         "venue": "Eveningstar Cinema",
@@ -2750,46 +3056,8 @@
     "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma."
   },
   {
-    "title": "The Ghost Trap",
-    "showtimes": [
-      {
-        "date": "2025-08-01",
-        "time": "17:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-08-02",
-        "time": "20:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "20:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      }
-    ],
-    "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/68504b75aafd3d07bdea9cc5"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/1FPUKh7NLfOttF1IfFgL8cvcEqe.jpg",
-    "description": "The story of Jamie Eugley, a young lobsterman struggling with the grinding responsibilities of a head-injured fianc\u00e9e and a mounting trap war with a rival lobstering family."
-  },
-  {
     "title": "Rockland: A Maritime Heritage",
     "showtimes": [
-      {
-        "date": "2025-08-01",
-        "time": "20:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
       {
         "date": "2025-08-02",
         "time": "17:00",
@@ -2810,6 +3078,30 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/24oKyaoN7E1eC2TM9qChyTfmxmc.jpg",
     "description": "The history of the city of Rockland from its settlement as part of Thomaston to the city it is today, tracing the ebbs and flows of its evolution through its ties to the sea."
+  },
+  {
+    "title": "The Ghost Trap",
+    "showtimes": [
+      {
+        "date": "2025-08-02",
+        "time": "20:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      },
+      {
+        "date": "2025-08-03",
+        "time": "20:00",
+        "venue": "Strand Theatre",
+        "venue_id": "strand",
+        "city": "Rockland"
+      }
+    ],
+    "film_urls": {
+      "strand": "https://strandfilms.eventive.org/films/68504b75aafd3d07bdea9cc5"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/1FPUKh7NLfOttF1IfFgL8cvcEqe.jpg",
+    "description": "The story of Jamie Eugley, a young lobsterman struggling with the grinding responsibilities of a head-injured fianc\u00e9e and a mounting trap war with a rival lobstering family."
   },
   {
     "title": "CatVideoFest 2025",
@@ -3063,22 +3355,6 @@
         "city": "Rockland"
       },
       {
-        "date": "2025-08-01",
-        "time": "14:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-01",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
         "date": "2025-08-02",
         "time": "12:45",
         "venue": "Maine Film Center",
@@ -3313,6 +3589,24 @@
     "description": ""
   },
   {
+    "title": "The Last Class",
+    "showtimes": [
+      {
+        "date": "2025-08-09",
+        "time": "13:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-last-class/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/xoX69VuEJ5H51dqC3nKQbiZNQd0.jpg",
+    "description": "American political economist, professor, author, and social media sensation Robert Reich teaches his final \"Wealth and Poverty\" class to 1,000 students at UC Berkeley, ending a 40-year career that reached 40,000 students. One thousand fill the biggest lecture hall on the UC Berkeley campus, the last class to receive Reich's wisdom and exhortations not to accept that the world has to stay the way it is. His belief in the next generation's ability to take on the fight is inspiring."
+  },
+  {
     "title": "It\u2019s Never Over, Jeff Buckley",
     "showtimes": [
       {
@@ -3380,13 +3674,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
     "description": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them."
-  },
-  {
-    "title": "The Last Class",
-    "showtimes": [],
-    "film_urls": {},
-    "poster": "https://image.tmdb.org/t/p/w500/xoX69VuEJ5H51dqC3nKQbiZNQd0.jpg",
-    "description": "American political economist, professor, author, and social media sensation Robert Reich teaches his final \"Wealth and Poverty\" class to 1,000 students at UC Berkeley, ending a 40-year career that reached 40,000 students. One thousand fill the biggest lecture hall on the UC Berkeley campus, the last class to receive Reich's wisdom and exhortations not to accept that the world has to stay the way it is. His belief in the next generation's ability to take on the fight is inspiring."
   },
   {
     "title": "Mamma Mia!",
@@ -3590,6 +3877,23 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/fmlYp4hlIu59QCnBZ3A1tQ7UCVD.jpg",
     "description": "An errant salaryman's son gets lost until a man from the Tokyo tenements brings him to vendor Tane, who's reluctant to let the kid board."
+  },
+  {
+    "title": "The Farmer and the Shark",
+    "showtimes": [
+      {
+        "date": "2025-09-10",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/the-farmer-and-the-shark/"
+    },
+    "poster": "",
+    "description": ""
   },
   {
     "title": "ASHES AND DIAMONDS",
@@ -4086,7 +4390,7 @@
     "film_urls": {
       "blackbear": "https://www.blackbearcinemas.com/movie/the-bad-guys-2"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/iPYgLLhQ69vIvgDtGFtAln4TYtM.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
     "description": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls."
   },
   {
@@ -4278,7 +4582,7 @@
     "film_urls": {
       "blackbear": "https://www.blackbearcinemas.com/movie/the-naked-gun"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/5Z9tkiIDZ6u49VUeY9Fm3PuSxKT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/aq0JMbmSfPwG8JvAzExJPrBHqmG.jpg",
     "description": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr."
   },
   {
@@ -4709,22 +5013,15 @@
     "title": "BRAND NEW: CAT VIDEO FEST",
     "showtimes": [
       {
-        "date": "2025-08-01",
-        "time": "16:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "16:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-08-06",
         "time": "13:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-06",
+        "time": "16:30",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -4744,7 +5041,7 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-08-01",
+        "date": "2025-08-03",
         "time": "13:45",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
@@ -4758,13 +5055,6 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-08-03",
-        "time": "16:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-08-02",
         "time": "16:30",
         "venue": "Colonial Theatre",
@@ -4773,7 +5063,7 @@
       },
       {
         "date": "2025-08-03",
-        "time": "13:45",
+        "time": "16:30",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -4868,6 +5158,13 @@
         "city": "Belfast"
       },
       {
+        "date": "2025-08-02",
+        "time": "13:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
         "date": "2025-08-07",
         "time": "18:30",
         "venue": "Colonial Theatre",
@@ -4875,6 +5172,13 @@
         "city": "Belfast"
       },
       {
+        "date": "2025-08-02",
+        "time": "15:45",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
         "date": "2025-08-07",
         "time": "15:45",
         "venue": "Colonial Theatre",
@@ -4882,34 +5186,6 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-08-02",
-        "time": "13:15",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-02",
-        "time": "15:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-01",
-        "time": "15:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-02",
-        "time": "18:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-08-03",
         "time": "13:15",
         "venue": "Colonial Theatre",
@@ -4931,15 +5207,8 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-08-01",
+        "date": "2025-08-02",
         "time": "18:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-01",
-        "time": "13:15",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -4969,13 +5238,6 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-08-01",
-        "time": "19:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-08-06",
         "time": "16:00",
         "venue": "Colonial Theatre",
@@ -5004,13 +5266,6 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-08-01",
-        "time": "16:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-08-03",
         "time": "13:30",
         "venue": "Colonial Theatre",
@@ -5033,6 +5288,13 @@
       },
       {
         "date": "2025-08-02",
+        "time": "19:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-02",
         "time": "13:30",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
@@ -5041,20 +5303,6 @@
       {
         "date": "2025-08-02",
         "time": "16:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-02",
-        "time": "19:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-01",
-        "time": "13:30",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"

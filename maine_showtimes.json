@@ -4,13 +4,6 @@
     "showtimes": [
       {
         "date": "2025-08-03",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
         "time": "15:50",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -141,13 +134,6 @@
     "showtimes": [
       {
         "date": "2025-08-03",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
         "time": "16:20",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -264,14 +250,6 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "12:30",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-08-03",
@@ -407,13 +385,6 @@
     "showtimes": [
       {
         "date": "2025-08-03",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
         "time": "16:30",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -516,20 +487,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "11:15a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "1:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-08-03",
@@ -756,13 +713,6 @@
     "showtimes": [
       {
         "date": "2025-08-03",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
         "time": "16:10",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -869,20 +819,6 @@
       {
         "date": "2025-08-03",
         "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "11:00a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "1:25p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
@@ -998,13 +934,6 @@
     "showtimes": [
       {
         "date": "2025-08-03",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
         "time": "16:50",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1106,14 +1035,6 @@
       },
       {
         "date": "2025-08-03",
-        "time": "13:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
         "time": "15:55",
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
@@ -1206,13 +1127,6 @@
     "showtimes": [
       {
         "date": "2025-08-03",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
         "time": "15:40",
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
@@ -1315,20 +1229,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "10:50a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-08-03",
@@ -1979,14 +1879,6 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "12:45",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-08-03",
@@ -2821,20 +2713,6 @@
     "showtimes": [
       {
         "date": "2025-08-03",
-        "time": "11:05a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
         "time": "3:40p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -2948,20 +2826,6 @@
   {
     "title": "The Naked Gun",
     "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "11:10a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-08-03",
         "time": "4:20p",
@@ -3117,20 +2981,6 @@
     "showtimes": [
       {
         "date": "2025-08-03",
-        "time": "10:55a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
         "time": "3:30p",
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
@@ -3195,20 +3045,6 @@
   {
     "title": "Jurassic World Rebirth",
     "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "10:45a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "1:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-08-04",
         "time": "1:10p",

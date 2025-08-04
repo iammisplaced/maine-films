@@ -3,27 +3,6 @@
     "title": "Shoshana",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "15:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-08-04",
         "time": "13:10",
         "venue": "Nickelodeon Cinemas",
@@ -113,13 +92,6 @@
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
       }
     ],
     "film_urls": {
@@ -132,27 +104,6 @@
   {
     "title": "Sorry, Baby",
     "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "16:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
       {
         "date": "2025-08-04",
         "time": "13:30",
@@ -250,30 +201,6 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-08-04",
@@ -384,27 +311,6 @@
     "title": "Together",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-08-04",
         "time": "13:20",
         "venue": "Nickelodeon Cinemas",
@@ -487,20 +393,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-08-04",
@@ -605,20 +497,6 @@
     "title": "Oh, Hi!",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "14:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-08-04",
         "time": "14:50",
         "venue": "Nickelodeon Cinemas",
@@ -659,14 +537,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-08-04",
@@ -712,27 +582,6 @@
     "title": "The Fantastic Four: First Steps",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-08-04",
         "time": "13:40",
         "venue": "Nickelodeon Cinemas",
@@ -815,20 +664,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-08-04",
@@ -933,13 +768,6 @@
     "title": "Bad Shabbos",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "16:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-08-04",
         "time": "13:00",
         "venue": "Nickelodeon Cinemas",
@@ -992,13 +820,6 @@
     "title": "Eddington",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "20:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-08-04",
         "time": "20:40",
         "venue": "Nickelodeon Cinemas",
@@ -1020,34 +841,11 @@
         "city": "Portland"
       },
       {
-        "date": "2025-08-03",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
         "date": "2025-08-07",
         "time": "19:00",
         "venue": "Eveningstar Cinema",
         "venue_id": "X020R",
         "city": "Brunswick"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-08-04",
@@ -1126,27 +924,6 @@
     "title": "Superman",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
         "date": "2025-08-04",
         "time": "13:00",
         "venue": "Nickelodeon Cinemas",
@@ -1229,20 +1006,6 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
       },
       {
         "date": "2025-08-04",
@@ -1428,12 +1191,21 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
+      },
+      {
+        "date": "2025-08-14",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
       "nickelodeon": "https://patriotcinemas.com/movie/the-grateful-dead-movie-2025-meet-up",
       "X020R": "https://www.eveningstarcinema.com/movies/1000006432-the-grateful-dead-movie-2025-meet-up/",
-      "strand": "https://strandfilms.eventive.org/films/684ab9e529f060d5b044af26"
+      "strand": "https://strandfilms.eventive.org/films/684ab9e529f060d5b044af26",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/the-grateful-dead-movie-2025-meet-up/"
     },
     "poster": "https://image.tmdb.org/t/p/w500/rpddAqHJXYGWfGWeYvi6EKIjLho.jpg",
     "description": "Grateful Dead celebrate their 60th Anniversary with a highly anticipated return to big screens for the annual theatrical event \u201cMeet-Up At The Movies\u201d in select territories worldwide on August 14. For a limited time only, this special cinematic event allows fans to come together and celebrate the enduring legacy of the Grateful Dead. THE GRATEFUL DEAD MOVIE follows the legendary band on what at the time was believed to be their final performances, a five-night run at San Francisco's Winterland Ballroom in October 1974, the final night billed as \u201cThe Last One.\u201d Featuring stellar live performances, mind-bending animation, interviews with band members and crew, the film has a rare focus on the band\u2019s fans and their deep commitment to the Dead Head lifestyle. Be sure to stay till the end for the exclusive theatrical premier of \u201cChina Cat Sunflower > I Know You Rider\u201d, a bonus live performance not included in the official release."
@@ -1441,13 +1213,6 @@
   {
     "title": "Mr. Blake, At Your Service!",
     "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "16:15",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
       {
         "date": "2025-08-07",
         "time": "16:15",
@@ -1461,23 +1226,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
     "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
-  },
-  {
-    "title": "Other Side",
-    "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "13:30",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/1000028259-other-side/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/vCr6EjPAeuxKKY9qr7rREkOOizQ.jpg",
-    "description": "Activist Lynda Bluestein contemplates how to legally end her life - her landmark lawsuit made Medical Aid in Dying in Vermont accessible to anyone in the United States. This is an intimate portrait of finding a way to die peacefully in the U.S."
   },
   {
     "title": "My Mother\u2019s Wedding",
@@ -1594,40 +1342,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/eMmZYH3i2mYElGmqa07mP6PTQvn.jpg",
     "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma."
-  },
-  {
-    "title": "Rockland: A Maritime Heritage",
-    "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "17:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      }
-    ],
-    "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/68504bd1ac428c331090f41a"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/24oKyaoN7E1eC2TM9qChyTfmxmc.jpg",
-    "description": "The history of the city of Rockland from its settlement as part of Thomaston to the city it is today, tracing the ebbs and flows of its evolution through its ties to the sea."
-  },
-  {
-    "title": "The Ghost Trap",
-    "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "20:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      }
-    ],
-    "film_urls": {
-      "strand": "https://strandfilms.eventive.org/films/68504b75aafd3d07bdea9cc5"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/1FPUKh7NLfOttF1IfFgL8cvcEqe.jpg",
-    "description": "The story of Jamie Eugley, a young lobsterman struggling with the grinding responsibilities of a head-injured fianc\u00e9e and a mounting trap war with a rival lobstering family."
   },
   {
     "title": "CatVideoFest 2025",
@@ -1879,22 +1593,6 @@
         "venue": "Strand Theatre",
         "venue_id": "strand",
         "city": "Rockland"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "14:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-03",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
       },
       {
         "date": "2025-08-04",
@@ -2260,7 +1958,7 @@
     "showtimes": [],
     "film_urls": {},
     "poster": "https://image.tmdb.org/t/p/w500/no0EaB8SUBcQQMcB3sZ6HbUmykZ.jpg",
-    "description": "Jessica Parks is smart, compassionate, a true maverick at the top of her career as an eminent London Crown Court Judge. At work she\u2019s changing and challenging the system one case at a time. But behind the robe, Jessica is a karaoke fiend, a loving wife and a supportive parent. While managing the impossible juggling act faced by every working mother, an event threatens to throw her life completely off balance. Can she hold her family upright?"
+    "description": "Jessica Parks is a smart Crown Court Judge at the top of her career. Behind the robe, she is a karaoke fiend, loving wife and a supportive parent. When an event threatens to throw her life completely off balance, can she hold her family upright?"
   },
   {
     "title": "2025 Sundance Film Festival Short Film Tour",
@@ -2681,20 +2379,6 @@
     "title": "Sunset Boulevard 75th Anniversary",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "4:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "7:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
         "date": "2025-08-04",
         "time": "7:00p",
         "venue": "Black Bear Cinemas",
@@ -2711,20 +2395,6 @@
   {
     "title": "The Bad Guys 2",
     "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-08-04",
         "time": "1:20p",
@@ -2827,20 +2497,6 @@
     "title": "The Naked Gun",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "4:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "6:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
         "date": "2025-08-04",
         "time": "1:35p",
         "venue": "Black Bear Cinemas",
@@ -2942,13 +2598,6 @@
     "title": "I Know What You Did Last Summer",
     "showtimes": [
       {
-        "date": "2025-08-03",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
         "date": "2025-08-04",
         "time": "7:20p",
         "venue": "Black Bear Cinemas",
@@ -2979,13 +2628,6 @@
   {
     "title": "Smurfs",
     "showtimes": [
-      {
-        "date": "2025-08-03",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
       {
         "date": "2025-08-04",
         "time": "1:15p",
@@ -3202,6 +2844,37 @@
     "description": ""
   },
   {
+    "title": "Nobody 2",
+    "showtimes": [
+      {
+        "date": "2025-08-14",
+        "time": "2:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-14",
+        "time": "4:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-14",
+        "time": "6:55p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/nobody-2"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+    "description": "Suburban dad Hutch Mansell, a former lethal assassin, is pulled back into his violent past after thwarting a home invasion, setting off a chain of events that unravels secrets about his wife Becca's past and his own."
+  },
+  {
     "title": "BRAND NEW: CAT VIDEO FEST",
     "showtimes": [
       {
@@ -3227,20 +2900,6 @@
       },
       {
         "date": "2025-08-06",
-        "time": "16:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "13:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
         "time": "16:30",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
@@ -3348,27 +3007,6 @@
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "18:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "15:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "13:15",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
       }
     ],
     "film_urls": {
@@ -3417,27 +3055,6 @@
       },
       {
         "date": "2025-08-07",
-        "time": "16:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "13:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
-        "time": "19:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-03",
         "time": "16:00",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",

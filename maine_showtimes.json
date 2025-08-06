@@ -206,6 +206,54 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -565,6 +613,22 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
+      },
+      {
+        "date": "2025-08-06",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       },
       {
         "date": "2025-08-06",
@@ -1061,6 +1125,78 @@
         "venue": "Eveningstar Cinema",
         "venue_id": "X020R",
         "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-06",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-06",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-08",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-09",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-10",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-11",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-12",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       },
       {
         "date": "2025-08-06",
@@ -1668,8 +1804,8 @@
     "film_urls": {
       "nickelodeon": "https://patriotcinemas.com/movie/strange-harvest"
     },
-    "poster": "",
-    "description": "Two strangers wake up in mysterious and slimy circumstances, unable to move, and with no memory of how they got there."
+    "poster": "https://image.tmdb.org/t/p/w500/85SixRYz9JFfH7spaPEez0SYhc5.jpg",
+    "description": "Detectives are thrust into a chilling hunt for \u201cMr. Shiny\u201d\u2014a sadistic serial killer from the past whose return marks the beginning of a new wave of grotesque, otherworldly crimes tied to a dark cosmic force."
   },
   {
     "title": "Weapons",

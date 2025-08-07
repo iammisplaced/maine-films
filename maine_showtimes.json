@@ -623,6 +623,30 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -925,6 +949,14 @@
         "venue": "Nickelodeon Cinemas",
         "venue_id": "nickelodeon",
         "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       },
       {
         "date": "2025-08-07",
@@ -3386,24 +3418,6 @@
     "description": "A man journeys by rail to a nameless sanatorium where his father has recently died. Once there, time loses its linearity and he finds himself in a world that appears both strange and strangely familiar."
   },
   {
-    "title": "ASHES AND DIAMONDS",
-    "showtimes": [
-      {
-        "date": "",
-        "time": null,
-        "venue": "Kinonik",
-        "venue_id": "kinonik",
-        "city": "Portland",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "kinonik": "https://www.zeffy.com/ticketing/ashes-and-diamonds"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/nE8aqRvVnRQEqskiarnFhdJdk8g.jpg",
-    "description": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales."
-  },
-  {
     "title": "THE TRIAL",
     "showtimes": [
       {
@@ -4547,7 +4561,7 @@
       "blackbear": "https://www.blackbearcinemas.com/movie/the-naked-gun",
       "colonial": "https://colonialtheatre.com"
     },
-    "poster": "https://image.tmdb.org/t/p/w500/5Z9tkiIDZ6u49VUeY9Fm3PuSxKT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg",
     "description": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr."
   },
   {

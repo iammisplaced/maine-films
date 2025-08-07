@@ -254,6 +254,30 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -632,6 +656,14 @@
       },
       {
         "date": "2025-08-06",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
         "time": "17:05",
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
@@ -1264,6 +1296,70 @@
       },
       {
         "date": "2025-08-12",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-08",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-09",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-10",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-11",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-12",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
         "time": "16:20",
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
@@ -2520,6 +2616,30 @@
     "description": "Grateful Dead celebrate their 60th Anniversary with a highly anticipated return to big screens for the annual theatrical event \u201cMeet-Up At The Movies\u201d in select territories worldwide on August 14. For a limited time only, this special cinematic event allows fans to come together and celebrate the enduring legacy of the Grateful Dead. THE GRATEFUL DEAD MOVIE follows the legendary band on what at the time was believed to be their final performances, a five-night run at San Francisco's Winterland Ballroom in October 1974, the final night billed as \u201cThe Last One.\u201d Featuring stellar live performances, mind-bending animation, interviews with band members and crew, the film has a rare focus on the band\u2019s fans and their deep commitment to the Dead Head lifestyle. Be sure to stay till the end for the exclusive theatrical premier of \u201cChina Cat Sunflower > I Know You Rider\u201d, a bonus live performance not included in the official release."
   },
   {
+    "title": "Woodstock 3 Days of Peace and Music (Director's Cut)",
+    "showtimes": [
+      {
+        "date": "2025-08-23",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-24",
+        "time": "13:30",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/263863-woodstock-3-days-of-peace-and-music-directors-cut/"
+    },
+    "poster": "",
+    "description": ""
+  },
+  {
     "title": "Mr. Blake, At Your Service!",
     "showtimes": [
       {
@@ -2615,24 +2735,6 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/RFQtinuiHhOnbmJaCn3uzegCYF.jpg",
     "description": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma."
-  },
-  {
-    "title": "Woodstock 3 Days of Peace and Music (Director's Cut)",
-    "showtimes": [
-      {
-        "date": null,
-        "time": null,
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick",
-        "coming_soon": true
-      }
-    ],
-    "film_urls": {
-      "X020R": "https://www.eveningstarcinema.com/movies/263863-woodstock-3-days-of-peace-and-music-directors-cut/"
-    },
-    "poster": "",
-    "description": ""
   },
   {
     "title": "Splitsville",
@@ -2940,22 +3042,6 @@
         "city": "Rockland"
       },
       {
-        "date": "2025-08-06",
-        "time": "14:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "19:00",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
         "date": "2025-08-07",
         "time": "14:55",
         "venue": "Maine Film Center",
@@ -3215,6 +3301,30 @@
         "venue_id": "mainefilmcenter",
         "city": "Waterville",
         "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
+        "time": "15:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
+        "time": "17:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
       }
     ],
     "film_urls": {
@@ -3347,6 +3457,30 @@
         "coming_soon": false
       },
       {
+        "date": "2025-08-13",
+        "time": "13:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
+        "time": "16:30",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
+        "time": "19:00",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
         "date": "2025-08-08",
         "time": "19:00",
         "venue": "SPACE Gallery",
@@ -3461,6 +3595,22 @@
       },
       {
         "date": "2025-08-12",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
+        "time": "14:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
         "time": "19:10",
         "venue": "Maine Film Center",
         "venue_id": "mainefilmcenter",
@@ -3610,23 +3760,6 @@
     "description": "The 2025 Sundance Film Festival Short Film Tour is a 100-minute theatrical program of seven short films curated from the 2025 Sundance Film Festival, including two Festival Award\u2013winning titles. The tour program is a sampling of Festival offerings and a testament to the unique storytelling potential that the format holds. Audiences can enjoy a mix of fiction, documentary, and animated shorts that are funny, sad, inspiring, and full of strong characters."
   },
   {
-    "title": "Monk In Pieces",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "19:00",
-        "venue": "SPACE Gallery",
-        "venue_id": "space",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "space": "https://space538.org/event/monk-in-pieces/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/tK3OYJLFUusWULAOlI8IEfuW8II.jpg",
-    "description": "Visionary composer and performer Meredith Monk overcame hostile critics to become one of the great artists of her time. In her seventh decade of creativity, she ponders how her unique work can continue without her."
-  },
-  {
     "title": "Boys Go To Jupiter",
     "showtimes": [
       {
@@ -3695,15 +3828,32 @@
     "description": ""
   },
   {
+    "title": "Sanatorium Under The Sign Of The Hourglass",
+    "showtimes": [
+      {
+        "date": "2025-09-08",
+        "time": "19:00",
+        "venue": "SPACE Gallery",
+        "venue_id": "space",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "space": "https://space538.org/event/sanatorium-under-the-sign-of-the-hourglass/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/7bM1qL0I3CzQSfPwDdDBix8sSF3.jpg",
+    "description": "A man journeys by rail to a nameless sanatorium where his father has recently died. Once there, time loses its linearity and he finds himself in a world that appears both strange and strangely familiar."
+  },
+  {
     "title": "ASHES AND DIAMONDS",
     "showtimes": [
       {
-        "date": "2025-08-06",
-        "time": "19:00",
+        "date": "",
+        "time": null,
         "venue": "Kinonik",
         "venue_id": "kinonik",
         "city": "Portland",
-        "coming_soon": false
+        "coming_soon": true
       }
     ],
     "film_urls": {

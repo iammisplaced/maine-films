@@ -1,1801 +1,5 @@
 [
   {
-    "title": "Shoshana",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "13:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "15:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "16:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/shoshana"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/o5fnmUDQ4lgpJynXQxJI8mWLsqw.jpg",
-    "description": "In this edge-of-your-seat thriller inspired by real events, a British police officer and a Jewish woman fall in love amidst the political turmoil of 1930s Tel Aviv. With British control over Palestine precarious and conflict inevitable, everyone is forced to choose a side."
-  },
-  {
-    "title": "Sorry, Baby",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "13:25",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "16:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "19:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "13:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "23:00",
-        "venue": "Strand Theatre",
-        "venue_id": "strand",
-        "city": "Rockland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "14:40",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "16:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "19:10",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/sorry-baby",
-      "strand": "https://strandfilms.eventive.org/films/687513b00829fe6c2b6bb629",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/sorry-baby/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
-    "description": "Something bad happened to Agnes. But life goes on\u2026 for everyone around her, at least."
-  },
-  {
-    "title": "Together",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "13:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "16:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "18:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "1:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "1:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "5:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "9:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "9:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/together",
-      "blackbear": "https://www.blackbearcinemas.com/movie/together"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/inliWt3ukcpKDGPpEe2lRDLwK2r.jpg",
-    "description": "With a move to the countryside already testing the limits of a couple's relationship, a supernatural encounter begins an extreme transformation of their love, their lives, and their flesh."
-  },
-  {
-    "title": "Oh, Hi!",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "14:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "18:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "14:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "17:05",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/oh-hi",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/oh-hi/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/XBC1Oi5pXmlmvE1n2KqaS1qm7B.jpg",
-    "description": "Iris has met her perfect guy, Isaac, and is enjoying their first romantic getaway together \u2014 what could go wrong?"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "13:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "16:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "18:45",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "21:10",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "4:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "1:25p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "4:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "1:25p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "1:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "9:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "10:45a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "1:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "9:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "10:45a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "1:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "1:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "10:45a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "1:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/the-fantastic-four-first-steps",
-      "blackbear": "https://www.blackbearcinemas.com/movie/the-fantastic-four-first-steps"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/z7wI0jpec9gz2IwVciND1nbRBy0.jpg",
-    "description": "Marvel's First Family has arrived! Join the cast, crew, and fans live from the blue carpet at the World Premiere of Marvel Studios' The Fantastic Four: First Steps."
-  },
-  {
-    "title": "Bad Shabbos",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "16:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "16:50",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/bad-shabbos"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/nty7gqq9Rd7ce0Uu8kSTavOmVcd.jpg",
-    "description": "An engaged interfaith couple are about to have their parents meet for the first time over a Shabbat dinner when an accidental manslaughter gets in the way."
-  },
-  {
-    "title": "Eddington",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "20:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "19:00",
-        "venue": "Eveningstar Cinema",
-        "venue_id": "X020R",
-        "city": "Brunswick"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-08",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-09",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-10",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-11",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-12",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-06",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-08",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-09",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-10",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-11",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-12",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "15:55",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-07",
-        "time": "18:50",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-08",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-09",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-10",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-11",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-12",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      },
-      {
-        "date": "2025-08-13",
-        "time": "16:20",
-        "venue": "Maine Film Center",
-        "venue_id": "mainefilmcenter",
-        "city": "Waterville",
-        "coming_soon": false
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/eddington",
-      "X020R": "https://www.eveningstarcinema.com/movies/317620-eddington/",
-      "mainefilmcenter": "https://www.watervillecreates.org/shows/eddington/"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
-    "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
-  },
-  {
-    "title": "Superman",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "13:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "15:40",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "18:20",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-13",
-        "time": "21:00",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "6:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "9:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "10:50a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "9:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "10:50a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "10:50a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "1:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "4:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/superman",
-      "blackbear": "https://www.blackbearcinemas.com/movie/superman"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
-    "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent."
-  },
-  {
-    "title": "Dog Day Afternoon",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "18:30",
-        "venue": "Nickelodeon Cinemas",
-        "venue_id": "nickelodeon",
-        "city": "Portland"
-      }
-    ],
-    "film_urls": {
-      "nickelodeon": "https://patriotcinemas.com/movie/dog-day-afternoon"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
-    "description": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus."
-  },
-  {
     "title": "Strange Harvest",
     "showtimes": [
       {
@@ -2262,6 +466,27 @@
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "1:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "4:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "7:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
       }
     ],
     "film_urls": {
@@ -2270,6 +495,1240 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
     "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance."
+  },
+  {
+    "title": "Shoshana",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "16:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/shoshana"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/o5fnmUDQ4lgpJynXQxJI8mWLsqw.jpg",
+    "description": "In this edge-of-your-seat thriller inspired by real events, a British police officer and a Jewish woman fall in love amidst the political turmoil of 1930s Tel Aviv. With British control over Palestine precarious and conflict inevitable, everyone is forced to choose a side."
+  },
+  {
+    "title": "Sorry, Baby",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "13:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "19:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "13:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "18:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "13:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "18:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "13:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "18:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "13:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "13:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "18:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "13:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "14:40",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "19:10",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/sorry-baby",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/sorry-baby/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
+    "description": "Something bad happened to Agnes. But life goes on\u2026 for everyone around her, at least."
+  },
+  {
+    "title": "Together",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "13:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "18:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "13:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "16:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "18:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "13:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "16:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "18:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "13:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "16:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "18:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "13:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "16:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "18:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "13:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "16:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "18:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "13:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "16:30",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "18:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "1:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "5:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "7:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "7:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "9:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "7:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "9:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "7:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "7:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "7:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "7:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/together",
+      "blackbear": "https://www.blackbearcinemas.com/movie/together"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/inliWt3ukcpKDGPpEe2lRDLwK2r.jpg",
+    "description": "With a move to the countryside already testing the limits of a couple's relationship, a supernatural encounter begins an extreme transformation of their love, their lives, and their flesh."
+  },
+  {
+    "title": "Oh, Hi!",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "14:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "17:05",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/oh-hi",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/oh-hi/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/XBC1Oi5pXmlmvE1n2KqaS1qm7B.jpg",
+    "description": "Iris has met her perfect guy, Isaac, and is enjoying their first romantic getaway together \u2014 what could go wrong?"
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "13:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "18:45",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "13:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "16:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "18:45",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "13:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "16:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "18:45",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "13:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "16:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "18:45",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "13:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "16:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "18:45",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "13:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "16:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "18:45",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "13:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "16:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "18:45",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "21:10",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "4:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "1:25p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "6:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "1:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "3:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "6:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "9:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "10:45a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "1:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "3:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "6:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "9:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "10:45a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "1:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "3:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "6:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "1:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "3:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "6:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "10:45a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "1:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "3:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "6:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "1:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "3:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "6:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/the-fantastic-four-first-steps",
+      "blackbear": "https://www.blackbearcinemas.com/movie/the-fantastic-four-first-steps"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/z7wI0jpec9gz2IwVciND1nbRBy0.jpg",
+    "description": "Marvel's First Family has arrived! Join the cast, crew, and fans live from the blue carpet at the World Premiere of Marvel Studios' The Fantastic Four: First Steps."
+  },
+  {
+    "title": "Bad Shabbos",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "13:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:50",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/bad-shabbos"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/nty7gqq9Rd7ce0Uu8kSTavOmVcd.jpg",
+    "description": "An engaged interfaith couple are about to have their parents meet for the first time over a Shabbat dinner when an accidental manslaughter gets in the way."
+  },
+  {
+    "title": "Superman",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "13:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "15:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "18:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "21:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "13:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "15:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "18:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "21:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "13:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "15:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "18:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "21:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "13:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "15:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "18:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "21:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "13:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "15:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "18:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "21:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "13:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "15:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "18:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "21:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "13:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "15:40",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "18:20",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "21:00",
+        "venue": "Nickelodeon Cinemas",
+        "venue_id": "nickelodeon",
+        "city": "Portland"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "1:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "4:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "6:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "1:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "4:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "6:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "9:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "10:50a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "1:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "4:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "6:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "9:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "10:50a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "1:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "4:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "1:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "4:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "10:50a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "1:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "4:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "6:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "1:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "4:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "6:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "nickelodeon": "https://patriotcinemas.com/movie/superman",
+      "blackbear": "https://www.blackbearcinemas.com/movie/superman"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
+    "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent."
   },
   {
     "title": "My Mother's Wedding",
@@ -2655,6 +2114,88 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
     "description": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned."
+  },
+  {
+    "title": "Eddington",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "19:00",
+        "venue": "Eveningstar Cinema",
+        "venue_id": "X020R",
+        "city": "Brunswick"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "15:55",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-07",
+        "time": "18:50",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-08",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-09",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-10",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-11",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-12",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      },
+      {
+        "date": "2025-08-13",
+        "time": "16:20",
+        "venue": "Maine Film Center",
+        "venue_id": "mainefilmcenter",
+        "city": "Waterville",
+        "coming_soon": false
+      }
+    ],
+    "film_urls": {
+      "X020R": "https://www.eveningstarcinema.com/movies/317620-eddington/",
+      "mainefilmcenter": "https://www.watervillecreates.org/shows/eddington/"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
+    "description": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico."
   },
   {
     "title": "In the Bedroom",
@@ -4151,553 +3692,6 @@
     "description": "When scientists exploring the Amazon River stumble on a \u201cmissing link\u201d connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fianc\u00e9e, Kay."
   },
   {
-    "title": "The Bad Guys 2",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "6:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "8:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "11:10a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "8:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "11:10a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "11:10a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "1:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "6:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "blackbear": "https://www.blackbearcinemas.com/movie/the-bad-guys-2"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
-    "description": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls."
-  },
-  {
-    "title": "The Naked Gun",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "4:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "7:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "7:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "9:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "11:15a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "9:00p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "11:15a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "11:15a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "3:40p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "7:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "blackbear": "https://www.blackbearcinemas.com/movie/the-naked-gun"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/5Z9tkiIDZ6u49VUeY9Fm3PuSxKT.jpg",
-    "description": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr."
-  },
-  {
-    "title": "I Know What You Did Last Summer",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "7:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "blackbear": "https://www.blackbearcinemas.com/movie/i-know-what-you-did-last-summer"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg",
-    "description": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer\u2026and is hell-bent on revenge."
-  },
-  {
-    "title": "Smurfs",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "1:15p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "3:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "blackbear": "https://www.blackbearcinemas.com/movie/smurfs"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg",
-    "description": "When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. With the help of new friends, the Smurfs must discover what defines their destiny to save the universe."
-  },
-  {
-    "title": "Jurassic World Rebirth",
-    "showtimes": [
-      {
-        "date": "2025-08-06",
-        "time": "1:10p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "3:50p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "6:20p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-08",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "10:55a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "10:55a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-11",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "10:55a",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "1:35p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      },
-      {
-        "date": "2025-08-12",
-        "time": "4:30p",
-        "venue": "Black Bear Cinemas",
-        "venue_id": "blackbear",
-        "city": "Orono"
-      }
-    ],
-    "film_urls": {
-      "blackbear": "https://www.blackbearcinemas.com/movie/jurassic-world-rebirth"
-    },
-    "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
-    "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades."
-  },
-  {
     "title": "Freakier Friday",
     "showtimes": [
       {
@@ -4860,6 +3854,27 @@
         "venue": "Black Bear Cinemas",
         "venue_id": "blackbear",
         "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "1:25p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "4:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "6:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
       }
     ],
     "film_urls": {
@@ -4867,6 +3882,505 @@
     },
     "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
     "description": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice."
+  },
+  {
+    "title": "The Bad Guys 2",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "1:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "3:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "6:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "1:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "3:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "6:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "8:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "11:10a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "1:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "3:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "6:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "8:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "11:10a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "1:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "3:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "6:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "1:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "3:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "6:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "11:10a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "1:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "3:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "6:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "1:20p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "3:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "6:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/the-bad-guys-2"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
+    "description": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls."
+  },
+  {
+    "title": "The Naked Gun",
+    "showtimes": [
+      {
+        "date": "2025-08-07",
+        "time": "1:35p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "3:50p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "7:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "1:15p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "3:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "7:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "9:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "11:15a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "1:15p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "3:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "7:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "9:00p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "11:15a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "1:15p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "3:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "7:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "1:15p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "3:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "7:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "11:15a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "1:15p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "3:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "7:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "1:15p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "3:40p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "7:10p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/the-naked-gun"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/5Z9tkiIDZ6u49VUeY9Fm3PuSxKT.jpg",
+    "description": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr."
+  },
+  {
+    "title": "Jurassic World Rebirth",
+    "showtimes": [
+      {
+        "date": "2025-08-08",
+        "time": "1:35p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "4:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "10:55a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "1:35p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-09",
+        "time": "4:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "10:55a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "1:35p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-10",
+        "time": "4:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "1:35p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-11",
+        "time": "4:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "10:55a",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "1:35p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-12",
+        "time": "4:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "1:35p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "4:30p",
+        "venue": "Black Bear Cinemas",
+        "venue_id": "blackbear",
+        "city": "Orono"
+      }
+    ],
+    "film_urls": {
+      "blackbear": "https://www.blackbearcinemas.com/movie/jurassic-world-rebirth"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+    "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades."
   },
   {
     "title": "Grave of the Fireflies - Studio Ghibli Fest 2025",
@@ -4896,50 +4410,43 @@
     "title": "NAKED GUN",
     "showtimes": [
       {
-        "date": "2025-08-07",
-        "time": "13:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "19:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-07",
-        "time": "16:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "19:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "13:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "16:00",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-08",
+        "date": "2025-08-13",
         "time": "13:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "19:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "15:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "19:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "13:30",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-07",
+        "time": "16:00",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -4988,6 +4495,20 @@
       },
       {
         "date": "2025-08-09",
+        "time": "17:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-08",
+        "time": "13:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-13",
         "time": "17:00",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
@@ -5033,13 +4554,6 @@
     "title": "FINAL: SHOSHANA",
     "showtimes": [
       {
-        "date": "2025-08-06",
-        "time": "18:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-08-07",
         "time": "18:45",
         "venue": "Colonial Theatre",
@@ -5078,27 +4592,6 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-08-06",
-        "time": "18:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "15:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "13:15",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-08-08",
         "time": "15:45",
         "venue": "Colonial Theatre",
@@ -5115,48 +4608,6 @@
       {
         "date": "2025-08-08",
         "time": "18:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "15:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "18:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-09",
-        "time": "13:15",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "15:45",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "18:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-10",
-        "time": "13:15",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -5189,6 +4640,13 @@
     "title": "BAD GUYS 2",
     "showtimes": [
       {
+        "date": "2025-08-13",
+        "time": "16:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
         "date": "2025-08-08",
         "time": "18:15",
         "venue": "Colonial Theatre",
@@ -5219,6 +4677,20 @@
       {
         "date": "2025-08-09",
         "time": "16:00",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "18:15",
+        "venue": "Colonial Theatre",
+        "venue_id": "colonial",
+        "city": "Belfast"
+      },
+      {
+        "date": "2025-08-13",
+        "time": "13:45",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
@@ -5270,22 +4742,8 @@
         "city": "Belfast"
       },
       {
-        "date": "2025-08-06",
-        "time": "16:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
         "date": "2025-08-07",
         "time": "16:30",
-        "venue": "Colonial Theatre",
-        "venue_id": "colonial",
-        "city": "Belfast"
-      },
-      {
-        "date": "2025-08-06",
-        "time": "13:45",
         "venue": "Colonial Theatre",
         "venue_id": "colonial",
         "city": "Belfast"
